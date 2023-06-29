@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-EAESFieldLabVR.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\Download\EAES-Field-Lab-VR-Reworked\EAESFieldLabVR\Intermediate\Build\Win64\EAESFieldLabVREditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"F:\Download\EAES-Field-Lab-VR-Reworked\EAESFieldLabVR\Intermediate\Build\Win64\UnrealEditor\Development\EAESFieldLabVR\EAESFieldLabVR.init.gen.cpp.obj"
+"F:\Download\EAES-Field-Lab-VR-Reworked\EAESFieldLabVR\Intermediate\Build\Win64\UnrealEditor\Development\EAESFieldLabVR\ExportTXT.gen.cpp.obj"
+"F:\Download\EAES-Field-Lab-VR-Reworked\EAESFieldLabVR\Intermediate\Build\Win64\UnrealEditor\Development\EAESFieldLabVR\EAESFieldLabVR.cpp.obj"
+"F:\Download\EAES-Field-Lab-VR-Reworked\EAESFieldLabVR\Intermediate\Build\Win64\UnrealEditor\Development\EAESFieldLabVR\ExportTXT.cpp.obj"
+"F:\Download\EAES-Field-Lab-VR-Reworked\EAESFieldLabVR\Intermediate\Build\Win64\UnrealEditor\Development\EAESFieldLabVR\Default.rc2.res"
+/OUT:"F:\Download\EAES-Field-Lab-VR-Reworked\EAESFieldLabVR\Intermediate\Build\Win64\UnrealEditor\Development\EAESFieldLabVR\UnrealEditor-EAESFieldLabVR.lib"

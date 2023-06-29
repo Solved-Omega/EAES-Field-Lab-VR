@@ -1,0 +1,20 @@
+Log started at 05/31/2023 17:34:08 (2023-06-01T00:34:08Z)
+Adding event matcher: CompileEventMatcher
+Adding event matcher: LinkEventMatcher
+Adding event matcher: MicrosoftEventMatcher
+Adding event matcher: XoreaxEventMatcher
+No config file at C:\Users\macap\OneDrive\Documents\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+Configuration will be read from:
+  C:\Users\macap\AppData\Roaming\Unreal Engine\UnrealBuildTool\BuildConfiguration.xml
+Log file: F:\Download\EAES-Field-Lab-VR-Reworked\EAESFieldLabVR\Saved\Logs\UnrealVersionSelector-2023.05.31-17.34.08.log
+
+A conflicting instance of UnrealBuildTool is already running.
+BuildException: A conflicting instance of UnrealBuildTool is already running.
+   at UnrealBuildTool.SingleInstanceMutex..ctor(String MutexName, Boolean bWaitMutex) in D:\build\++UE5\Sync\Engine\Saved\CsTools\Engine\Source\Programs\UnrealBuildTool\System\SingleInstanceMutex.cs:line 51
+   at UnrealBuildTool.UnrealBuildTool.Main(String[] ArgumentsArray) in D:\build\++UE5\Sync\Engine\Saved\CsTools\Engine\Source\Programs\UnrealBuildTool\UnrealBuildTool.cs:line 619
+WriteFileIfChanged() wrote 0 changed files of 0 requested writes.
+Timeline:
+
+[ 0.000]
+[ 0.000](+0.141) <unknown>
+[ 0.141]
