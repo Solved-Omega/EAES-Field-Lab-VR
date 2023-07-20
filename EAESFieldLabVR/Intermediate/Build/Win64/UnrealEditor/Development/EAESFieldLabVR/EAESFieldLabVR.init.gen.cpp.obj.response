@@ -1,4 +1,4 @@
-C:\Users\cmptd\Documents\GitHub\EAES-Field-Lab-VR-Reworked\EAESFieldLabVR\Intermediate\Build\Win64\UnrealEditor\Inc\EAESFieldLabVR\UHT\EAESFieldLabVR.init.gen.cpp
+C:\Users\300339869\Desktop\EAES-Field-Lab-VR-Reworked\EAESFieldLabVR\Intermediate\Build\Win64\UnrealEditor\Inc\EAESFieldLabVR\UHT\EAESFieldLabVR.init.gen.cpp
 /I .
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT
 /I Runtime
@@ -269,23 +269,22 @@ C:\Users\cmptd\Documents\GitHub\EAES-Field-Lab-VR-Reworked\EAESFieldLabVR\Interm
 /I Runtime\MovieSceneCapture\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController\UHT
 /I Developer\AnimationDataController\Public
-/I C:\Users\cmptd\Documents\GitHub\EAES-Field-Lab-VR-Reworked\EAESFieldLabVR\Intermediate\Build\Win64\UnrealEditor\Inc\EAESFieldLabVR\UHT
-/I C:\Users\cmptd\Documents\GitHub\EAES-Field-Lab-VR-Reworked\EAESFieldLabVR\Source
-/external:W0
-/external:I ThirdParty\mimalloc\include
-/external:I ThirdParty\LibTiff\Source\Win64
-/external:I ThirdParty\LibTiff\Source
-/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
-/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-/FI"C:\Users\cmptd\Documents\GitHub\EAES-Field-Lab-VR-Reworked\EAESFieldLabVR\Intermediate\Build\Win64\EAESFieldLabVREditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/FI"C:\Users\cmptd\Documents\GitHub\EAES-Field-Lab-VR-Reworked\EAESFieldLabVR\Intermediate\Build\Win64\UnrealEditor\Development\EAESFieldLabVR\Definitions.EAESFieldLabVR.h"
-/Yu"C:\Users\cmptd\Documents\GitHub\EAES-Field-Lab-VR-Reworked\EAESFieldLabVR\Intermediate\Build\Win64\EAESFieldLabVREditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
-/Fp"C:\Users\cmptd\Documents\GitHub\EAES-Field-Lab-VR-Reworked\EAESFieldLabVR\Intermediate\Build\Win64\EAESFieldLabVREditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
-/Fo"C:\Users\cmptd\Documents\GitHub\EAES-Field-Lab-VR-Reworked\EAESFieldLabVR\Intermediate\Build\Win64\UnrealEditor\Development\EAESFieldLabVR\EAESFieldLabVR.init.gen.cpp.obj"
-/sourceDependencies C:\Users\cmptd\Documents\GitHub\EAES-Field-Lab-VR-Reworked\EAESFieldLabVR\Intermediate\Build\Win64\UnrealEditor\Development\EAESFieldLabVR\EAESFieldLabVR.init.gen.cpp.dep.json
+/I C:\Users\300339869\Desktop\EAES-Field-Lab-VR-Reworked\EAESFieldLabVR\Intermediate\Build\Win64\UnrealEditor\Inc\EAESFieldLabVR\UHT
+/I C:\Users\300339869\Desktop\EAES-Field-Lab-VR-Reworked\EAESFieldLabVR\Source
+/I ThirdParty\mimalloc\include
+/I ThirdParty\LibTiff\Source\Win64
+/I ThirdParty\LibTiff\Source
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
+/FI"C:\Users\300339869\Desktop\EAES-Field-Lab-VR-Reworked\EAESFieldLabVR\Intermediate\Build\Win64\EAESFieldLabVREditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/FI"C:\Users\300339869\Desktop\EAES-Field-Lab-VR-Reworked\EAESFieldLabVR\Intermediate\Build\Win64\UnrealEditor\Development\EAESFieldLabVR\Definitions.EAESFieldLabVR.h"
+/Yu"C:\Users\300339869\Desktop\EAES-Field-Lab-VR-Reworked\EAESFieldLabVR\Intermediate\Build\Win64\EAESFieldLabVREditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h"
+/Fp"C:\Users\300339869\Desktop\EAES-Field-Lab-VR-Reworked\EAESFieldLabVR\Intermediate\Build\Win64\EAESFieldLabVREditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.pch"
+/Fo"C:\Users\300339869\Desktop\EAES-Field-Lab-VR-Reworked\EAESFieldLabVR\Intermediate\Build\Win64\UnrealEditor\Development\EAESFieldLabVR\EAESFieldLabVR.init.gen.cpp.obj"
+/sourceDependencies C:\Users\300339869\Desktop\EAES-Field-Lab-VR-Reworked\EAESFieldLabVR\Intermediate\Build\Win64\UnrealEditor\Development\EAESFieldLabVR\EAESFieldLabVR.init.gen.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi
