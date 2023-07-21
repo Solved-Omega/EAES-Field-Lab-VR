@@ -2255,3 +2255,311 @@ Script Stack (0 frames) :
 [2023.07.21-18.23.54:493][791]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 1.49 sec)
 [2023.07.21-18.23.54:505][791]AssetCheck: New page: Asset Save: CustomRockModel
 [2023.07.21-18.23.54:505][791]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/CustomRockModel.CustomRockModel
+[2023.07.21-18.28.02:538][897]BlueprintLog: New page: Compile CustomRockModel
+[2023.07.21-18.28.02:656][897]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.07.21-18.28.02:717][897]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.21-18.28.02:786][897]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CustomRockModel" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Blueprints/CustomRockModel.uasset" SILENT=true
+[2023.07.21-18.28.02:806][897]LogSavePackage: Moving output files for package: /Game/Blueprints/CustomRockModel
+[2023.07.21-18.28.02:806][897]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/CustomRockModelA971359346ABBAB83B2CD8B76A42EE53.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Blueprints/CustomRockModel.uasset'
+[2023.07.21-18.28.02:813][897]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 1.59 sec)
+[2023.07.21-18.28.02:825][897]AssetCheck: New page: Asset Save: CustomRockModel
+[2023.07.21-18.28.02:825][897]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/CustomRockModel.CustomRockModel
+[2023.07.21-18.28.02:938][898]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/MainLevel.MainLevel:PersistentLevel.RecastNavMesh-Default).
+[2023.07.21-18.28.03:224][914]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.21-18.28.03:276][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CustomRockModel" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Blueprints/CustomRockModel.uasset" SILENT=true
+[2023.07.21-18.28.03:294][914]LogSavePackage: Moving output files for package: /Game/Blueprints/CustomRockModel
+[2023.07.21-18.28.03:295][914]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/CustomRockModelAEC6C7A74F423FCDB6EB23A84C5338BF.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Blueprints/CustomRockModel.uasset'
+[2023.07.21-18.28.03:302][914]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 1.67 sec)
+[2023.07.21-18.28.03:312][914]AssetCheck: New page: Asset Save: CustomRockModel
+[2023.07.21-18.28.03:312][914]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/CustomRockModel.CustomRockModel
+[2023.07.21-18.28.16:978][484]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/CustomModelBaseMaterial.CustomModelBaseMaterial
+[2023.07.21-18.28.16:981][484]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.21-18.28.17:129][484]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.21-18.28.17:129][484]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.21-18.28.17:129][484]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.21-18.28.17:129][484]MaterialEditorStats: Shader Count: 0
+[2023.07.21-18.28.17:139][484]LogViewport: Scene viewport resized to 565x449, mode Windowed.
+[2023.07.21-18.28.17:281][490]LogShaderCompilers: Display: ================================================
+[2023.07.21-18.28.17:281][490]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.21-18.28.17:281][490]LogShaderCompilers: Display: Total job queries 457, among them cache hits 157 (34.35%)
+[2023.07.21-18.28.17:282][490]LogShaderCompilers: Display: Tracking 296 distinct input hashes that result in 185 distinct outputs (62.50%)
+[2023.07.21-18.28.17:282][490]LogShaderCompilers: Display: RAM used: 2.80 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.17%
+[2023.07.21-18.28.17:282][490]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.21-18.28.17:282][490]LogShaderCompilers: Display: Shaders Compiled: 21
+[2023.07.21-18.28.17:282][490]LogShaderCompilers: Display: Jobs assigned 23, completed 21 (91.30%)
+[2023.07.21-18.28.17:282][490]LogShaderCompilers: Display: Average time worker was idle: 93.29 s
+[2023.07.21-18.28.17:282][490]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.10 s
+[2023.07.21-18.28.17:282][490]LogShaderCompilers: Display: Job execution time: average 1.52 s, max 3.97 s
+[2023.07.21-18.28.17:282][490]LogShaderCompilers: Display: Job life time (pending + execution): average 1.58 s, max 4.04
+[2023.07.21-18.28.17:282][490]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 16.36 s
+[2023.07.21-18.28.17:282][490]LogShaderCompilers: Display: Jobs were issued in 23 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.07.21-18.28.17:282][490]LogShaderCompilers: Display: Average processing rate: 1.28 jobs/sec
+[2023.07.21-18.28.17:282][490]LogShaderCompilers: Display: Total thread time: 27.44 s
+[2023.07.21-18.28.17:282][490]LogShaderCompilers: Display: Total thread preprocess time: 1.13 s
+[2023.07.21-18.28.17:282][490]LogShaderCompilers: Display: Percentage time preprocessing: 4.11%
+[2023.07.21-18.28.17:282][490]LogShaderCompilers: Display: Effective parallelization: 1.68 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.07.21-18.28.17:282][490]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.07.21-18.28.17:282][490]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 3.59 sec, max 3.70 sec, min 3.41 sec)
+[2023.07.21-18.28.17:282][490]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 1.00 sec, max 1.21 sec, min 0.74 sec)
+[2023.07.21-18.28.17:282][490]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    9 times, average 0.95 sec, max 1.08 sec, min 0.80 sec)
+[2023.07.21-18.28.17:282][490]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    1 times, average 0.57 sec, max 0.57 sec, min 0.57 sec)
+[2023.07.21-18.28.17:282][490]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2023.07.21-18.28.17:282][490]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.07.21-18.28.17:282][490]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 39.26% of total time (compiled    3 times, average 3.59 sec, max 3.70 sec, min 3.41 sec)
+[2023.07.21-18.28.17:282][490]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 31.18% of total time (compiled    9 times, average 0.95 sec, max 1.08 sec, min 0.80 sec)
+[2023.07.21-18.28.17:282][490]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.62% of total time (compiled    7 times, average 1.00 sec, max 1.21 sec, min 0.74 sec)
+[2023.07.21-18.28.17:282][490]LogShaderCompilers: Display:                                             FDebugViewModeVS - 2.08% of total time (compiled    1 times, average 0.57 sec, max 0.57 sec, min 0.57 sec)
+[2023.07.21-18.28.17:282][490]LogShaderCompilers: Display:                                             FDebugViewModePS - 1.86% of total time (compiled    1 times, average 0.51 sec, max 0.51 sec, min 0.51 sec)
+[2023.07.21-18.28.17:282][490]LogShaderCompilers: Display: ================================================
+[2023.07.21-18.28.18:385][543]MaterialEditorStats: Base pass shader without light map: 148 instructions
+[2023.07.21-18.28.18:385][543]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.07.21-18.28.18:385][543]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.21-18.28.18:385][543]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.21-18.28.18:385][543]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.21-18.28.18:385][543]MaterialEditorStats: Shader Count: 2
+[2023.07.21-18.28.42:761][692]LogMaterialEditor: Applying material CustomModelBaseMaterial
+[2023.07.21-18.28.43:532][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.07.21-18.28.44:693][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.07.21-18.28.44:703][692]MaterialEditorStats: Texture samplers: 1/16
+[2023.07.21-18.28.44:703][692]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.21-18.28.44:703][692]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.21-18.28.44:703][692]MaterialEditorStats: Shader Count: 2
+[2023.07.21-18.28.44:737][694]MaterialEditorStats: Base pass shader without light map: 148 instructions
+[2023.07.21-18.28.44:737][694]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.07.21-18.28.44:737][694]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.21-18.28.44:737][694]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.21-18.28.44:737][694]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.21-18.28.44:737][694]MaterialEditorStats: Shader Count: 4
+[2023.07.21-18.28.45:618][737]LogMaterialEditor: Saving and Compiling material CustomModelBaseMaterial
+[2023.07.21-18.28.45:620][737]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.21-18.28.45:685][737]LogSavePackage: Moving output files for package: /Game/Materials/CustomModelBaseMaterial
+[2023.07.21-18.28.45:685][737]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/CustomModelBaseMaterial42750CCA4FB26493A83D0CB3E3EA358D.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Materials/CustomModelBaseMaterial.uasset'
+[2023.07.21-18.28.45:692][737]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 1.74 sec)
+[2023.07.21-18.28.45:702][737]AssetCheck: New page: Asset Save: CustomModelBaseMaterial
+[2023.07.21-18.28.45:703][737]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/CustomModelBaseMaterial.CustomModelBaseMaterial
+[2023.07.21-18.29.11:229][ 51]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.21-18.29.11:229][ 51]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.21-18.29.11:229][ 51]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.21-18.29.11:229][ 51]MaterialEditorStats: Shader Count: 0
+[2023.07.21-18.29.11:301][ 54]MaterialEditorStats: Base pass shader without light map: 148 instructions
+[2023.07.21-18.29.11:301][ 54]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.07.21-18.29.11:301][ 54]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.21-18.29.11:301][ 54]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.21-18.29.11:301][ 54]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.21-18.29.11:301][ 54]MaterialEditorStats: Shader Count: 2
+[2023.07.21-18.29.27:208][776]MaterialEditorStats: Texture samplers: 0/16
+[2023.07.21-18.29.27:208][776]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.21-18.29.27:208][776]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.21-18.29.27:208][776]MaterialEditorStats: Shader Count: 0
+[2023.07.21-18.29.27:283][778]MaterialEditorStats: Base pass shader without light map: 148 instructions
+[2023.07.21-18.29.27:283][778]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.07.21-18.29.27:283][778]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.21-18.29.27:283][778]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.21-18.29.27:283][778]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.21-18.29.27:283][778]MaterialEditorStats: Shader Count: 2
+[2023.07.21-18.29.29:179][869]LogMaterialEditor: Applying material CustomModelBaseMaterial
+[2023.07.21-18.29.29:788][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.07.21-18.29.30:022][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.07.21-18.29.30:030][869]MaterialEditorStats: Texture samplers: 1/16
+[2023.07.21-18.29.30:030][869]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.21-18.29.30:030][869]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.21-18.29.30:030][869]MaterialEditorStats: Shader Count: 2
+[2023.07.21-18.29.30:177][877]MaterialEditorStats: Base pass shader without light map: 148 instructions
+[2023.07.21-18.29.30:177][877]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.07.21-18.29.30:177][877]MaterialEditorStats: Texture samplers: 2/16
+[2023.07.21-18.29.30:177][877]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.07.21-18.29.30:177][877]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.07.21-18.29.30:177][877]MaterialEditorStats: Shader Count: 4
+[2023.07.21-18.29.57:607][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.07.21-18.29.57:702][ 57]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/MainLevel_Auto1
+[2023.07.21-18.29.57:703][ 57]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/MainLevel_Auto12279C4A54F895D6A64E9408932A550AB.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/Autosaves/Game/Levels/MainLevel_Auto1.umap'
+[2023.07.21-18.29.57:714][ 57]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.181
+[2023.07.21-18.29.57:714][ 57]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.181
+[2023.07.21-18.29.57:714][ 57]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/CustomModelBaseMaterial] ([1] browsable assets)...
+[2023.07.21-18.29.57:756][ 57]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/CustomModelBaseMaterial.CustomModelBaseMaterial]
+[2023.07.21-18.29.57:756][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/CustomModelBaseMaterial]
+[2023.07.21-18.29.57:759][ 57]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Materials/CustomModelBaseMaterial_Auto1
+[2023.07.21-18.29.57:759][ 57]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/CustomModelBaseMaterial_Auto1BF691522419E8D7A713DDB97770432C6.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/Autosaves/Game/Materials/CustomModelBaseMaterial_Auto1.uasset'
+[2023.07.21-18.29.57:760][ 57]LogFileHelpers: Auto-saving content packages took 0.046
+[2023.07.21-18.30.19:898][450]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.07.21-18.30.19:911][450]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.07.21-18.30.19:912][450]LogPlayLevel: [PlayLevel] Compiling RML_CustomMesh before play...
+[2023.07.21-18.30.19:927][450]LogPlayLevel: [PlayLevel] Compiling MainLevel before play...
+[2023.07.21-18.30.19:995][450]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.21-18.30.20:127][450]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.07.21-18.30.20:228][450]LogSavePackage: Moving output files for package: /Game/Levels/MainLevel
+[2023.07.21-18.30.20:229][450]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/MainLevelECFBFB174B5B2051BD0042AB15DF62CD.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Levels/MainLevel.umap'
+[2023.07.21-18.30.20:250][450]LogFileHelpers: Saving map 'MainLevel' took 0.203
+[2023.07.21-18.30.20:255][450]LogFileHelpers: InternalPromptForCheckoutAndSave took 259 ms (total: 2.00 sec)
+[2023.07.21-18.30.20:330][450]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.07.21-18.30.20:330][450]LogPlayLevel: PlayLevel: Blueprint regeneration took 419 ms (2 blueprints)
+[2023.07.21-18.30.20:330][450]PIE: New page: PIE session: MainLevel (Jul. 21, 2023, 4:30:20 a.m.)
+[2023.07.21-18.30.20:331][450]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2023.07.21-18.30.20:354][450]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023846s)
+[2023.07.21-18.30.20:354][450]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.023875s)
+[2023.07.21-18.30.20:354][450]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.21-18.30.20:355][450]LogAIModule: Creating AISystem for world MainLevel
+[2023.07.21-18.30.20:356][450]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2023.07.21-18.30.20:430][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.07.21-18.30.20:431][450]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.07.21-18.30.20:431][450]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.21-18.30.20:431][450]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.21-18.30.20:431][450]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.21-18.30.20:431][450]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.21-18.30.20:431][450]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.21-18.30.20:431][450]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.21-18.30.20:431][450]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.21-18.30.20:431][450]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.21-18.30.20:432][450]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.07.21-18.30.20:432][450]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.07.21-18.30.20:432][450]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.21-18.30.20:434][450]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.21-18.30.20:443][450]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.07.21-18.30.20:444][450]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.21-18.30.20:444][450]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.21-18.30.20:444][450]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.21-18.30.20:444][450]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.07.21-18.30.20:444][450]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.07.21-18.30.20:446][450]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.07.21-18.30.20:446][450]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.07.21-18.30.20:446][450]LogInit: FAudioDevice initialized.
+[2023.07.21-18.30.20:446][450]LogAudio: Display: Audio Device (ID: 9) registered with world 'MainLevel'.
+[2023.07.21-18.30.20:470][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.21-18.30.20:660][450]LogLoad: Game class is 'VRGameMode_C'
+[2023.07.21-18.30.20:665][450]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.07.21-11.30.20
+[2023.07.21-18.30.20:665][450]LogWorld: Bringing up level for play took: 0.004730
+[2023.07.21-18.30.20:667][450]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2023.07.21-18.30.20:671][450]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.07.21-18.30.20:672][450]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.07.21-18.30.20:674][450]LogLinker: Warning: Failed to load '/Engine/Transient': Can't find file.
+[2023.07.21-18.30.20:675][450]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Map Data.sav' error.
+[2023.07.21-18.30.20:676][450]Cmd: vr.PixelDensity 1.0
+[2023.07.21-18.30.20:676][450]vr.PixelDensity = "1"
+[2023.07.21-18.30.20:679][450]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Player Data.sav' error.
+[2023.07.21-18.30.20:685][450]PIE: Server logged in
+[2023.07.21-18.30.20:689][450]PIE: Play in editor total start time 0.778 seconds.
+[2023.07.21-18.30.20:692][450]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Map Data.sav' error.
+[2023.07.21-18.30.20:698][450]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambient'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.07.21-18.30.20:707][450]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.07.21-18.30.20:712][450]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.07.21-18.30.20:727][450]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.07.21-18.30.20:798][451]AssetCheck: New page: Asset Save: MainLevel
+[2023.07.21-18.30.20:798][451]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/MainLevel.MainLevel
+[2023.07.21-18.30.29:423][876]LogTemp: mNumMeshes: 0, mNumChildren of Node: 4
+[2023.07.21-18.30.29:423][876]LogTemp: Loading Mesh at index: 0
+[2023.07.21-18.30.29:423][876]LogTemp: mNumFaces: 56
+[2023.07.21-18.30.29:423][876]LogTemp: mNumMeshes: 1, mNumChildren of Node: 0
+[2023.07.21-18.30.29:423][876]LogTemp: Loading Mesh at index: 1
+[2023.07.21-18.30.29:425][876]LogTemp: mNumFaces: 19720
+[2023.07.21-18.30.29:427][876]LogTemp: mNumMeshes: 1, mNumChildren of Node: 3
+[2023.07.21-18.30.29:427][876]LogTemp: Loading Mesh at index: 2
+[2023.07.21-18.30.29:427][876]LogTemp: mNumFaces: 1870
+[2023.07.21-18.30.29:427][876]LogTemp: mNumMeshes: 1, mNumChildren of Node: 0
+[2023.07.21-18.30.29:427][876]LogTemp: Loading Mesh at index: 3
+[2023.07.21-18.30.29:427][876]LogTemp: mNumFaces: 8
+[2023.07.21-18.30.29:427][876]LogTemp: mNumMeshes: 1, mNumChildren of Node: 0
+[2023.07.21-18.30.29:427][876]LogTemp: Loading Mesh at index: 4
+[2023.07.21-18.30.29:427][876]LogTemp: mNumFaces: 152
+[2023.07.21-18.30.29:427][876]LogTemp: mNumMeshes: 1, mNumChildren of Node: 0
+[2023.07.21-18.30.29:427][876]LogTemp: Loading Mesh at index: 5
+[2023.07.21-18.30.29:427][876]LogTemp: mNumFaces: 20
+[2023.07.21-18.30.29:427][876]LogTemp: mNumMeshes: 1, mNumChildren of Node: 0
+[2023.07.21-18.30.29:427][876]LogTemp: Loading Mesh at index: 6
+[2023.07.21-18.30.29:427][876]LogTemp: mNumFaces: 4
+[2023.07.21-18.30.29:427][876]LogTemp: mNumMeshes: 1, mNumChildren of Node: 0
+[2023.07.21-18.30.29:436][876]LogPhysics: Warning: Scale for /Game/Levels/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.CustomRockModel_C_1.NODE_AddProceduralMeshComponent-0_3 has a component set to zero, which will result in a bad body instance. Scale:X=0.003 Y=0.000 Z=0.003
+[2023.07.21-18.30.30:388][915]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.21-18.30.30:846][937]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.21-18.30.31:263][959]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.21-18.30.39:198][388]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.21-18.30.39:756][415]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.21-18.30.40:145][434]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.21-18.30.40:443][448]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.21-18.30.40:698][460]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.21-18.30.41:044][476]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.21-18.30.41:321][489]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.21-18.30.41:618][503]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.21-18.30.41:940][518]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.21-18.30.42:808][560]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.21-18.30.43:159][577]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.21-18.30.43:524][595]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.21-18.30.43:951][617]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.21-18.30.44:205][630]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.21-18.30.44:526][647]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.21-18.30.45:073][676]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.21-18.30.45:302][688]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.21-18.30.45:637][706]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.21-18.30.46:009][725]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.21-18.30.48:801][871]LogNet: Browse: /Game/Levels/MainMenuLevel
+[2023.07.21-18.30.48:802][871]LogLoad: LoadMap: /Game/Levels/MainMenuLevel
+[2023.07.21-18.30.48:802][871]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.07.21-18.30.48:804][871]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.07.21-18.30.48:805][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.21-18.30.48:932][871]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.21-18.30.48:939][871]LogSlate: Slate User Unregistered.  User Index 8
+[2023.07.21-18.30.48:939][871]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.07.21-18.30.48:942][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.07.21-18.30.48:965][871]LogAudio: Display: Audio Device (ID: 9) registered with world 'MainMenuLevel'.
+[2023.07.21-18.30.48:965][871]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.21-18.30.48:966][871]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.07.21-18.30.48:966][871]LogPlayLevel: PIE: World Init took: (0.000838s)
+[2023.07.21-18.30.48:966][871]LogLoad: Game class is 'VRGameMode_C'
+[2023.07.21-18.30.48:967][871]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2023.07.21-11.30.48
+[2023.07.21-18.30.48:967][871]LogWorld: Bringing up level for play took: 0.000659
+[2023.07.21-18.30.48:970][871]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.07.21-18.30.48:972][871]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.07.21-18.30.48:975][871]Cmd: vr.PixelDensity 1.0
+[2023.07.21-18.30.48:975][871]vr.PixelDensity = "1"
+[2023.07.21-18.30.48:979][871]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Player Data.sav' error.
+[2023.07.21-18.30.48:979][871]LogLoad: Took 0.176800 seconds to LoadMap(/Game/Levels/MainMenuLevel)
+[2023.07.21-18.30.48:982][871]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Map Data.sav' error.
+[2023.07.21-18.30.51:712][ 68]LogNet: Browse: /Game/Levels/MainLevel
+[2023.07.21-18.30.51:712][ 68]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2023.07.21-18.30.51:712][ 68]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.07.21-18.30.51:714][ 68]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.07.21-18.30.51:714][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.21-18.30.51:818][ 68]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.21-18.30.51:820][ 68]LogSlate: Slate User Unregistered.  User Index 8
+[2023.07.21-18.30.51:820][ 68]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.07.21-18.30.51:822][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.07.21-18.30.51:824][ 68]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2023.07.21-18.30.51:848][ 68]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023857s)
+[2023.07.21-18.30.51:848][ 68]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.023891s)
+[2023.07.21-18.30.51:848][ 68]LogAudio: Display: Audio Device (ID: 9) registered with world 'MainLevel'.
+[2023.07.21-18.30.51:848][ 68]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.21-18.30.51:849][ 68]LogAIModule: Creating AISystem for world MainLevel
+[2023.07.21-18.30.51:849][ 68]LogPlayLevel: PIE: World Init took: (0.000785s)
+[2023.07.21-18.30.51:849][ 68]LogLoad: Game class is 'VRGameMode_C'
+[2023.07.21-18.30.51:856][ 68]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.07.21-11.30.51
+[2023.07.21-18.30.51:856][ 68]LogWorld: Bringing up level for play took: 0.005964
+[2023.07.21-18.30.51:859][ 68]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.07.21-18.30.51:860][ 68]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.07.21-18.30.51:862][ 68]LogLinker: Warning: Failed to load '/Engine/Transient': Can't find file.
+[2023.07.21-18.30.51:864][ 68]Cmd: vr.PixelDensity 1.0
+[2023.07.21-18.30.51:864][ 68]vr.PixelDensity = "1"
+[2023.07.21-18.30.51:866][ 68]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Player Data.sav' error.
+[2023.07.21-18.30.51:867][ 68]LogLoad: Took 0.154257 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2023.07.21-18.30.51:872][ 68]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Map Data.sav' error.
+[2023.07.21-18.30.51:876][ 68]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambient'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.07.21-18.30.52:808][ 96]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.21-18.30.53:206][107]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.21-18.30.53:514][116]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.21-18.30.53:771][123]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.21-18.30.54:095][132]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.21-18.30.54:429][141]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.21-18.30.54:791][151]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.21-18.30.55:640][174]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.21-18.31.04:112][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.21-18.31.04:112][452]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.07.21-18.31.04:150][452]LogSlate: Window 'EAESFieldLabVR Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.86.0)' being destroyed
+[2023.07.21-18.31.04:154][452]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.07.21-18.31.04:156][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.21-18.31.04:160][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.21-18.31.04:168][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.21-18.31.04:261][452]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.07.21-18.31.04:261][452]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.07.21-18.31.04:262][452]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.07.21-18.31.04:272][452]LogSlate: Slate User Unregistered.  User Index 8
+[2023.07.21-18.31.04:272][452]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.07.21-18.31.04:276][452]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.07.21-18.31.04:311][453]LogPlayLevel: Display: Destroying online subsystem :Context_54
