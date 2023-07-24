@@ -3669,3 +3669,287 @@ Make sure 'CustomRockModel_C' has been compiled for  Get RockModel
 [2023.07.24-18.06.42:510][629]LogFileHelpers: InternalPromptForCheckoutAndSave took 230 ms (total: 14.1 sec)
 [2023.07.24-18.06.42:524][629]AssetCheck: New page: Asset Save: VRPawn
 [2023.07.24-18.06.42:524][629]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2023.07.24-18.08.12:182][161]BlueprintLog: New page: Compile PauseMenuWidget
+[2023.07.24-18.08.12:412][161]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2023.07.24-18.08.12:517][161]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.24-18.08.12:578][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenuWidget" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/PauseMenuWidget.uasset" SILENT=true
+[2023.07.24-18.08.12:658][161]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenuWidget
+[2023.07.24-18.08.12:659][161]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/PauseMenuWidgetCA8926C648C7D9A66EC418A4C7A095F9.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/PauseMenuWidget.uasset'
+[2023.07.24-18.08.12:667][161]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 14.2 sec)
+[2023.07.24-18.08.12:678][161]AssetCheck: New page: Asset Save: PauseMenuWidget
+[2023.07.24-18.08.12:678][161]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenuWidget.PauseMenuWidget
+[2023.07.24-18.08.16:376][332]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2023.07.24-18.08.17:375][332]LogSlate: Window 'Save Content' being destroyed
+[2023.07.24-18.08.17:381][332]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.24-18.08.17:524][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.07.24-18.08.17:618][332]LogSavePackage: Moving output files for package: /Game/Levels/MainLevel
+[2023.07.24-18.08.17:619][332]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/MainLevel93963A944816234E38403A812FF963D2.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Levels/MainLevel.umap'
+[2023.07.24-18.08.17:649][332]LogFileHelpers: Saving map 'MainLevel' took 0.216
+[2023.07.24-18.08.17:656][332]LogFileHelpers: InternalPromptForCheckoutAndSave took 275 ms (total: 14.5 sec)
+[2023.07.24-18.08.17:752][332]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenuLevel.MainMenuLevel
+[2023.07.24-18.08.17:752][332]Cmd: MAP LOAD FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Levels/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.07.24-18.08.17:752][332]LightingResults: New page: Lighting Build
+[2023.07.24-18.08.17:752][332]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2023.07.24-18.08.17:757][332]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.07.24-18.08.17:757][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.24-18.08.17:757][332]MapCheck: New page: Map Check
+[2023.07.24-18.08.17:757][332]LightingResults: New page: Lighting Build
+[2023.07.24-18.08.17:857][332]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.24-18.08.17:867][332]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2023.07.24-18.08.17:872][332]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.07.24-18.08.17:872][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.24-18.08.17:970][332]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2023.07.24-18.08.18:072][332]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2023.07.24-18.08.18:092][332]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuLevel'.
+[2023.07.24-18.08.18:092][332]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.24-18.08.18:092][332]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.07.24-18.08.18:136][332]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.07.24-18.08.18:235][332]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.07.24-18.08.18:259][332]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.07.24-18.08.18:259][332]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.152ms to complete.
+[2023.07.24-18.08.18:259][332]LogFileHelpers: Loading map 'MainMenuLevel' took 0.508
+[2023.07.24-18.08.18:300][332]AssetCheck: New page: Asset Save: MainLevel
+[2023.07.24-18.08.24:155][360]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.07.24-18.08.24:167][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.24-18.08.24:167][360]PIE: New page: PIE session: MainMenuLevel (Jul. 24, 2023, 4:08:24 a.m.)
+[2023.07.24-18.08.24:167][360]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.07.24-18.08.24:169][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002150s)
+[2023.07.24-18.08.24:169][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002178s)
+[2023.07.24-18.08.24:169][360]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.24-18.08.24:170][360]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.07.24-18.08.24:170][360]LogPlayLevel: PIE: World Init took: (0.000676s)
+[2023.07.24-18.08.24:267][360]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.07.24-18.08.24:269][360]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.07.24-18.08.24:269][360]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.24-18.08.24:269][360]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.24-18.08.24:269][360]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.24-18.08.24:269][360]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.24-18.08.24:269][360]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.24-18.08.24:269][360]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.24-18.08.24:270][360]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.24-18.08.24:270][360]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.24-18.08.24:270][360]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.07.24-18.08.24:270][360]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.07.24-18.08.24:270][360]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.24-18.08.24:272][360]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.24-18.08.24:282][360]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.07.24-18.08.24:282][360]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.24-18.08.24:282][360]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.24-18.08.24:282][360]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.24-18.08.24:282][360]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.07.24-18.08.24:282][360]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.07.24-18.08.24:285][360]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.07.24-18.08.24:285][360]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.07.24-18.08.24:285][360]LogInit: FAudioDevice initialized.
+[2023.07.24-18.08.24:285][360]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainMenuLevel'.
+[2023.07.24-18.08.24:324][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.24-18.08.24:519][360]LogLoad: Game class is 'VRGameMode_C'
+[2023.07.24-18.08.24:520][360]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2023.07.24-11.08.24
+[2023.07.24-18.08.24:520][360]LogWorld: Bringing up level for play took: 0.000757
+[2023.07.24-18.08.24:522][360]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2023.07.24-18.08.24:526][360]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.07.24-18.08.24:528][360]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.07.24-18.08.24:529][360]Cmd: vr.PixelDensity 1.0
+[2023.07.24-18.08.24:530][360]vr.PixelDensity = "1"
+[2023.07.24-18.08.24:532][360]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Player Data.sav' error.
+[2023.07.24-18.08.24:539][360]PIE: Server logged in
+[2023.07.24-18.08.24:543][360]PIE: Play in editor total start time 0.376 seconds.
+[2023.07.24-18.08.24:546][360]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Map Data.sav' error.
+[2023.07.24-18.08.24:549][360]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.07.24-18.08.24:555][360]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.07.24-18.08.24:571][360]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.07.24-18.08.34:915][344]LogNet: Browse: /Game/Levels/MainLevel
+[2023.07.24-18.08.34:915][344]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2023.07.24-18.08.34:915][344]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.07.24-18.08.34:916][344]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.07.24-18.08.34:916][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.24-18.08.35:045][344]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.24-18.08.35:046][344]LogSlate: Slate User Unregistered.  User Index 8
+[2023.07.24-18.08.35:046][344]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.07.24-18.08.35:050][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.07.24-18.08.35:134][344]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainLevel'.
+[2023.07.24-18.08.35:134][344]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.24-18.08.35:134][344]LogAIModule: Creating AISystem for world MainLevel
+[2023.07.24-18.08.35:135][344]LogPlayLevel: PIE: World Init took: (0.000735s)
+[2023.07.24-18.08.35:135][344]LogLoad: Game class is 'VRGameMode_C'
+[2023.07.24-18.08.35:252][344]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.07.24-11.08.35
+[2023.07.24-18.08.35:252][344]LogWorld: Bringing up level for play took: 0.038134
+[2023.07.24-18.08.35:255][344]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.07.24-18.08.35:257][344]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.07.24-18.08.35:259][344]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/User Settings.sav' error.
+[2023.07.24-18.08.35:260][344]Cmd: vr.PixelDensity 1.0
+[2023.07.24-18.08.35:260][344]vr.PixelDensity = "1"
+[2023.07.24-18.08.35:263][344]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Player Data.sav' error.
+[2023.07.24-18.08.35:264][344]LogLoad: Took 0.348547 seconds to LoadMap(/Game/Levels/MainLevel)
+[2023.07.24-18.08.35:268][344]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Map Data.sav' error.
+[2023.07.24-18.08.35:275][344]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambient'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.07.24-18.08.35:278][344]LogShaderCompilers: Display: ================================================
+[2023.07.24-18.08.35:278][344]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.24-18.08.35:278][344]LogShaderCompilers: Display: Total job queries 744, among them cache hits 492 (66.13%)
+[2023.07.24-18.08.35:278][344]LogShaderCompilers: Display: Tracking 252 distinct input hashes that result in 155 distinct outputs (61.51%)
+[2023.07.24-18.08.35:278][344]LogShaderCompilers: Display: RAM used: 2.33 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.14%
+[2023.07.24-18.08.35:278][344]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.24-18.08.35:278][344]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.07.24-18.08.35:278][344]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.07.24-18.08.35:278][344]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.07.24-18.08.35:278][344]LogShaderCompilers: Display: ================================================
+[2023.07.24-18.08.35:334][345]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2023.07.24-18.08.36:390][371]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.24-18.08.36:766][381]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.24-18.08.51:883][794]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.24-18.08.52:189][808]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.24-18.08.53:077][849]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.24-18.08.53:559][871]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.24-18.08.58:996][116]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.24-18.09.02:677][273]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.24-18.09.09:994][567]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.24-18.09.10:817][596]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.24-18.09.11:402][617]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.24-18.09.12:155][645]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.24-18.09.12:789][669]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.24-18.09.14:542][730]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.24-18.09.15:275][756]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.24-18.09.16:301][791]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.24-18.09.17:426][830]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.24-18.09.20:035][918]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.24-18.09.25:001][ 72]LogNet: Browse: /Game/Levels/MainMenuLevel
+[2023.07.24-18.09.25:001][ 72]LogLoad: LoadMap: /Game/Levels/MainMenuLevel
+[2023.07.24-18.09.25:001][ 72]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.07.24-18.09.25:003][ 72]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.07.24-18.09.25:004][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.24-18.09.25:151][ 72]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.24-18.09.25:157][ 72]LogSlate: Slate User Unregistered.  User Index 8
+[2023.07.24-18.09.25:157][ 72]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.07.24-18.09.25:162][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2023.07.24-18.09.25:166][ 72]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.07.24-18.09.25:169][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003108s)
+[2023.07.24-18.09.25:169][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.003153s)
+[2023.07.24-18.09.25:169][ 72]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainMenuLevel'.
+[2023.07.24-18.09.25:169][ 72]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.24-18.09.25:169][ 72]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.07.24-18.09.25:170][ 72]LogPlayLevel: PIE: World Init took: (0.000910s)
+[2023.07.24-18.09.25:170][ 72]LogLoad: Game class is 'VRGameMode_C'
+[2023.07.24-18.09.25:170][ 72]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2023.07.24-11.09.25
+[2023.07.24-18.09.25:170][ 72]LogWorld: Bringing up level for play took: 0.000361
+[2023.07.24-18.09.25:175][ 72]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.07.24-18.09.25:176][ 72]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.07.24-18.09.25:178][ 72]Cmd: vr.PixelDensity 1.0
+[2023.07.24-18.09.25:178][ 72]vr.PixelDensity = "1"
+[2023.07.24-18.09.25:183][ 72]LogLoad: Took 0.182027 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainMenuLevel)
+[2023.07.24-18.09.27:573][244]LogNet: Browse: /Game/Levels/MainLevel
+[2023.07.24-18.09.27:573][244]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2023.07.24-18.09.27:573][244]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.07.24-18.09.27:574][244]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.07.24-18.09.27:574][244]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.24-18.09.27:696][244]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.24-18.09.27:697][244]LogSlate: Slate User Unregistered.  User Index 8
+[2023.07.24-18.09.27:697][244]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.07.24-18.09.27:700][244]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.07.24-18.09.27:780][244]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainLevel'.
+[2023.07.24-18.09.27:780][244]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.24-18.09.27:781][244]LogAIModule: Creating AISystem for world MainLevel
+[2023.07.24-18.09.27:781][244]LogPlayLevel: PIE: World Init took: (0.000713s)
+[2023.07.24-18.09.27:781][244]LogLoad: Game class is 'VRGameMode_C'
+[2023.07.24-18.09.27:889][244]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.07.24-11.09.27
+[2023.07.24-18.09.27:890][244]LogWorld: Bringing up level for play took: 0.033358
+[2023.07.24-18.09.27:893][244]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.07.24-18.09.27:894][244]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.07.24-18.09.27:897][244]LogLinker: Warning: Failed to load '/Engine/Transient': Can't find file.
+[2023.07.24-18.09.27:897][244]LogUObjectGlobals: Warning: Failed to find object 'Object /Engine/Transient.UnrealEdEngine_0:EAES-GameInstance_C_13.HUDWidget_C_3'
+[2023.07.24-18.09.27:900][244]Cmd: vr.PixelDensity 1.0
+[2023.07.24-18.09.27:900][244]vr.PixelDensity = "1"
+[2023.07.24-18.09.27:905][244]LogLoad: Took 0.331394 seconds to LoadMap(/Game/Levels/MainLevel)
+[2023.07.24-18.09.27:915][244]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambient'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.07.24-18.09.30:009][304]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.24-18.09.30:385][316]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.24-18.09.32:959][394]LogNet: Browse: /Game/Levels/MainMenuLevel
+[2023.07.24-18.09.32:959][394]LogLoad: LoadMap: /Game/Levels/MainMenuLevel
+[2023.07.24-18.09.32:959][394]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.07.24-18.09.32:960][394]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.07.24-18.09.32:960][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.24-18.09.33:105][394]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.24-18.09.33:110][394]LogSlate: Slate User Unregistered.  User Index 8
+[2023.07.24-18.09.33:110][394]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.07.24-18.09.33:114][394]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.07.24-18.09.33:118][394]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.07.24-18.09.33:120][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002384s)
+[2023.07.24-18.09.33:120][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002428s)
+[2023.07.24-18.09.33:120][394]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainMenuLevel'.
+[2023.07.24-18.09.33:120][394]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.24-18.09.33:121][394]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.07.24-18.09.33:121][394]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2023.07.24-18.09.33:121][394]LogLoad: Game class is 'VRGameMode_C'
+[2023.07.24-18.09.33:121][394]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2023.07.24-11.09.33
+[2023.07.24-18.09.33:121][394]LogWorld: Bringing up level for play took: 0.000350
+[2023.07.24-18.09.33:124][394]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.07.24-18.09.33:126][394]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.07.24-18.09.33:128][394]Cmd: vr.PixelDensity 1.0
+[2023.07.24-18.09.33:129][394]vr.PixelDensity = "1"
+[2023.07.24-18.09.33:133][394]LogLoad: Took 0.174073 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainMenuLevel)
+[2023.07.24-18.09.34:838][514]LogNet: Browse: /Game/Levels/MainLevel
+[2023.07.24-18.09.34:838][514]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2023.07.24-18.09.34:838][514]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.07.24-18.09.34:839][514]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.07.24-18.09.34:839][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.24-18.09.34:973][514]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.24-18.09.34:975][514]LogSlate: Slate User Unregistered.  User Index 8
+[2023.07.24-18.09.34:975][514]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.07.24-18.09.34:978][514]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.07.24-18.09.35:059][514]LogAudio: Display: Audio Device (ID: 15) registered with world 'MainLevel'.
+[2023.07.24-18.09.35:059][514]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.24-18.09.35:060][514]LogAIModule: Creating AISystem for world MainLevel
+[2023.07.24-18.09.35:060][514]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2023.07.24-18.09.35:060][514]LogLoad: Game class is 'VRGameMode_C'
+[2023.07.24-18.09.35:169][514]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.07.24-11.09.35
+[2023.07.24-18.09.35:169][514]LogWorld: Bringing up level for play took: 0.032550
+[2023.07.24-18.09.35:172][514]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.07.24-18.09.35:173][514]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.07.24-18.09.35:175][514]LogLinker: Warning: Failed to load '/Engine/Transient': Can't find file.
+[2023.07.24-18.09.35:179][514]Cmd: vr.PixelDensity 1.0
+[2023.07.24-18.09.35:179][514]vr.PixelDensity = "1"
+[2023.07.24-18.09.35:183][514]LogLoad: Took 0.344635 seconds to LoadMap(/Game/Levels/MainLevel)
+[2023.07.24-18.09.35:191][514]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambient'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.07.24-18.09.37:653][587]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.24-18.09.38:036][600]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.24-18.09.38:624][621]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.24-18.09.39:014][634]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.24-18.09.39:506][650]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.07.24-18.09.45:007][888]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.24-18.09.45:007][888]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.07.24-18.09.45:048][888]LogSlate: Window 'EAESFieldLabVR Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.86.0)' being destroyed
+[2023.07.24-18.09.45:052][888]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.07.24-18.09.45:052][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.24-18.09.45:055][888]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.24-18.09.45:067][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.24-18.09.45:187][888]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.24-18.09.45:187][888]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.07.24-18.09.45:187][888]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.07.24-18.09.45:189][888]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.07.24-18.09.45:200][888]LogSlate: Slate User Unregistered.  User Index 8
+[2023.07.24-18.09.45:200][888]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.07.24-18.09.45:205][888]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2023.07.24-18.09.45:247][889]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2023.07.24-18.09.55:514][ 92]LogDerivedDataCache: C:/Users/300339869/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:27.162 and deleted 0 files with total size 0 MiB. Scanned 14115 files in 13735 folders with total size 1862 MiB.
+[2023.07.24-18.11.18:674][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.07.24-18.11.18:807][448]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainLevel.MainLevel
+[2023.07.24-18.11.18:807][448]Cmd: MAP LOAD FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Levels/MainLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.07.24-18.11.18:807][448]LightingResults: New page: Lighting Build
+[2023.07.24-18.11.18:807][448]LoadErrors: New page: Loading map: MainLevel.umap
+[2023.07.24-18.11.18:837][448]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.07.24-18.11.18:837][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.24-18.11.18:837][448]MapCheck: New page: Map Check
+[2023.07.24-18.11.18:837][448]LightingResults: New page: Lighting Build
+[2023.07.24-18.11.18:932][448]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.24-18.11.18:937][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.07.24-18.11.19:077][448]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.07.24-18.11.19:077][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.24-18.11.19:184][448]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2023.07.24-18.11.19:288][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.07.24-18.11.19:355][448]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainLevel'.
+[2023.07.24-18.11.19:355][448]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.24-18.11.19:355][448]LogAIModule: Creating AISystem for world MainLevel
+[2023.07.24-18.11.19:444][448]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.07.24-18.11.19:555][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.07.24-18.11.19:575][448]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.07.24-18.11.19:576][448]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.253ms to complete.
+[2023.07.24-18.11.19:576][448]LogFileHelpers: Loading map 'MainLevel' took 0.769
