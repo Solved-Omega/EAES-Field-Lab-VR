@@ -6329,3 +6329,374 @@ Movable
 [2023.07.27-18.22.48:663][ 32]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
 [2023.07.27-18.22.48:666][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
 [2023.07.27-18.22.48:803][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2023.07.27-18.26.09:877][812]BlueprintLog: New page: Compile CustomRockModel
+[2023.07.27-18.26.10:041][812]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.07.27-18.26.10:646][813]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.27-18.26.10:765][813]LogSavePackage: Moving output files for package: /Game/Blueprints/CustomModels/CustomRockModel
+[2023.07.27-18.26.10:766][813]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/CustomRockModel4ED40ABD439A1D0B38A037A72818ECD5.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Blueprints/CustomModels/CustomRockModel.uasset'
+[2023.07.27-18.26.10:776][813]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 13.9 sec)
+[2023.07.27-18.26.10:786][813]AssetCheck: New page: Asset Save: CustomRockModel
+[2023.07.27-18.26.10:786][813]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/CustomModels/CustomRockModel.CustomRockModel
+[2023.07.27-18.26.10:787][813]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/MainLevel.MainLevel:PersistentLevel.RecastNavMesh-Default).
+[2023.07.27-18.27.05:708][394]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.27-18.27.05:840][394]LogSavePackage: Moving output files for package: /Game/Blueprints/CustomModels/CustomRockModel
+[2023.07.27-18.27.05:840][394]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/CustomRockModel31BBEB924C0D512BCB3E8E9C066F5C68.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Blueprints/CustomModels/CustomRockModel.uasset'
+[2023.07.27-18.27.05:851][394]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 14.0 sec)
+[2023.07.27-18.27.05:862][394]AssetCheck: New page: Asset Save: CustomRockModel
+[2023.07.27-18.27.05:862][394]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/CustomModels/CustomRockModel.CustomRockModel
+[2023.07.27-18.28.05:333][ 99]LogUObjectGlobals: Warning: Guid referenced by Landscape /Temp/Autosaves/Game/Levels/MainLevel_Auto2.MainLevel:PersistentLevel.Landscape_0 is already used by Landscape /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:333][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto2.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_102 is already used by LandscapeComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_102, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:333][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto2.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_103 is already used by LandscapeComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_103, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:333][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto2.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_104 is already used by LandscapeComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_104, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:333][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto2.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_118 is already used by LandscapeComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_118, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:333][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto2.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_119 is already used by LandscapeComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_119, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:333][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto2.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_120 is already used by LandscapeComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_120, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:333][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto2.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_86 is already used by LandscapeComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_86, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:333][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto2.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_87 is already used by LandscapeComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_87, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:333][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto2.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_88 is already used by LandscapeComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_88, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:337][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto2.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_10 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_10, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:337][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto2.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_11 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_11, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:337][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto2.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_12 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_12, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:337][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto2.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_13 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_13, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:337][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto2.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_14 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_14, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:337][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto2.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_15 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_15, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:337][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto2.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_16 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_16, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:337][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto2.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_17 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_17, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:337][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto2.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_9 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_9, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:426][ 99]LogUObjectGlobals: Warning: Guid referenced by Landscape /Temp/Autosaves/Game/Levels/MainLevel_Auto3.MainLevel:PersistentLevel.Landscape_0 is already used by Landscape /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:426][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto3.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_102 is already used by LandscapeComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_102, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:426][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto3.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_103 is already used by LandscapeComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_103, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:426][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto3.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_104 is already used by LandscapeComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_104, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:426][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto3.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_118 is already used by LandscapeComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_118, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:426][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto3.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_119 is already used by LandscapeComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_119, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:426][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto3.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_120 is already used by LandscapeComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_120, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:426][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto3.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_86 is already used by LandscapeComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_86, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:426][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto3.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_87 is already used by LandscapeComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_87, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:426][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto3.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_88 is already used by LandscapeComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_88, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:430][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto3.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_10 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_10, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:430][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto3.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_11 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_11, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:430][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto3.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_12 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_12, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:430][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto3.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_13 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_13, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:430][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto3.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_14 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_14, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:430][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto3.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_15 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_15, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:430][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto3.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_16 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_16, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:431][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto3.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_17 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_17, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:431][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto3.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_9 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_9, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:523][ 99]LogUObjectGlobals: Warning: Guid referenced by Landscape /Temp/Autosaves/Game/Levels/MainLevel_Auto4.MainLevel:PersistentLevel.Landscape_0 is already used by Landscape /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:523][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto4.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_102 is already used by LandscapeComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_102, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:523][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto4.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_103 is already used by LandscapeComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_103, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:523][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto4.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_104 is already used by LandscapeComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_104, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:523][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto4.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_118 is already used by LandscapeComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_118, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:523][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto4.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_119 is already used by LandscapeComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_119, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:523][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto4.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_120 is already used by LandscapeComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_120, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:523][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto4.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_86 is already used by LandscapeComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_86, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:523][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto4.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_87 is already used by LandscapeComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_87, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:523][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto4.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_88 is already used by LandscapeComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeComponent_88, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:528][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto4.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_10 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_10, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:528][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto4.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_11 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_11, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:528][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto4.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_12 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_12, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:528][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto4.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_13 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_13, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:528][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto4.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_14 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_14, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:528][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto4.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_15 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_15, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:528][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto4.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_16 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_16, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:528][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto4.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_17 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_17, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:528][ 99]LogUObjectGlobals: Warning: Guid referenced by LandscapeHeightfieldCollisionComponent /Temp/Autosaves/Game/Levels/MainLevel_Auto4.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_9 is already used by LandscapeHeightfieldCollisionComponent /Game/Levels/MainLevel.MainLevel:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_9, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2023.07.27-18.28.05:889][100]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/MainLevel.MainLevel:PersistentLevel.RecastNavMesh-Default).
+[2023.07.27-18.28.07:250][141]BlueprintLog: New page: Compile CustomRockModel
+[2023.07.27-18.28.07:401][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.07.27-18.28.07:772][141]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.27-18.28.07:885][141]LogSavePackage: Moving output files for package: /Game/Blueprints/CustomModels/CustomRockModel
+[2023.07.27-18.28.07:886][141]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/CustomRockModelF01B1CD14D42FFC500AF249586872BCD.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Blueprints/CustomModels/CustomRockModel.uasset'
+[2023.07.27-18.28.07:898][141]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 14.2 sec)
+[2023.07.27-18.28.08:003][141]AssetCheck: New page: Asset Save: CustomRockModel
+[2023.07.27-18.28.08:003][141]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/CustomModels/CustomRockModel.CustomRockModel
+[2023.07.27-18.28.08:188][142]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/MainLevel.MainLevel:PersistentLevel.RecastNavMesh-Default).
+[2023.07.27-18.28.08:256][145]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.27-18.28.08:356][145]LogSavePackage: Moving output files for package: /Game/Blueprints/CustomModels/CustomRockModel
+[2023.07.27-18.28.08:356][145]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/CustomRockModel5DBCF185424CE56A7F7FAE8EE0C144E7.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Blueprints/CustomModels/CustomRockModel.uasset'
+[2023.07.27-18.28.08:365][145]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 14.3 sec)
+[2023.07.27-18.28.08:377][145]AssetCheck: New page: Asset Save: CustomRockModel
+[2023.07.27-18.28.08:377][145]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/CustomModels/CustomRockModel.CustomRockModel
+[2023.07.27-18.28.16:879][527]BlueprintLog: New page: Compile CustomRockModel
+[2023.07.27-18.28.17:034][527]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.07.27-18.28.17:800][528]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.27-18.28.17:936][528]LogSavePackage: Moving output files for package: /Game/Blueprints/CustomModels/CustomRockModel
+[2023.07.27-18.28.17:937][528]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/CustomRockModel786F8D784D0B6B7CF13263A0837CAF6C.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Blueprints/CustomModels/CustomRockModel.uasset'
+[2023.07.27-18.28.17:947][528]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 14.4 sec)
+[2023.07.27-18.28.17:956][528]AssetCheck: New page: Asset Save: CustomRockModel
+[2023.07.27-18.28.17:956][528]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/CustomModels/CustomRockModel.CustomRockModel
+[2023.07.27-18.28.17:957][528]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/MainLevel.MainLevel:PersistentLevel.RecastNavMesh-Default).
+[2023.07.27-18.29.18:652][306]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/JournalWidget.JournalWidget
+[2023.07.27-18.29.18:652][306]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.27-18.29.18:679][306]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.27-18.29.19:353][306]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.27-18.29.19:353][306]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.27-18.29.38:836][262]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.07.27-18.29.38:858][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.27-18.29.38:858][262]PIE: New page: PIE session: MainLevel (Jul. 27, 2023, 4:29:38 a.m.)
+[2023.07.27-18.29.38:858][262]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2023.07.27-18.29.38:891][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033568s)
+[2023.07.27-18.29.38:892][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.033621s)
+[2023.07.27-18.29.38:892][262]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.27-18.29.38:892][262]LogAIModule: Creating AISystem for world MainLevel
+[2023.07.27-18.29.38:892][262]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2023.07.27-18.29.38:993][262]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.07.27-18.29.38:994][262]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2023.07.27-18.29.38:995][262]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.27-18.29.38:995][262]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.27-18.29.38:995][262]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.27-18.29.38:995][262]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.27-18.29.38:995][262]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.27-18.29.38:995][262]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.27-18.29.38:995][262]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.27-18.29.38:995][262]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.27-18.29.38:996][262]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.07.27-18.29.38:996][262]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.07.27-18.29.38:996][262]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.27-18.29.38:998][262]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.27-18.29.39:013][262]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.07.27-18.29.39:013][262]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.27-18.29.39:013][262]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.27-18.29.39:013][262]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.27-18.29.39:014][262]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2023.07.27-18.29.39:014][262]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2023.07.27-18.29.39:017][262]LogInit: FAudioDevice initialized.
+[2023.07.27-18.29.39:017][262]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2023.07.27-18.29.39:017][262]LogAudio: Display: Audio Device (ID: 38) registered with world 'MainLevel'.
+[2023.07.27-18.29.39:017][262]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2023.07.27-18.29.39:057][262]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-18.29.39:309][262]LogLoad: Game class is 'VRGameMode_C'
+[2023.07.27-18.29.39:317][262]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.07.27-11.29.39
+[2023.07.27-18.29.39:317][262]LogWorld: Bringing up level for play took: 0.007848
+[2023.07.27-18.29.39:320][262]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2023.07.27-18.29.39:325][262]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.07.27-18.29.39:328][262]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.07.27-18.29.39:330][262]LogLinker: Warning: Failed to load '/Engine/Transient': Can't find file.
+[2023.07.27-18.29.39:335][262]Cmd: vr.PixelDensity 1.0
+[2023.07.27-18.29.39:335][262]vr.PixelDensity = "1"
+[2023.07.27-18.29.39:347][262]PIE: Server logged in
+[2023.07.27-18.29.39:351][262]PIE: Play in editor total start time 0.495 seconds.
+[2023.07.27-18.29.39:380][262]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambient'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.07.27-18.29.39:401][262]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.07.27-18.29.39:408][262]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.07.27-18.29.39:601][262]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.07.27-18.29.54:101][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-18.29.54:101][766]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.07.27-18.29.54:168][766]LogSlate: Window 'EAESFieldLabVR Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.86.0)' being destroyed
+[2023.07.27-18.29.54:171][766]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.07.27-18.29.54:172][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-18.29.54:263][766]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.27-18.29.54:274][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-18.29.54:351][766]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.27-18.29.54:352][766]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.07.27-18.29.54:352][766]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2023.07.27-18.29.54:354][766]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2023.07.27-18.29.54:362][766]LogSlate: Slate User Unregistered.  User Index 8
+[2023.07.27-18.29.54:362][766]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.07.27-18.29.54:365][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.07.27-18.29.54:402][767]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2023.07.27-18.29.59:811][ 21]LogViewport: Scene viewport resized to 1121x655, mode Windowed.
+[2023.07.27-18.30.02:929][145]LogShaderCompilers: Display: ================================================
+[2023.07.27-18.30.02:929][145]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.27-18.30.02:929][145]LogShaderCompilers: Display: Total job queries 321, among them cache hits 59 (18.38%)
+[2023.07.27-18.30.02:929][145]LogShaderCompilers: Display: Tracking 262 distinct input hashes that result in 161 distinct outputs (61.45%)
+[2023.07.27-18.30.02:929][145]LogShaderCompilers: Display: RAM used: 2.42 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.15%
+[2023.07.27-18.30.02:929][145]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.27-18.30.02:929][145]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.07.27-18.30.02:929][145]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.07.27-18.30.02:929][145]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.07.27-18.30.02:929][145]LogShaderCompilers: Display: ================================================
+[2023.07.27-18.30.12:247][498]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.07.27-18.30.12:265][498]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.07.27-18.30.12:305][498]LogPlayLevel: [PlayLevel] Compiling VRPawn before play...
+[2023.07.27-18.30.12:684][498]LogDerivedDataCache: C:/Users/300339869/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:23.171 and deleted 15 files with total size 0 MiB. Scanned 12241 files in 11940 folders with total size 1774 MiB.
+[2023.07.27-18.30.12:782][498]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.27-18.30.12:892][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2023.07.27-18.30.13:084][498]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2023.07.27-18.30.13:086][498]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/VRPawn7EA11F094329F872196AE993D702B23A.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Blueprints/VRPawn.uasset'
+[2023.07.27-18.30.13:095][498]LogFileHelpers: InternalPromptForCheckoutAndSave took 312 ms (total: 14.7 sec)
+[2023.07.27-18.30.13:200][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.07.27-18.30.13:204][498]LogPlayLevel: PlayLevel: Blueprint regeneration took 939 ms (1 blueprints)
+[2023.07.27-18.30.13:204][498]PIE: New page: PIE session: MainLevel (Jul. 27, 2023, 4:30:13 a.m.)
+[2023.07.27-18.30.13:204][498]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2023.07.27-18.30.13:234][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030398s)
+[2023.07.27-18.30.13:235][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.030433s)
+[2023.07.27-18.30.13:235][498]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.27-18.30.13:235][498]LogAIModule: Creating AISystem for world MainLevel
+[2023.07.27-18.30.13:235][498]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2023.07.27-18.30.13:327][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.07.27-18.30.13:328][498]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2023.07.27-18.30.13:328][498]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.27-18.30.13:328][498]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.27-18.30.13:328][498]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.27-18.30.13:328][498]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.27-18.30.13:328][498]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.27-18.30.13:328][498]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.27-18.30.13:328][498]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.27-18.30.13:328][498]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.27-18.30.13:328][498]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.07.27-18.30.13:328][498]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.07.27-18.30.13:328][498]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.27-18.30.13:331][498]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.27-18.30.13:343][498]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.07.27-18.30.13:344][498]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.27-18.30.13:344][498]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.27-18.30.13:344][498]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.27-18.30.13:345][498]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2023.07.27-18.30.13:345][498]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2023.07.27-18.30.13:346][498]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2023.07.27-18.30.13:346][498]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2023.07.27-18.30.13:346][498]LogInit: FAudioDevice initialized.
+[2023.07.27-18.30.13:346][498]LogAudio: Display: Audio Device (ID: 39) registered with world 'MainLevel'.
+[2023.07.27-18.30.13:387][498]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-18.30.13:652][498]LogLoad: Game class is 'VRGameMode_C'
+[2023.07.27-18.30.13:659][498]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.07.27-11.30.13
+[2023.07.27-18.30.13:659][498]LogWorld: Bringing up level for play took: 0.007379
+[2023.07.27-18.30.13:663][498]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2023.07.27-18.30.13:666][498]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.07.27-18.30.13:670][498]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.07.27-18.30.13:673][498]LogLinker: Warning: Failed to load '/Engine/Transient': Can't find file.
+[2023.07.27-18.30.13:677][498]Cmd: vr.PixelDensity 1.0
+[2023.07.27-18.30.13:677][498]vr.PixelDensity = "1"
+[2023.07.27-18.30.13:689][498]PIE: Server logged in
+[2023.07.27-18.30.13:693][498]PIE: Play in editor total start time 1.428 seconds.
+[2023.07.27-18.30.13:707][498]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambient'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.07.27-18.30.13:832][498]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.07.27-18.30.13:839][498]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.07.27-18.30.13:943][498]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.07.27-18.30.14:061][499]AssetCheck: New page: Asset Save: VRPawn
+[2023.07.27-18.30.14:061][499]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2023.07.27-18.30.16:608][566]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2023.07.27-18.30.29:379][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-18.30.29:379][144]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.07.27-18.30.29:456][144]LogSlate: Window 'EAESFieldLabVR Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.86.0)' being destroyed
+[2023.07.27-18.30.29:459][144]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.07.27-18.30.29:460][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-18.30.29:467][144]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.27-18.30.29:478][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-18.30.29:566][144]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.07.27-18.30.29:566][144]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.07.27-18.30.29:568][144]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2023.07.27-18.30.29:577][144]LogSlate: Slate User Unregistered.  User Index 8
+[2023.07.27-18.30.29:577][144]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.07.27-18.30.29:579][144]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.07.27-18.30.29:623][145]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2023.07.27-18.32.10:222][982]BlueprintLog: New page: Compile VRPawn
+[2023.07.27-18.32.10:504][982]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.07.27-18.32.10:734][982]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.27-18.32.10:840][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2023.07.27-18.32.11:012][982]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2023.07.27-18.32.11:012][982]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/VRPawnE1AE9D164A7C106E48A3608C078A793F.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Blueprints/VRPawn.uasset'
+[2023.07.27-18.32.11:023][982]LogFileHelpers: InternalPromptForCheckoutAndSave took 288 ms (total: 15.0 sec)
+[2023.07.27-18.32.11:147][982]AssetCheck: New page: Asset Save: VRPawn
+[2023.07.27-18.32.11:147][982]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2023.07.27-18.32.55:780][101]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/LoadMeshWidget.LoadMeshWidget
+[2023.07.27-18.32.55:780][101]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.27-18.32.55:811][101]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.27-18.32.56:466][101]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.27-18.32.56:466][101]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.07.27-18.35.09:761][937]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.07.27-18.35.09:779][937]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.07.27-18.35.09:807][937]LogPlayLevel: [PlayLevel] Compiling VRPawn before play...
+[2023.07.27-18.35.10:662][937]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.27-18.35.10:782][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2023.07.27-18.35.11:008][937]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2023.07.27-18.35.11:008][937]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/VRPawn723181FE4075FB7E4B144F840C48F949.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Blueprints/VRPawn.uasset'
+[2023.07.27-18.35.11:019][937]LogFileHelpers: InternalPromptForCheckoutAndSave took 356 ms (total: 15.4 sec)
+[2023.07.27-18.35.11:142][937]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2023.07.27-18.35.11:144][937]LogPlayLevel: PlayLevel: Blueprint regeneration took 1364 ms (1 blueprints)
+[2023.07.27-18.35.11:144][937]PIE: New page: PIE session: MainLevel (Jul. 27, 2023, 4:35:11 a.m.)
+[2023.07.27-18.35.11:145][937]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2023.07.27-18.35.11:176][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032024s)
+[2023.07.27-18.35.11:177][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.032059s)
+[2023.07.27-18.35.11:177][937]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.27-18.35.11:177][937]LogAIModule: Creating AISystem for world MainLevel
+[2023.07.27-18.35.11:177][937]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2023.07.27-18.35.11:277][937]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2023.07.27-18.35.11:279][937]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2023.07.27-18.35.11:279][937]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.27-18.35.11:279][937]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.27-18.35.11:279][937]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.27-18.35.11:279][937]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.27-18.35.11:279][937]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.27-18.35.11:279][937]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.27-18.35.11:279][937]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.27-18.35.11:279][937]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.27-18.35.11:280][937]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.07.27-18.35.11:280][937]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.07.27-18.35.11:280][937]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.27-18.35.11:282][937]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.27-18.35.11:295][937]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.07.27-18.35.11:295][937]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.27-18.35.11:295][937]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.27-18.35.11:295][937]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.27-18.35.11:296][937]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2023.07.27-18.35.11:296][937]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2023.07.27-18.35.11:299][937]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2023.07.27-18.35.11:299][937]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2023.07.27-18.35.11:299][937]LogInit: FAudioDevice initialized.
+[2023.07.27-18.35.11:299][937]LogAudio: Display: Audio Device (ID: 40) registered with world 'MainLevel'.
+[2023.07.27-18.35.11:337][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-18.35.11:541][937]LogLoad: Game class is 'VRGameMode_C'
+[2023.07.27-18.35.11:547][937]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.07.27-11.35.11
+[2023.07.27-18.35.11:548][937]LogWorld: Bringing up level for play took: 0.006542
+[2023.07.27-18.35.11:551][937]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2023.07.27-18.35.11:553][937]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.07.27-18.35.11:556][937]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.07.27-18.35.11:558][937]LogLinker: Warning: Failed to load '/Engine/Transient': Can't find file.
+[2023.07.27-18.35.11:562][937]Cmd: vr.PixelDensity 1.0
+[2023.07.27-18.35.11:562][937]vr.PixelDensity = "1"
+[2023.07.27-18.35.11:573][937]PIE: Server logged in
+[2023.07.27-18.35.11:578][937]PIE: Play in editor total start time 1.798 seconds.
+[2023.07.27-18.35.11:592][937]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambient'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.07.27-18.35.11:766][937]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.07.27-18.35.11:772][937]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.07.27-18.35.11:923][937]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.07.27-18.35.12:046][938]AssetCheck: New page: Asset Save: VRPawn
+[2023.07.27-18.35.12:046][938]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2023.07.27-18.35.33:864][846]LogStreaming: Warning: Failed to read file 'C:/Users/300339869/Documents/CustomRockModels/Rock/Rock_N.png' error.
+[2023.07.27-18.35.33:992][846]LogTemp: mNumMeshes: 0, mNumChildren of Node: 3
+[2023.07.27-18.35.33:992][846]LogTemp: mNumMeshes: 0, mNumChildren of Node: 0
+[2023.07.27-18.35.33:992][846]LogTemp: mNumMeshes: 0, mNumChildren of Node: 0
+[2023.07.27-18.35.33:992][846]LogTemp: Loading Mesh at index: 0
+[2023.07.27-18.35.34:019][846]LogTemp: mNumFaces: 115088
+[2023.07.27-18.35.34:029][846]LogTemp: mNumMeshes: 1, mNumChildren of Node: 0
+[2023.07.27-18.35.40:679][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-18.35.40:679][ 76]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.07.27-18.35.40:765][ 76]LogSlate: Window 'EAESFieldLabVR Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.86.0)' being destroyed
+[2023.07.27-18.35.40:768][ 76]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.07.27-18.35.40:769][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-18.35.40:888][ 76]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.27-18.35.40:898][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-18.35.40:985][ 76]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.07.27-18.35.40:985][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.07.27-18.35.40:986][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2023.07.27-18.35.41:011][ 76]LogSlate: Slate User Unregistered.  User Index 8
+[2023.07.27-18.35.41:011][ 76]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.07.27-18.35.41:014][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.07.27-18.35.41:067][ 77]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2023.07.27-18.36.12:408][483]BlueprintLog: New page: Compile VRPawn
+[2023.07.27-18.36.12:728][483]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.07.27-18.36.13:212][483]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.27-18.36.13:317][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2023.07.27-18.36.13:512][483]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2023.07.27-18.36.13:512][483]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/VRPawn496A8A8345A49D1811DD179ED2C676E9.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Blueprints/VRPawn.uasset'
+[2023.07.27-18.36.13:523][483]LogFileHelpers: InternalPromptForCheckoutAndSave took 311 ms (total: 15.7 sec)
+[2023.07.27-18.36.13:667][483]AssetCheck: New page: Asset Save: VRPawn
+[2023.07.27-18.36.13:667][483]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2023.07.27-18.36.23:244][873]BlueprintLog: New page: Compile VRPawn
+[2023.07.27-18.36.23:524][873]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.07.27-18.36.23:929][873]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.27-18.36.24:018][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2023.07.27-18.36.24:171][873]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2023.07.27-18.36.24:172][873]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/VRPawnA57A30864B57B6B57D51219F377FC4C2.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Blueprints/VRPawn.uasset'
+[2023.07.27-18.36.24:181][873]LogFileHelpers: InternalPromptForCheckoutAndSave took 253 ms (total: 15.9 sec)
+[2023.07.27-18.36.24:294][873]AssetCheck: New page: Asset Save: VRPawn
+[2023.07.27-18.36.24:294][873]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2023.07.27-18.36.47:950][841]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.07.27-18.36.48:054][841]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/MainLevel_Auto5
+[2023.07.27-18.36.48:055][841]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/MainLevel_Auto5813F343C4305C73A135923815F75F0DE.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/Autosaves/Game/Levels/MainLevel_Auto5.umap'
+[2023.07.27-18.36.48:067][841]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.208
+[2023.07.27-18.36.48:067][841]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.208
+[2023.07.27-18.39.17:282][595]BlueprintLog: New page: Compile VRPawn
+[2023.07.27-18.39.17:572][595]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
