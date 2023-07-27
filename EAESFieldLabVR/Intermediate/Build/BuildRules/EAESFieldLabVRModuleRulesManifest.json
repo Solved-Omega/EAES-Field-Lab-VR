@@ -1,9 +1,9 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\300339869\\Desktop\\EAES-Field-Lab-VR-Reworked\\EAESFieldLabVR\\Source\\EAESFieldLabVR\\EAESFieldLabVR.Build.cs",
-		"C:\\Users\\300339869\\Desktop\\EAES-Field-Lab-VR-Reworked\\EAESFieldLabVR\\Plugins\\RuntimeMeshLoader\\Source\\RuntimeMeshLoader\\RuntimeMeshLoader.Build.cs",
-		"C:\\Users\\300339869\\Desktop\\EAES-Field-Lab-VR-Reworked\\EAESFieldLabVR\\Source\\EAESFieldLabVR.Target.cs",
-		"C:\\Users\\300339869\\Desktop\\EAES-Field-Lab-VR-Reworked\\EAESFieldLabVR\\Source\\EAESFieldLabVREditor.Target.cs"
+		"C:\\Users\\300339869\\Downloads\\eaes-bitbucket\\EAESFieldLabVR\\Source\\EAESFieldLabVR\\EAESFieldLabVR.Build.cs",
+		"C:\\Users\\300339869\\Downloads\\eaes-bitbucket\\EAESFieldLabVR\\Plugins\\RuntimeMeshLoader\\Source\\RuntimeMeshLoader\\RuntimeMeshLoader.Build.cs",
+		"C:\\Users\\300339869\\Downloads\\eaes-bitbucket\\EAESFieldLabVR\\Source\\EAESFieldLabVR.Target.cs",
+		"C:\\Users\\300339869\\Downloads\\eaes-bitbucket\\EAESFieldLabVR\\Source\\EAESFieldLabVREditor.Target.cs"
 	],
 	"EngineVersion": "5.1.0"
 }
