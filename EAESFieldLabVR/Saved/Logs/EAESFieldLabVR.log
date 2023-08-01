@@ -6384,3 +6384,386 @@ Script Stack (1 frames) :
 [2023.08.01-17.05.09:893][520]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
 [2023.08.01-17.05.09:898][520]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
 [2023.08.01-17.05.09:969][521]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2023.08.01-17.06.57:759][324]BlueprintLog: New page: Compile EAES-GameInstance
+[2023.08.01-17.06.57:888][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.08.01-17.06.58:228][325]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/MainLevel.MainLevel:PersistentLevel.RecastNavMesh-Default).
+[2023.08.01-17.07.01:903][490]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.07.02:032][490]LogSavePackage: Moving output files for package: /Game/Blueprints/CustomModels/CustomRockModel
+[2023.08.01-17.07.02:034][490]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/CustomRockModelBA19CD6F479ED444C21BAD9CCAC3FA61.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Blueprints/CustomModels/CustomRockModel.uasset'
+[2023.08.01-17.07.02:044][490]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 10.0 sec)
+[2023.08.01-17.07.02:055][490]AssetCheck: New page: Asset Save: CustomRockModel
+[2023.08.01-17.07.02:055][490]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/CustomModels/CustomRockModel.CustomRockModel
+[2023.08.01-17.07.12:018][890]BlueprintLog: New page: Compile CustomRockModel
+[2023.08.01-17.07.12:210][890]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2023.08.01-17.07.12:920][891]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/MainLevel.MainLevel:PersistentLevel.RecastNavMesh-Default).
+[2023.08.01-17.07.40:274][223]BlueprintLog: New page: Compile CustomRockModel
+[2023.08.01-17.07.40:459][223]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2023.08.01-17.07.41:171][228]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.07.41:276][228]LogSavePackage: Moving output files for package: /Game/Blueprints/CustomModels/CustomRockModel
+[2023.08.01-17.07.41:277][228]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/CustomRockModel920BA54641E8D915345F9183E04A3ABC.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Blueprints/CustomModels/CustomRockModel.uasset'
+[2023.08.01-17.07.41:288][228]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 10.1 sec)
+[2023.08.01-17.07.41:299][228]AssetCheck: New page: Asset Save: CustomRockModel
+[2023.08.01-17.07.41:299][228]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/CustomModels/CustomRockModel.CustomRockModel
+[2023.08.01-17.07.42:373][264]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/MainLevel.MainLevel:PersistentLevel.RecastNavMesh-Default).
+[2023.08.01-17.07.58:183][974]BlueprintLog: New page: Compile EAES-GameInstance
+[2023.08.01-17.07.58:380][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2023.08.01-17.07.58:996][975]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.07.59:077][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Misc/EAES-GameInstance" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Misc/EAES-GameInstance.uasset" SILENT=true
+[2023.08.01-17.07.59:082][975]LogSavePackage: Moving output files for package: /Game/Misc/EAES-GameInstance
+[2023.08.01-17.07.59:082][975]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/EAES-GameInstanceAF19687C48670E8021C170949E27AEF4.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Misc/EAES-GameInstance.uasset'
+[2023.08.01-17.07.59:094][975]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 10.2 sec)
+[2023.08.01-17.07.59:105][975]AssetCheck: New page: Asset Save: EAES-GameInstance
+[2023.08.01-17.07.59:105][975]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Misc/EAES-GameInstance.EAES-GameInstance
+[2023.08.01-17.07.59:145][976]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/Levels/MainLevel.MainLevel:PersistentLevel.RecastNavMesh-Default).
+[2023.08.01-17.08.43:315][596]BlueprintLog: New page: Compile JournalWidgetV2
+[2023.08.01-17.08.43:502][596]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2023.08.01-17.08.43:649][596]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.08.43:727][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.01-17.08.43:792][596]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.01-17.08.43:792][596]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV2D769B4A6498495480EBA3C83F44345CC.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.01-17.08.43:803][596]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 10.4 sec)
+[2023.08.01-17.08.43:813][596]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.01-17.08.43:813][596]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.01-17.08.44:017][597]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.08.44:086][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.01-17.08.44:152][597]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.01-17.08.44:152][597]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV27D238F1746253AE2649A83BC82931C8F.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.01-17.08.44:166][597]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 10.5 sec)
+[2023.08.01-17.08.44:177][597]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.01-17.08.44:177][597]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.01-17.08.44:593][616]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.08.44:666][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.01-17.08.44:736][616]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.01-17.08.44:737][616]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV2FA31FC3F4AB67C038A32AB94251224DF.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.01-17.08.44:749][616]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 10.7 sec)
+[2023.08.01-17.08.44:763][616]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.01-17.08.44:763][616]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.01-17.09.40:771][336]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.08.01-17.09.40:772][336]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.08.01-17.09.40:772][336]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.08.01-17.09.55:643][ 74]BlueprintLog: New page: Compile JournalWidgetV2
+[2023.08.01-17.09.55:823][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.08.01-17.09.55:968][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.09.56:041][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.01-17.09.56:099][ 74]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.01-17.09.56:099][ 74]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV2CC5B5F834CC82752BAA6B388C149BBC4.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.01-17.09.56:109][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 10.8 sec)
+[2023.08.01-17.09.56:119][ 74]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.01-17.09.56:119][ 74]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.01-17.10.18:930][157]BlueprintLog: New page: Compile JournalWidgetV2
+[2023.08.01-17.10.19:165][157]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2023.08.01-17.10.19:723][162]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.10.19:807][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.01-17.10.19:883][162]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.01-17.10.19:884][162]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV2BBC95D1E4CAD48CA0F3CC5BF953CDB9C.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.01-17.10.19:896][162]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 11.0 sec)
+[2023.08.01-17.10.19:908][162]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.01-17.10.19:908][162]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.01-17.11.55:395][420]BlueprintLog: New page: Compile JournalWidgetV2
+[2023.08.01-17.11.55:583][420]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.08.01-17.11.55:732][420]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.11.55:787][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.01-17.11.55:841][420]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.01-17.11.55:842][420]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV256B8E0314341A0787BC2E592B3B4FAC2.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.01-17.11.55:853][420]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 11.1 sec)
+[2023.08.01-17.11.55:862][420]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.01-17.11.55:863][420]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.01-17.11.56:479][431]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.11.56:541][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.01-17.11.56:599][431]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.01-17.11.56:599][431]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV256D2D868497AFF36EE4170985DFD9373.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.01-17.11.56:610][431]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 11.3 sec)
+[2023.08.01-17.11.56:620][431]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.01-17.11.56:620][431]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.01-17.13.21:525][767]BlueprintLog: New page: Compile JournalWidgetV2
+[2023.08.01-17.13.21:724][767]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.08.01-17.13.21:913][767]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.13.21:987][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.01-17.13.22:054][767]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.01-17.13.22:055][767]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV25828FA0945716E1AA8E80B9543F61AD9.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.01-17.13.22:067][767]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 11.4 sec)
+[2023.08.01-17.13.22:079][767]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.01-17.13.22:079][767]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.01-17.13.22:337][768]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.13.22:419][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.01-17.13.22:497][768]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.01-17.13.22:498][768]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV2E39CE9EA40BA3876FB3115942A2B899A.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.01-17.13.22:510][768]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 11.6 sec)
+[2023.08.01-17.13.22:525][768]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.01-17.13.22:525][768]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.01-17.13.43:805][816]BlueprintLog: New page: Compile JournalWidgetV2
+[2023.08.01-17.13.44:019][816]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.08.01-17.13.44:222][816]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.13.44:305][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.01-17.13.44:379][816]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.01-17.13.44:379][816]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV24F0FEA264C99D8CBF0E379970924D8FD.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.01-17.13.44:391][816]LogFileHelpers: InternalPromptForCheckoutAndSave took 168 ms (total: 11.7 sec)
+[2023.08.01-17.13.44:403][816]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.01-17.13.44:403][816]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.01-17.13.44:680][817]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.13.44:754][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.01-17.13.44:829][817]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.01-17.13.44:830][817]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV2227D23B749EAB38FABFAF19F033D0A85.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.01-17.13.44:842][817]LogFileHelpers: InternalPromptForCheckoutAndSave took 162 ms (total: 11.9 sec)
+[2023.08.01-17.13.44:854][817]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.01-17.13.44:854][817]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.01-17.14.07:163][120]BlueprintLog: New page: Compile JournalWidgetV2
+[2023.08.01-17.14.07:339][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.08.01-17.14.07:491][120]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.14.07:561][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.01-17.14.07:626][120]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.01-17.14.07:627][120]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV2F7E2825E4D3413BC37ACC2A8A04DB997.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.01-17.14.07:639][120]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 12.1 sec)
+[2023.08.01-17.14.07:649][120]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.01-17.14.07:650][120]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.01-17.14.07:905][123]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.14.07:968][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.01-17.14.08:030][123]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.01-17.14.08:030][123]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV29807BA9F416EAD44E1DCED9B86C35D20.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.01-17.14.08:043][123]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 12.2 sec)
+[2023.08.01-17.14.08:053][123]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.01-17.14.08:054][123]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.01-17.14.39:381][606]BlueprintLog: New page: Compile JournalWidgetV2
+[2023.08.01-17.14.39:555][606]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.08.01-17.14.39:713][606]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.14.39:785][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.01-17.14.39:845][606]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.01-17.14.39:845][606]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV2FCD396374AABE7FE67D851AC7144DB19.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.01-17.14.39:857][606]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 12.3 sec)
+[2023.08.01-17.14.39:868][606]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.01-17.14.39:868][606]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.01-17.15.42:538][469]LogEditorTransaction: Undo Move Node
+[2023.08.01-17.15.57:190][107]BlueprintLog: New page: Compile JournalWidgetV2
+[2023.08.01-17.15.57:375][107]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.08.01-17.15.57:552][107]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.15.57:632][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.01-17.15.57:697][107]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.01-17.15.57:698][107]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV212D87763488DB79E977B578F7DE7DA13.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.01-17.15.57:708][107]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 12.5 sec)
+[2023.08.01-17.15.57:719][107]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.01-17.15.57:719][107]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.01-17.16.47:179][457]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.08.01-17.16.47:180][457]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.08.01-17.16.47:180][457]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.08.01-17.18.15:407][942]LogEditorTransaction: Undo Move Node
+[2023.08.01-17.20.25:003][932]BlueprintLog: New page: Compile JournalWidgetV2
+[2023.08.01-17.20.25:218][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.08.01-17.20.25:440][932]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.20.25:523][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.01-17.20.25:601][932]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.01-17.20.25:601][932]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV24EAA59424362D013C8F1FBA3838F40DF.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.01-17.20.25:613][932]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 12.7 sec)
+[2023.08.01-17.20.25:624][932]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.01-17.20.25:624][932]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.01-17.21.18:671][316]BlueprintLog: New page: Compile JournalWidgetV2
+[2023.08.01-17.21.18:894][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2023.08.01-17.21.19:110][316]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.21.19:205][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.01-17.21.19:285][316]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.01-17.21.19:287][316]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV20D571E6049CA26BCBA274399603A07A1.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.01-17.21.19:299][316]LogFileHelpers: InternalPromptForCheckoutAndSave took 189 ms (total: 12.9 sec)
+[2023.08.01-17.21.19:311][316]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.01-17.21.19:311][316]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.01-17.21.19:626][317]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.21.19:706][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.01-17.21.19:793][317]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.01-17.21.19:794][317]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV206DAE9854883EE25CA28BC8F43A4477D.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.01-17.21.19:811][317]LogFileHelpers: InternalPromptForCheckoutAndSave took 184 ms (total: 13.0 sec)
+[2023.08.01-17.21.19:836][317]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.01-17.21.19:836][317]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.01-17.21.34:137][928]BlueprintLog: New page: Compile JournalWidgetV2
+[2023.08.01-17.21.34:320][928]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.08.01-17.21.34:497][928]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.21.34:568][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.01-17.21.34:627][928]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.01-17.21.34:627][928]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV25ACE955C4A36E1C1CF040485815C9418.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.01-17.21.34:638][928]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 13.2 sec)
+[2023.08.01-17.21.34:649][928]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.01-17.21.34:649][928]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.01-17.21.35:003][934]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.21.35:073][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.01-17.21.35:133][934]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.01-17.21.35:134][934]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV248CB90D44C1A8774FD1356B3DC25801E.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.01-17.21.35:145][934]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 13.3 sec)
+[2023.08.01-17.21.35:155][934]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.01-17.21.35:155][934]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.01-17.22.08:410][395]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2023.08.01-17.22.08:527][395]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/MainLevel_Auto7
+[2023.08.01-17.22.08:527][395]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/MainLevel_Auto79E192B494992063256610F92763365CF.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/Autosaves/Game/Levels/MainLevel_Auto7.umap'
+[2023.08.01-17.22.08:544][395]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.244
+[2023.08.01-17.22.08:544][395]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.244
+[2023.08.01-17.23.01:593][820]BlueprintLog: New page: Compile JournalWidgetV2
+[2023.08.01-17.23.01:762][820]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2023.08.01-17.23.02:566][835]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.23.02:639][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.01-17.23.02:698][835]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.01-17.23.02:698][835]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV2D89DCA0441E111D7CCA906ADED13958C.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.01-17.23.02:709][835]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 13.5 sec)
+[2023.08.01-17.23.02:720][835]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.01-17.23.02:720][835]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.01-17.24.02:842][782]BlueprintLog: New page: Compile JournalWidgetV2
+[2023.08.01-17.24.03:023][782]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.08.01-17.24.03:224][782]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.24.03:297][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.01-17.24.03:361][782]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.01-17.24.03:362][782]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV28F51A8834EAACE0338400DB0E474E799.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.01-17.24.03:373][782]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 13.6 sec)
+[2023.08.01-17.24.03:385][782]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.01-17.24.03:385][782]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.01-17.24.03:656][784]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.24.03:719][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.01-17.24.03:794][784]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.01-17.24.03:794][784]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV25D0FDBD642E1428AEB92DDBEFE98E38C.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.01-17.24.03:806][784]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 13.8 sec)
+[2023.08.01-17.24.03:816][784]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.01-17.24.03:816][784]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.01-17.24.10:068][ 67]BlueprintLog: New page: Compile JournalWidgetV2
+[2023.08.01-17.24.10:273][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.08.01-17.24.10:853][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.24.10:923][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.01-17.24.10:999][ 76]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.01-17.24.11:000][ 76]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV2EAE1C11E496907ED643E5DB9654C54FC.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.01-17.24.11:011][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 13.9 sec)
+[2023.08.01-17.24.11:022][ 76]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.01-17.24.11:022][ 76]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.01-17.24.25:939][777]BlueprintLog: New page: Compile JournalWidgetV2
+[2023.08.01-17.24.26:120][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.08.01-17.24.26:316][777]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.24.26:388][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.01-17.24.26:449][777]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.01-17.24.26:449][777]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV2B6D13FEE45DA26887F0BDD8D866F2895.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.01-17.24.26:460][777]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 14.1 sec)
+[2023.08.01-17.24.26:472][777]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.01-17.24.26:472][777]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.01-17.24.52:699][966]BlueprintLog: New page: Compile JournalWidgetV2
+[2023.08.01-17.24.52:895][966]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.08.01-17.24.53:101][966]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.24.53:169][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.01-17.24.53:237][966]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.01-17.24.53:238][966]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV24146EB0D48E4D1835EF2299DA8C45DFE.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.01-17.24.53:249][966]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 14.2 sec)
+[2023.08.01-17.24.53:261][966]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.01-17.24.53:261][966]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.01-17.25.22:174][258]BlueprintLog: New page: Compile JournalWidgetV2
+[2023.08.01-17.25.22:353][258]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.08.01-17.25.22:566][258]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.25.22:649][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.01-17.25.22:712][258]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.01-17.25.22:712][258]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV295EE8F6C420803D777D44B94A1948F49.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.01-17.25.22:725][258]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 14.4 sec)
+[2023.08.01-17.25.22:735][258]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.01-17.25.22:735][258]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.01-17.25.22:985][259]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.25.23:049][259]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.01-17.25.23:113][259]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.01-17.25.23:113][259]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV2BC4F98274D4200A2B0168DAC73F52368.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.01-17.25.23:125][259]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 14.5 sec)
+[2023.08.01-17.25.23:135][259]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.01-17.25.23:135][259]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.01-17.25.30:660][575]BlueprintLog: New page: Compile JournalWidgetV2
+[2023.08.01-17.25.30:846][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.08.01-17.25.31:319][576]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.01-17.25.31:397][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.01-17.25.31:462][576]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.01-17.25.31:462][576]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV2D5283AD2447D55D50A5B4B9623A837C8.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.01-17.25.31:473][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 14.7 sec)
+[2023.08.01-17.25.31:484][576]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.01-17.25.31:484][576]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.01-17.25.32:561][624]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.08.01-17.25.32:575][624]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.01-17.25.32:575][624]PIE: New page: PIE session: MainLevel (Aug. 1, 2023, 3:25:32 a.m.)
+[2023.08.01-17.25.32:575][624]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2023.08.01-17.25.32:603][624]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028024s)
+[2023.08.01-17.25.32:603][624]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.028059s)
+[2023.08.01-17.25.32:603][624]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.01-17.25.32:604][624]LogAIModule: Creating AISystem for world MainLevel
+[2023.08.01-17.25.32:604][624]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2023.08.01-17.25.32:699][624]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2023.08.01-17.25.32:701][624]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2023.08.01-17.25.32:701][624]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.01-17.25.32:701][624]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.01-17.25.32:701][624]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.01-17.25.32:701][624]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.01-17.25.32:701][624]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.01-17.25.32:701][624]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.01-17.25.32:701][624]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.01-17.25.32:701][624]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.01-17.25.32:702][624]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.08.01-17.25.32:702][624]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.08.01-17.25.32:702][624]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.01-17.25.32:704][624]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.01-17.25.32:715][624]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.08.01-17.25.32:716][624]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.01-17.25.32:716][624]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.01-17.25.32:716][624]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.01-17.25.32:716][624]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=56
+[2023.08.01-17.25.32:716][624]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=56
+[2023.08.01-17.25.32:718][624]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=56
+[2023.08.01-17.25.32:718][624]LogInit: FAudioDevice initialized.
+[2023.08.01-17.25.32:718][624]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=56
+[2023.08.01-17.25.32:718][624]LogAudio: Display: Audio Device (ID: 56) registered with world 'MainLevel'.
+[2023.08.01-17.25.32:746][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.01-17.25.32:952][624]LogLoad: Game class is 'VRGameMode_C'
+[2023.08.01-17.25.32:958][624]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.08.01-10.25.32
+[2023.08.01-17.25.32:958][624]LogWorld: Bringing up level for play took: 0.005915
+[2023.08.01-17.25.32:960][624]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2023.08.01-17.25.32:964][624]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.08.01-17.25.32:966][624]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.08.01-17.25.32:969][624]LogLinker: Warning: Failed to load '/Engine/Transient': Can't find file.
+[2023.08.01-17.25.32:980][624]Cmd: vr.PixelDensity 1.0
+[2023.08.01-17.25.32:980][624]vr.PixelDensity = "1"
+[2023.08.01-17.25.32:994][624]PIE: Server logged in
+[2023.08.01-17.25.33:002][624]PIE: Play in editor total start time 0.428 seconds.
+[2023.08.01-17.25.33:025][624]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambient'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.08.01-17.25.33:045][624]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.08.01-17.25.33:051][624]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.08.01-17.25.33:068][624]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.08.01-17.25.56:477][268]LogStreaming: Warning: Failed to read file 'C:/Users/300339869/Documents/CustomRockModels/Rock/Rock_N.png' error.
+[2023.08.01-17.25.56:638][268]LogTemp: mNumMeshes: 0, mNumChildren of Node: 3
+[2023.08.01-17.25.56:638][268]LogTemp: mNumMeshes: 0, mNumChildren of Node: 0
+[2023.08.01-17.25.56:638][268]LogTemp: mNumMeshes: 0, mNumChildren of Node: 0
+[2023.08.01-17.25.56:638][268]LogTemp: Loading Mesh at index: 0
+[2023.08.01-17.25.56:672][268]LogTemp: mNumFaces: 115088
+[2023.08.01-17.25.56:686][268]LogTemp: mNumMeshes: 1, mNumChildren of Node: 0
+[2023.08.01-17.26.15:518][734]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.01-17.26.17:204][775]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.01-17.26.24:444][956]LogStreaming: Warning: Failed to read file 'C:/Users/300339869/Documents/CustomRockModels/Rock/Rock_N.png' error.
+[2023.08.01-17.26.24:610][956]LogTemp: mNumMeshes: 0, mNumChildren of Node: 3
+[2023.08.01-17.26.24:610][956]LogTemp: mNumMeshes: 0, mNumChildren of Node: 0
+[2023.08.01-17.26.24:610][956]LogTemp: mNumMeshes: 0, mNumChildren of Node: 0
+[2023.08.01-17.26.24:610][956]LogTemp: Loading Mesh at index: 0
+[2023.08.01-17.26.24:646][956]LogTemp: mNumFaces: 115088
+[2023.08.01-17.26.24:663][956]LogTemp: mNumMeshes: 1, mNumChildren of Node: 0
+[2023.08.01-17.26.28:730][  0]LogStreaming: Warning: Failed to read file 'C:/Users/300339869/Documents/CustomRockModels/Gneiss/Gneiss_N.png' error.
+[2023.08.01-17.26.29:315][  0]LogTemp: mNumMeshes: 0, mNumChildren of Node: 1
+[2023.08.01-17.26.29:315][  0]LogTemp: Loading Mesh at index: 0
+[2023.08.01-17.26.29:369][  0]LogTemp: mNumFaces: 200000
+[2023.08.01-17.26.29:387][  0]LogTemp: mNumMeshes: 1, mNumChildren of Node: 0
+[2023.08.01-17.26.52:185][547]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.01-17.26.57:504][681]LogStreaming: Warning: Failed to read file 'C:/Users/300339869/Documents/CustomRockModels/Rock/Rock_N.png' error.
+[2023.08.01-17.26.57:663][681]LogTemp: mNumMeshes: 0, mNumChildren of Node: 3
+[2023.08.01-17.26.57:663][681]LogTemp: mNumMeshes: 0, mNumChildren of Node: 0
+[2023.08.01-17.26.57:663][681]LogTemp: mNumMeshes: 0, mNumChildren of Node: 0
+[2023.08.01-17.26.57:663][681]LogTemp: Loading Mesh at index: 0
+[2023.08.01-17.26.57:695][681]LogTemp: mNumFaces: 115088
+[2023.08.01-17.26.57:708][681]LogTemp: mNumMeshes: 1, mNumChildren of Node: 0
+[2023.08.01-17.27.25:853][356]LogDerivedDataCache: C:/Users/300339869/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.203 and deleted 82 files with total size 19 MiB. Scanned 9502 files in 9328 folders with total size 1710 MiB.
+[2023.08.01-17.27.31:271][500]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.01-17.27.43:201][797]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.01-17.27.44:004][819]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.01-17.27.56:052][116]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.01-17.28.40:929][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.01-17.28.40:929][460]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.08.01-17.28.41:014][460]LogSlate: Window 'EAESFieldLabVR Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.86.0)' being destroyed
+[2023.08.01-17.28.41:018][460]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.08.01-17.28.41:019][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.01-17.28.41:021][460]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.01-17.28.41:031][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.01-17.28.41:121][460]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.01-17.28.41:123][460]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.08.01-17.28.41:123][460]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2023.08.01-17.28.41:124][460]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2023.08.01-17.28.41:202][460]LogSlate: Slate User Unregistered.  User Index 8
+[2023.08.01-17.28.41:202][460]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.08.01-17.28.41:206][460]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2023.08.01-17.28.41:268][461]LogPlayLevel: Display: Destroying online subsystem :Context_70
