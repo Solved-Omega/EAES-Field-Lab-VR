@@ -1,12 +1,12 @@
 {
-    "Version": "1.2",
+    "Version": "1.1",
     "Data": {
-        "Source": "c:\\users\\cmptd\\documents\\github\\eaes-field-lab-vr-reworked\\eaesfieldlabvr\\source\\eaesfieldlabvr\\eaesfieldlabvr.cpp",
+        "Source": "f:\\download\\eaes-bitbucket\\eaesfieldlabvr\\source\\eaesfieldlabvr\\eaesfieldlabvr.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\cmptd\\documents\\github\\eaes-field-lab-vr-reworked\\eaesfieldlabvr\\intermediate\\build\\win64\\eaesfieldlabvreditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "PCH": "f:\\download\\eaes-bitbucket\\eaesfieldlabvr\\intermediate\\build\\win64\\eaesfieldlabvreditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
         "Includes": [
-            "c:\\users\\cmptd\\documents\\github\\eaes-field-lab-vr-reworked\\eaesfieldlabvr\\intermediate\\build\\win64\\unrealeditor\\development\\eaesfieldlabvr\\definitions.eaesfieldlabvr.h",
-            "c:\\users\\cmptd\\documents\\github\\eaes-field-lab-vr-reworked\\eaesfieldlabvr\\source\\eaesfieldlabvr\\eaesfieldlabvr.h"
+            "f:\\download\\eaes-bitbucket\\eaesfieldlabvr\\intermediate\\build\\win64\\unrealeditor\\development\\eaesfieldlabvr\\definitions.eaesfieldlabvr.h",
+            "f:\\download\\eaes-bitbucket\\eaesfieldlabvr\\source\\eaesfieldlabvr\\eaesfieldlabvr.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
