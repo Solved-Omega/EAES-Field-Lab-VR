@@ -12,39 +12,15 @@
 	{
 		"MajorVersion": 5,
 		"MinorVersion": 1,
-		"PatchVersion": 1,
-		"Changelist": 23901901,
-		"CompatibleChangelist": 23058290,
+		"PatchVersion": 0,
+		"Changelist": 23058290,
+		"CompatibleChangelist": 0,
 		"IsLicenseeVersion": 0,
 		"IsPromotedBuild": 0,
 		"BranchName": "++UE5+Release-5.1",
 		"BuildId": "23058290"
 	},
 	"BuildProducts": [
-		{
-			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor-EAESFieldLabVR.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor-EAESFieldLabVR.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/RuntimeMeshLoader/Binaries/Win64/UnrealEditor-RuntimeMeshLoader.dll",
-			"Type": "DynamicLibrary"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/RuntimeMeshLoader/Binaries/Win64/UnrealEditor-RuntimeMeshLoader.pdb",
-			"Type": "SymbolFile"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/RuntimeMeshLoader/Binaries/Win64/UnrealEditor.modules",
-			"Type": "RequiredResource"
-		},
 		{
 			"Path": "$(EngineDir)/Binaries/Win64/AgentInterface.dll",
 			"Type": "RequiredResource"
@@ -3296,21 +3272,33 @@
 		{
 			"Path": "$(EngineDir)/Plugins/XGEController/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor-EAESFieldLabVR.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor-EAESFieldLabVR.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/RuntimeMeshLoader/Binaries/Win64/UnrealEditor-RuntimeMeshLoader.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/RuntimeMeshLoader/Binaries/Win64/UnrealEditor-RuntimeMeshLoader.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/RuntimeMeshLoader/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
 		}
 	],
 	"RuntimeDependencies": [
-		{
-			"Path": "$(ProjectDir)/EAESFieldLabVR.uproject",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/RuntimeMeshLoader/RuntimeMeshLoader.uplugin",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(ProjectDir)/Plugins/RuntimeMeshLoader/ThirdParty/assimp/bin/assimp-vc142-mt.dll",
-			"Type": "NonUFS"
-		},
 		{
 			"Path": "$(EngineDir)/Binaries/ThirdParty/ARM/Win64/astcenc-sse2.exe",
 			"Type": "NonUFS"
@@ -24394,6 +24382,18 @@
 		{
 			"Path": "$(EngineDir)/Plugins/XGEController/XGEController.uplugin",
 			"Type": "UFS"
+		},
+		{
+			"Path": "$(ProjectDir)/EAESFieldLabVR.uproject",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/RuntimeMeshLoader/RuntimeMeshLoader.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/RuntimeMeshLoader/ThirdParty/assimp/bin/assimp-vc142-mt.dll",
+			"Type": "NonUFS"
 		}
 	],
 	"AdditionalProperties": [
