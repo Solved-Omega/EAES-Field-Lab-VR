@@ -1320,3 +1320,788 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.04-15.53.40:702][121]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
 [2023.08.04-15.53.40:728][121]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
 [2023.08.04-15.53.40:762][122]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2023.08.04-15.56.46:793][307]LogShaderCompilers: Display: ================================================
+[2023.08.04-15.56.46:793][307]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.04-15.56.46:793][307]LogShaderCompilers: Display: Total job queries 314, among them cache hits 73 (23.25%)
+[2023.08.04-15.56.46:793][307]LogShaderCompilers: Display: Tracking 241 distinct input hashes that result in 145 distinct outputs (60.17%)
+[2023.08.04-15.56.46:793][307]LogShaderCompilers: Display: RAM used: 2.18 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.13%
+[2023.08.04-15.56.46:793][307]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.04-15.56.46:793][307]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.08.04-15.56.46:793][307]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.08.04-15.56.46:793][307]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.08.04-15.56.46:793][307]LogShaderCompilers: Display: ================================================
+[2023.08.04-15.56.47:786][365]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2023.08.04-15.56.47:787][365]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.04-15.56.52:288][575]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/RockWidget.RockWidget
+[2023.08.04-15.56.52:288][575]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.04-15.56.52:314][575]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.04-15.56.52:809][575]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.04-15.56.52:809][575]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.04-15.57.01:305][  3]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-15.57.01:305][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-15.57.01:326][  3]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-15.57.01:326][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-15.57.37:599][756]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2023.08.04-15.57.37:600][756]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.116
+[2023.08.04-15.57.37:601][756]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/CustomizeRockWidget] ([2] browsable assets)...
+[2023.08.04-15.57.37:605][756]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/CustomizeRockWidget.CustomizeRockWidget]
+[2023.08.04-15.57.37:605][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/CustomizeRockWidget]
+[2023.08.04-15.57.37:652][756]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/CustomizeRockWidget_Auto1
+[2023.08.04-15.57.37:653][756]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/CustomizeRockWidget_Auto17AC0ABB0410CB84AA0A8A791A41661C0.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/Autosaves/Game/Widgets/CustomizeRockWidget_Auto1.uasset'
+[2023.08.04-15.57.37:654][756]LogFileHelpers: Auto-saving content packages took 0.054
+[2023.08.04-16.00.44:815][177]BlueprintLog: New page: Compile VRPawn
+[2023.08.04-16.00.45:101][177]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.08.04-16.02.25:761][749]BlueprintLog: New page: Compile VRPawn
+[2023.08.04-16.02.26:039][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.08.04-16.02.26:146][749]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.04-16.02.26:226][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2023.08.04-16.02.26:433][749]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2023.08.04-16.02.26:434][749]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/VRPawnE1D8E7FA47FD2F0707F94BBBD41ECD4C.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Blueprints/VRPawn.uasset'
+[2023.08.04-16.02.26:441][749]LogFileHelpers: InternalPromptForCheckoutAndSave took 295 ms (total: 529 ms)
+[2023.08.04-16.02.26:456][749]AssetCheck: New page: Asset Save: VRPawn
+[2023.08.04-16.02.26:456][749]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2023.08.04-16.02.26:625][753]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.08.04-16.02.26:642][753]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.08.04-16.02.26:663][753]LogPlayLevel: [PlayLevel] Compiling CustomizeRockWidget before play...
+[2023.08.04-16.02.26:790][753]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.04-16.02.26:850][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/CustomizeRockWidget" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/CustomizeRockWidget.uasset" SILENT=true
+[2023.08.04-16.02.26:892][753]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRockWidget
+[2023.08.04-16.02.26:893][753]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/CustomizeRockWidget0251A3B8404339009666A5A3B29296D5.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/CustomizeRockWidget.uasset'
+[2023.08.04-16.02.26:900][753]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 640 ms)
+[2023.08.04-16.02.26:971][753]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2023.08.04-16.02.26:975][753]LogPlayLevel: PlayLevel: Blueprint regeneration took 333 ms (1 blueprints)
+[2023.08.04-16.02.26:975][753]PIE: New page: PIE session: MainLevel (Aug. 4, 2023, 2:02:26 a.m.)
+[2023.08.04-16.02.26:975][753]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2023.08.04-16.02.27:007][753]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031129s)
+[2023.08.04-16.02.27:007][753]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.031168s)
+[2023.08.04-16.02.27:007][753]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.04-16.02.27:007][753]LogAIModule: Creating AISystem for world MainLevel
+[2023.08.04-16.02.27:007][753]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2023.08.04-16.02.27:067][753]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.08.04-16.02.27:067][753]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.08.04-16.02.27:067][753]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.04-16.02.27:067][753]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.04-16.02.27:068][753]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.04-16.02.27:068][753]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.04-16.02.27:068][753]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.04-16.02.27:068][753]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.04-16.02.27:068][753]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.04-16.02.27:068][753]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.04-16.02.27:068][753]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.08.04-16.02.27:068][753]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.08.04-16.02.27:068][753]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.04-16.02.27:070][753]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.04-16.02.27:083][753]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.08.04-16.02.27:083][753]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.04-16.02.27:084][753]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.04-16.02.27:084][753]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.04-16.02.27:084][753]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.08.04-16.02.27:084][753]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.08.04-16.02.27:086][753]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.08.04-16.02.27:086][753]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.08.04-16.02.27:086][753]LogInit: FAudioDevice initialized.
+[2023.08.04-16.02.27:086][753]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainLevel'.
+[2023.08.04-16.02.27:122][753]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-16.02.27:323][753]LogLoad: Game class is 'VRGameMode_C'
+[2023.08.04-16.02.27:332][753]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.08.04-09.02.27
+[2023.08.04-16.02.27:333][753]LogWorld: Bringing up level for play took: 0.008391
+[2023.08.04-16.02.27:335][753]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2023.08.04-16.02.27:339][753]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.08.04-16.02.27:341][753]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.08.04-16.02.27:343][753]LogLinker: Warning: Failed to load '/Engine/Transient': Can't find file.
+[2023.08.04-16.02.27:345][753]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Map Data.sav' error.
+[2023.08.04-16.02.27:346][753]Cmd: vr.PixelDensity 1.0
+[2023.08.04-16.02.27:346][753]vr.PixelDensity = "1"
+[2023.08.04-16.02.27:349][753]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Player Data.sav' error.
+[2023.08.04-16.02.27:356][753]PIE: Server logged in
+[2023.08.04-16.02.27:360][753]PIE: Play in editor total start time 0.718 seconds.
+[2023.08.04-16.02.27:364][753]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Map Data.sav' error.
+[2023.08.04-16.02.27:371][753]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambient'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.08.04-16.02.27:459][753]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.08.04-16.02.27:467][753]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.08.04-16.02.27:485][753]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.08.04-16.02.27:540][754]AssetCheck: New page: Asset Save: CustomizeRockWidget
+[2023.08.04-16.02.27:540][754]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRockWidget.CustomizeRockWidget
+[2023.08.04-16.02.54:835][676]LogNet: Browse: /Game/Levels/MainMenuLevel
+[2023.08.04-16.02.54:836][676]LogLoad: LoadMap: /Game/Levels/MainMenuLevel
+[2023.08.04-16.02.54:836][676]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.08.04-16.02.54:837][676]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-16.02.54:838][676]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-16.02.54:916][676]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.04-16.02.54:921][676]LogSlate: Slate User Unregistered.  User Index 8
+[2023.08.04-16.02.54:921][676]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.08.04-16.02.54:924][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.08.04-16.02.54:948][676]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMenuLevel'.
+[2023.08.04-16.02.54:948][676]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.04-16.02.54:948][676]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.08.04-16.02.54:948][676]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2023.08.04-16.02.54:948][676]LogLoad: Game class is 'VRGameMode_C'
+[2023.08.04-16.02.54:949][676]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2023.08.04-09.02.54
+[2023.08.04-16.02.54:949][676]LogWorld: Bringing up level for play took: 0.000509
+[2023.08.04-16.02.54:953][676]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.08.04-16.02.54:955][676]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.08.04-16.02.54:957][676]Cmd: vr.PixelDensity 1.0
+[2023.08.04-16.02.54:957][676]vr.PixelDensity = "1"
+[2023.08.04-16.02.54:959][676]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Player Data.sav' error.
+[2023.08.04-16.02.54:959][676]LogLoad: Took 0.123856 seconds to LoadMap(/Game/Levels/MainMenuLevel)
+[2023.08.04-16.02.54:962][676]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Map Data.sav' error.
+[2023.08.04-16.02.56:315][748]LogNet: Browse: /Game/Levels/MainLevel
+[2023.08.04-16.02.56:315][748]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2023.08.04-16.02.56:315][748]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.08.04-16.02.56:317][748]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-16.02.56:317][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-16.02.56:402][748]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.04-16.02.56:403][748]LogSlate: Slate User Unregistered.  User Index 8
+[2023.08.04-16.02.56:403][748]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.08.04-16.02.56:406][748]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.08.04-16.02.56:408][748]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2023.08.04-16.02.56:432][748]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023817s)
+[2023.08.04-16.02.56:432][748]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.023857s)
+[2023.08.04-16.02.56:432][748]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainLevel'.
+[2023.08.04-16.02.56:432][748]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.04-16.02.56:432][748]LogAIModule: Creating AISystem for world MainLevel
+[2023.08.04-16.02.56:432][748]LogPlayLevel: PIE: World Init took: (0.000792s)
+[2023.08.04-16.02.56:432][748]LogLoad: Game class is 'VRGameMode_C'
+[2023.08.04-16.02.56:438][748]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.08.04-09.02.56
+[2023.08.04-16.02.56:439][748]LogWorld: Bringing up level for play took: 0.005851
+[2023.08.04-16.02.56:442][748]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.08.04-16.02.56:445][748]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.08.04-16.02.56:446][748]LogLinker: Warning: Failed to load '/Engine/Transient': Can't find file.
+[2023.08.04-16.02.56:448][748]Cmd: vr.PixelDensity 1.0
+[2023.08.04-16.02.56:448][748]vr.PixelDensity = "1"
+[2023.08.04-16.02.56:450][748]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Player Data.sav' error.
+[2023.08.04-16.02.56:450][748]LogLoad: Took 0.134327 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2023.08.04-16.02.56:456][748]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Map Data.sav' error.
+[2023.08.04-16.02.56:460][748]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambient'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.08.04-16.02.57:458][773]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.02.57:547][774]LogShaderCompilers: Display: ================================================
+[2023.08.04-16.02.57:547][774]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.04-16.02.57:547][774]LogShaderCompilers: Display: Total job queries 331, among them cache hits 75 (22.66%)
+[2023.08.04-16.02.57:547][774]LogShaderCompilers: Display: Tracking 256 distinct input hashes that result in 157 distinct outputs (61.33%)
+[2023.08.04-16.02.57:547][774]LogShaderCompilers: Display: RAM used: 2.35 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.14%
+[2023.08.04-16.02.57:547][774]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.04-16.02.57:547][774]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.08.04-16.02.57:547][774]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.08.04-16.02.57:547][774]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.08.04-16.02.57:547][774]LogShaderCompilers: Display: ================================================
+[2023.08.04-16.02.57:565][775]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2023.08.04-16.02.57:776][779]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.02.58:028][785]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.02.58:473][796]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.02.58:752][803]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.02.59:920][833]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.03.00:604][851]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.03.01:093][865]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.03.01:507][877]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.03.02:862][918]LogScript: Warning: Accessed None trying to read property As Custom Rock Model
+	CustomizeRockWidget_C /Engine/Transient.UnrealEdEngine_0:EAES-GameInstance_C_1.CustomizeRockWidget_C_2
+	Function /Game/Widgets/CustomizeRockWidget.CustomizeRockWidget_C:Get_MSMInput_Value:0021
+[2023.08.04-16.03.02:862][918]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.02:913][919]LogScript: Warning: Accessed None trying to read property As Custom Rock Model
+	CustomizeRockWidget_C /Engine/Transient.UnrealEdEngine_0:EAES-GameInstance_C_1.CustomizeRockWidget_C_2
+	Function /Game/Widgets/CustomizeRockWidget.CustomizeRockWidget_C:Get_MSMInput_Value:0021
+[2023.08.04-16.03.02:913][919]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.02:937][920]LogScript: Warning: Accessed None trying to read property As Custom Rock Model
+	CustomizeRockWidget_C /Engine/Transient.UnrealEdEngine_0:EAES-GameInstance_C_1.CustomizeRockWidget_C_2
+	Function /Game/Widgets/CustomizeRockWidget.CustomizeRockWidget_C:Get_MSMInput_Value:0021
+[2023.08.04-16.03.02:937][920]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.02:971][921]LogScript: Warning: Accessed None trying to read property As Custom Rock Model
+	CustomizeRockWidget_C /Engine/Transient.UnrealEdEngine_0:EAES-GameInstance_C_1.CustomizeRockWidget_C_2
+	Function /Game/Widgets/CustomizeRockWidget.CustomizeRockWidget_C:Get_MSMInput_Value:0021
+[2023.08.04-16.03.02:971][921]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.03:020][922]LogScript: Warning: Accessed None trying to read property As Custom Rock Model
+	CustomizeRockWidget_C /Engine/Transient.UnrealEdEngine_0:EAES-GameInstance_C_1.CustomizeRockWidget_C_2
+	Function /Game/Widgets/CustomizeRockWidget.CustomizeRockWidget_C:Get_MSMInput_Value:0021
+[2023.08.04-16.03.03:020][922]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.03:070][923]LogScript: Warning: Accessed None trying to read property As Custom Rock Model
+	CustomizeRockWidget_C /Engine/Transient.UnrealEdEngine_0:EAES-GameInstance_C_1.CustomizeRockWidget_C_2
+	Function /Game/Widgets/CustomizeRockWidget.CustomizeRockWidget_C:Get_MSMInput_Value:0021
+[2023.08.04-16.03.03:070][923]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.03:097][924]LogScript: Warning: Accessed None trying to read property As Custom Rock Model
+	CustomizeRockWidget_C /Engine/Transient.UnrealEdEngine_0:EAES-GameInstance_C_1.CustomizeRockWidget_C_2
+	Function /Game/Widgets/CustomizeRockWidget.CustomizeRockWidget_C:Get_MSMInput_Value:0021
+[2023.08.04-16.03.03:098][924]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.03:126][925]LogScript: Warning: Accessed None trying to read property As Custom Rock Model
+	CustomizeRockWidget_C /Engine/Transient.UnrealEdEngine_0:EAES-GameInstance_C_1.CustomizeRockWidget_C_2
+	Function /Game/Widgets/CustomizeRockWidget.CustomizeRockWidget_C:Get_MSMInput_Value:0021
+[2023.08.04-16.03.03:126][925]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.03:179][926]LogScript: Warning: Accessed None trying to read property As Custom Rock Model
+	CustomizeRockWidget_C /Engine/Transient.UnrealEdEngine_0:EAES-GameInstance_C_1.CustomizeRockWidget_C_2
+	Function /Game/Widgets/CustomizeRockWidget.CustomizeRockWidget_C:Get_MSMInput_Value:0021
+[2023.08.04-16.03.03:179][926]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.03:205][927]LogScript: Warning: Accessed None trying to read property As Custom Rock Model
+	CustomizeRockWidget_C /Engine/Transient.UnrealEdEngine_0:EAES-GameInstance_C_1.CustomizeRockWidget_C_2
+	Function /Game/Widgets/CustomizeRockWidget.CustomizeRockWidget_C:Get_MSMInput_Value:0021
+[2023.08.04-16.03.03:205][927]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.03:256][928]LogScript: Warning: Accessed None trying to read property As Custom Rock Model
+	CustomizeRockWidget_C /Engine/Transient.UnrealEdEngine_0:EAES-GameInstance_C_1.CustomizeRockWidget_C_2
+	Function /Game/Widgets/CustomizeRockWidget.CustomizeRockWidget_C:Get_MSMInput_Value:0021
+[2023.08.04-16.03.03:256][928]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.03:284][929]LogScript: Warning: Accessed None trying to read property As Custom Rock Model
+	CustomizeRockWidget_C /Engine/Transient.UnrealEdEngine_0:EAES-GameInstance_C_1.CustomizeRockWidget_C_2
+	Function /Game/Widgets/CustomizeRockWidget.CustomizeRockWidget_C:Get_MSMInput_Value:0021
+[2023.08.04-16.03.03:284][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.03:315][930]LogScript: Warning: Accessed None trying to read property As Custom Rock Model
+	CustomizeRockWidget_C /Engine/Transient.UnrealEdEngine_0:EAES-GameInstance_C_1.CustomizeRockWidget_C_2
+	Function /Game/Widgets/CustomizeRockWidget.CustomizeRockWidget_C:Get_MSMInput_Value:0021
+[2023.08.04-16.03.03:315][930]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.03:358][931]LogScript: Warning: Accessed None trying to read property As Custom Rock Model
+	CustomizeRockWidget_C /Engine/Transient.UnrealEdEngine_0:EAES-GameInstance_C_1.CustomizeRockWidget_C_2
+	Function /Game/Widgets/CustomizeRockWidget.CustomizeRockWidget_C:Get_MSMInput_Value:0021
+[2023.08.04-16.03.03:358][931]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.03:412][932]LogScript: Warning: Accessed None trying to read property As Custom Rock Model
+	CustomizeRockWidget_C /Engine/Transient.UnrealEdEngine_0:EAES-GameInstance_C_1.CustomizeRockWidget_C_2
+	Function /Game/Widgets/CustomizeRockWidget.CustomizeRockWidget_C:Get_MSMInput_Value:0021
+[2023.08.04-16.03.03:412][932]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.03:436][933]LogScript: Warning: Accessed None trying to read property As Custom Rock Model
+	CustomizeRockWidget_C /Engine/Transient.UnrealEdEngine_0:EAES-GameInstance_C_1.CustomizeRockWidget_C_2
+	Function /Game/Widgets/CustomizeRockWidget.CustomizeRockWidget_C:Get_MSMInput_Value:0021
+[2023.08.04-16.03.03:436][933]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.03:490][934]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.03:516][935]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.03:571][936]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.03:599][937]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.03:648][938]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.03:677][939]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.03:729][940]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.03:750][941]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.03:805][942]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.03:829][943]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.03:878][944]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.03:906][945]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.03:934][946]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.03:980][947]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.04:009][948]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.04:062][949]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.04:086][950]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.04:115][951]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.04:168][952]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.04:192][953]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.04:241][954]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.04:267][955]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.04:294][956]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.04:341][957]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.04:368][958]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.04:420][959]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.04:443][960]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.04:499][961]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.04:525][962]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.04:574][963]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.04:602][964]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.04:630][965]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.04:675][966]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.04:703][967]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.04:756][968]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.04:779][969]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.04:811][970]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.04:861][971]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.04:886][972]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.04:941][973]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.04:968][974]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.04:991][975]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.05:041][976]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.05:070][977]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.05:121][978]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.05:144][979]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.05:175][980]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.05:226][981]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.05:249][982]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.05:304][983]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.05:329][984]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.05:378][985]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.05:406][986]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.05:458][987]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.05:482][988]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.05:510][989]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.05:564][990]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.05:587][991]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.05:613][992]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.05:663][993]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.05:687][994]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.05:736][995]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.05:766][996]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.05:795][997]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.05:842][998]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.05:873][999]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.05:926][  0]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.05:950][  1]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.05:982][  2]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.06:012][  3]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.06:059][  4]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.06:085][  5]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.06:137][  6]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.06:163][  7]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.06:213][  8]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.06:242][  9]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.06:269][ 10]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.06:320][ 11]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.06:350][ 12]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.06:377][ 13]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.06:428][ 14]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.06:450][ 15]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.06:505][ 16]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.06:531][ 17]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.06:557][ 18]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.06:610][ 19]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.06:635][ 20]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.06:685][ 21]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.06:715][ 22]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.06:742][ 23]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.06:793][ 24]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.06:814][ 25]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.06:868][ 26]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.06:894][ 27]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.06:949][ 28]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.06:976][ 29]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.07:000][ 30]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.07:057][ 31]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.07:084][ 32]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.07:111][ 33]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.07:156][ 34]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.07:186][ 35]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.07:234][ 36]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.07:264][ 37]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Return Node Graph:  Get_MSMInput_Value Function:  Get MSMInput Value Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.07:294][ 38]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Customize Rock Widget Blueprint:  CustomizeRockWidget
+[2023.08.04-16.03.15:086][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-16.03.15:086][259]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.08.04-16.03.15:174][259]LogSlate: Window 'EAESFieldLabVR Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.86.0)' being destroyed
+[2023.08.04-16.03.15:177][259]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-16.03.15:177][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-16.03.15:180][259]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.04-16.03.15:191][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-16.03.15:254][259]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.08.04-16.03.15:255][259]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.08.04-16.03.15:256][259]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.08.04-16.03.15:265][259]LogSlate: Slate User Unregistered.  User Index 8
+[2023.08.04-16.03.15:265][259]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.08.04-16.03.15:269][259]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.08.04-16.03.15:460][260]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2023.08.04-16.04.00:171][395]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.04-16.04.00:171][395]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.04-16.04.06:353][670]LogSlate: Took 0.011297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NotoColorEmoji.ttf' (7610K)
+[2023.08.04-16.04.30:837][921]BlueprintLog: New page: Compile CustomizeRockWidget
+[2023.08.04-16.04.30:979][921]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.08.04-16.04.31:598][939]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.04-16.04.31:658][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/CustomizeRockWidget" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/CustomizeRockWidget.uasset" SILENT=true
+[2023.08.04-16.04.31:693][939]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRockWidget
+[2023.08.04-16.04.31:694][939]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/CustomizeRockWidgetB018B739422ABAA11F9CC6BA2569A870.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/CustomizeRockWidget.uasset'
+[2023.08.04-16.04.31:701][939]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 743 ms)
+[2023.08.04-16.04.31:713][939]AssetCheck: New page: Asset Save: CustomizeRockWidget
+[2023.08.04-16.04.31:713][939]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRockWidget.CustomizeRockWidget
+[2023.08.04-16.05.49:893][ 51]BlueprintLog: New page: Compile CustomizeRockWidget
+[2023.08.04-16.05.50:024][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.08.04-16.05.50:093][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.04-16.05.50:163][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/CustomizeRockWidget" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/CustomizeRockWidget.uasset" SILENT=true
+[2023.08.04-16.05.50:205][ 51]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRockWidget
+[2023.08.04-16.05.50:206][ 51]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/CustomizeRockWidget62D3132845E26BAD6A71DC88EFFCB587.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/CustomizeRockWidget.uasset'
+[2023.08.04-16.05.50:214][ 51]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 864 ms)
+[2023.08.04-16.05.50:228][ 51]AssetCheck: New page: Asset Save: CustomizeRockWidget
+[2023.08.04-16.05.50:228][ 51]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRockWidget.CustomizeRockWidget
+[2023.08.04-16.05.51:907][137]LogSlate: Window 'Message Log' being destroyed
+[2023.08.04-16.05.51:913][137]LogSlate: Window 'Message Log' being destroyed
+[2023.08.04-16.05.52:941][195]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.08.04-16.05.52:956][195]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.04-16.05.52:956][195]PIE: New page: PIE session: MainLevel (Aug. 4, 2023, 2:05:52 a.m.)
+[2023.08.04-16.05.52:956][195]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2023.08.04-16.05.52:987][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030543s)
+[2023.08.04-16.05.52:987][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.030577s)
+[2023.08.04-16.05.52:987][195]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.04-16.05.52:988][195]LogAIModule: Creating AISystem for world MainLevel
+[2023.08.04-16.05.52:988][195]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2023.08.04-16.05.53:054][195]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.08.04-16.05.53:057][195]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.08.04-16.05.53:057][195]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.04-16.05.53:057][195]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.04-16.05.53:057][195]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.04-16.05.53:057][195]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.04-16.05.53:057][195]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.04-16.05.53:057][195]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.04-16.05.53:057][195]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.04-16.05.53:057][195]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.04-16.05.53:058][195]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.08.04-16.05.53:058][195]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.08.04-16.05.53:058][195]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.04-16.05.53:060][195]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.04-16.05.53:072][195]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.08.04-16.05.53:072][195]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.04-16.05.53:072][195]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.04-16.05.53:072][195]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.04-16.05.53:073][195]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.08.04-16.05.53:073][195]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.08.04-16.05.53:075][195]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.08.04-16.05.53:075][195]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.08.04-16.05.53:075][195]LogInit: FAudioDevice initialized.
+[2023.08.04-16.05.53:075][195]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainLevel'.
+[2023.08.04-16.05.53:103][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-16.05.53:307][195]LogLoad: Game class is 'VRGameMode_C'
+[2023.08.04-16.05.53:313][195]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.08.04-09.05.53
+[2023.08.04-16.05.53:313][195]LogWorld: Bringing up level for play took: 0.005611
+[2023.08.04-16.05.53:315][195]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2023.08.04-16.05.53:319][195]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.08.04-16.05.53:320][195]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.08.04-16.05.53:322][195]LogLinker: Warning: Failed to load '/Engine/Transient': Can't find file.
+[2023.08.04-16.05.53:323][195]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Map Data.sav' error.
+[2023.08.04-16.05.53:324][195]Cmd: vr.PixelDensity 1.0
+[2023.08.04-16.05.53:324][195]vr.PixelDensity = "1"
+[2023.08.04-16.05.53:327][195]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Player Data.sav' error.
+[2023.08.04-16.05.53:332][195]PIE: Server logged in
+[2023.08.04-16.05.53:334][195]PIE: Play in editor total start time 0.377 seconds.
+[2023.08.04-16.05.53:337][195]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Map Data.sav' error.
+[2023.08.04-16.05.53:343][195]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambient'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.08.04-16.05.53:352][195]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.08.04-16.05.53:359][195]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.08.04-16.05.53:374][195]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.08.04-16.06.01:431][615]LogNet: Browse: /Game/Levels/MainMenuLevel
+[2023.08.04-16.06.01:431][615]LogLoad: LoadMap: /Game/Levels/MainMenuLevel
+[2023.08.04-16.06.01:431][615]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.08.04-16.06.01:432][615]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-16.06.01:433][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-16.06.01:508][615]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.04-16.06.01:511][615]LogSlate: Slate User Unregistered.  User Index 8
+[2023.08.04-16.06.01:511][615]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.08.04-16.06.01:513][615]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.08.04-16.06.01:533][615]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMenuLevel'.
+[2023.08.04-16.06.01:533][615]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.04-16.06.01:533][615]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.08.04-16.06.01:534][615]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2023.08.04-16.06.01:534][615]LogLoad: Game class is 'VRGameMode_C'
+[2023.08.04-16.06.01:535][615]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2023.08.04-09.06.01
+[2023.08.04-16.06.01:535][615]LogWorld: Bringing up level for play took: 0.000538
+[2023.08.04-16.06.01:537][615]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.08.04-16.06.01:539][615]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.08.04-16.06.01:541][615]Cmd: vr.PixelDensity 1.0
+[2023.08.04-16.06.01:541][615]vr.PixelDensity = "1"
+[2023.08.04-16.06.01:545][615]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Player Data.sav' error.
+[2023.08.04-16.06.01:545][615]LogLoad: Took 0.113158 seconds to LoadMap(/Game/Levels/MainMenuLevel)
+[2023.08.04-16.06.01:547][615]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Map Data.sav' error.
+[2023.08.04-16.06.02:694][698]LogNet: Browse: /Game/Levels/MainLevel
+[2023.08.04-16.06.02:694][698]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2023.08.04-16.06.02:694][698]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.08.04-16.06.02:696][698]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-16.06.02:696][698]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-16.06.02:786][698]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.04-16.06.02:787][698]LogSlate: Slate User Unregistered.  User Index 8
+[2023.08.04-16.06.02:787][698]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.08.04-16.06.02:789][698]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2023.08.04-16.06.02:791][698]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2023.08.04-16.06.02:815][698]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024900s)
+[2023.08.04-16.06.02:815][698]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.024933s)
+[2023.08.04-16.06.02:815][698]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainLevel'.
+[2023.08.04-16.06.02:815][698]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.04-16.06.02:816][698]LogAIModule: Creating AISystem for world MainLevel
+[2023.08.04-16.06.02:816][698]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2023.08.04-16.06.02:816][698]LogLoad: Game class is 'VRGameMode_C'
+[2023.08.04-16.06.02:823][698]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.08.04-09.06.02
+[2023.08.04-16.06.02:823][698]LogWorld: Bringing up level for play took: 0.005879
+[2023.08.04-16.06.02:825][698]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.08.04-16.06.02:827][698]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.08.04-16.06.02:828][698]LogLinker: Warning: Failed to load '/Engine/Transient': Can't find file.
+[2023.08.04-16.06.02:830][698]Cmd: vr.PixelDensity 1.0
+[2023.08.04-16.06.02:830][698]vr.PixelDensity = "1"
+[2023.08.04-16.06.02:832][698]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Player Data.sav' error.
+[2023.08.04-16.06.02:832][698]LogLoad: Took 0.137990 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2023.08.04-16.06.02:836][698]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Map Data.sav' error.
+[2023.08.04-16.06.02:841][698]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambient'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.08.04-16.06.04:283][734]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.06.04:572][741]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.06.04:757][746]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.06.05:039][753]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.06.05:304][760]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.06.05:854][774]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.06.06:503][791]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.06.06:924][803]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.06.07:234][812]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.06.18:077][106]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Custom Rock Model". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph Customize Rock Widget Blueprint:  CustomizeRockWidget
+[2023.08.04-16.06.23:426][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-16.06.23:426][260]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.08.04-16.06.23:465][260]LogSlate: Window 'EAESFieldLabVR Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.86.0)' being destroyed
+[2023.08.04-16.06.23:472][260]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-16.06.23:474][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-16.06.23:477][260]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.04-16.06.23:487][260]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-16.06.23:558][260]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.04-16.06.23:558][260]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.08.04-16.06.23:558][260]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.08.04-16.06.23:561][260]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.08.04-16.06.23:571][260]LogSlate: Slate User Unregistered.  User Index 8
+[2023.08.04-16.06.23:571][260]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.08.04-16.06.23:574][260]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.08.04-16.06.23:729][261]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.08.04-16.06.38:596][989]BlueprintLog: New page: Compile CustomizeRockWidget
+[2023.08.04-16.06.38:711][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.08.04-16.06.38:812][989]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.04-16.06.38:886][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/CustomizeRockWidget" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/CustomizeRockWidget.uasset" SILENT=true
+[2023.08.04-16.06.38:929][989]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRockWidget
+[2023.08.04-16.06.38:930][989]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/CustomizeRockWidgetDCBC1114475ACA2EFED99EBB0DF1EDDB.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/CustomizeRockWidget.uasset'
+[2023.08.04-16.06.38:939][989]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 991 ms)
+[2023.08.04-16.06.38:957][989]AssetCheck: New page: Asset Save: CustomizeRockWidget
+[2023.08.04-16.06.38:957][989]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRockWidget.CustomizeRockWidget
+[2023.08.04-16.06.40:248][ 39]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.08.04-16.06.40:266][ 39]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.04-16.06.40:267][ 39]PIE: New page: PIE session: MainLevel (Aug. 4, 2023, 2:06:40 a.m.)
+[2023.08.04-16.06.40:267][ 39]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2023.08.04-16.06.40:298][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030832s)
+[2023.08.04-16.06.40:298][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.030863s)
+[2023.08.04-16.06.40:298][ 39]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.04-16.06.40:299][ 39]LogAIModule: Creating AISystem for world MainLevel
+[2023.08.04-16.06.40:299][ 39]LogPlayLevel: PIE: World Init took: (0.000841s)
+[2023.08.04-16.06.40:365][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.08.04-16.06.40:368][ 39]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.08.04-16.06.40:368][ 39]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.04-16.06.40:368][ 39]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.04-16.06.40:368][ 39]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.04-16.06.40:368][ 39]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.04-16.06.40:368][ 39]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.04-16.06.40:368][ 39]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.04-16.06.40:368][ 39]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.04-16.06.40:368][ 39]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.04-16.06.40:369][ 39]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.08.04-16.06.40:369][ 39]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.08.04-16.06.40:369][ 39]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.04-16.06.40:371][ 39]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.04-16.06.40:383][ 39]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.08.04-16.06.40:383][ 39]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.04-16.06.40:383][ 39]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.04-16.06.40:383][ 39]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.04-16.06.40:384][ 39]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.08.04-16.06.40:384][ 39]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.08.04-16.06.40:386][ 39]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.08.04-16.06.40:386][ 39]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.08.04-16.06.40:386][ 39]LogInit: FAudioDevice initialized.
+[2023.08.04-16.06.40:386][ 39]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainLevel'.
+[2023.08.04-16.06.40:418][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-16.06.40:623][ 39]LogLoad: Game class is 'VRGameMode_C'
+[2023.08.04-16.06.40:629][ 39]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.08.04-09.06.40
+[2023.08.04-16.06.40:630][ 39]LogWorld: Bringing up level for play took: 0.006286
+[2023.08.04-16.06.40:632][ 39]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2023.08.04-16.06.40:635][ 39]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.08.04-16.06.40:638][ 39]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.08.04-16.06.40:640][ 39]LogLinker: Warning: Failed to load '/Engine/Transient': Can't find file.
+[2023.08.04-16.06.40:641][ 39]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Map Data.sav' error.
+[2023.08.04-16.06.40:643][ 39]Cmd: vr.PixelDensity 1.0
+[2023.08.04-16.06.40:643][ 39]vr.PixelDensity = "1"
+[2023.08.04-16.06.40:646][ 39]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Player Data.sav' error.
+[2023.08.04-16.06.40:656][ 39]PIE: Server logged in
+[2023.08.04-16.06.40:664][ 39]PIE: Play in editor total start time 0.397 seconds.
+[2023.08.04-16.06.40:669][ 39]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Map Data.sav' error.
+[2023.08.04-16.06.40:676][ 39]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambient'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.08.04-16.06.40:696][ 39]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.08.04-16.06.40:702][ 39]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.08.04-16.06.40:721][ 39]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.08.04-16.06.46:964][275]LogNet: Browse: /Game/Levels/MainMenuLevel
+[2023.08.04-16.06.46:964][275]LogLoad: LoadMap: /Game/Levels/MainMenuLevel
+[2023.08.04-16.06.46:964][275]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.08.04-16.06.46:965][275]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-16.06.46:965][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-16.06.47:052][275]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.04-16.06.47:056][275]LogSlate: Slate User Unregistered.  User Index 8
+[2023.08.04-16.06.47:056][275]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.08.04-16.06.47:059][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.08.04-16.06.47:077][275]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainMenuLevel'.
+[2023.08.04-16.06.47:077][275]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.04-16.06.47:077][275]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.08.04-16.06.47:078][275]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2023.08.04-16.06.47:078][275]LogLoad: Game class is 'VRGameMode_C'
+[2023.08.04-16.06.47:078][275]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2023.08.04-09.06.47
+[2023.08.04-16.06.47:078][275]LogWorld: Bringing up level for play took: 0.000528
+[2023.08.04-16.06.47:081][275]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.08.04-16.06.47:083][275]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.08.04-16.06.47:085][275]Cmd: vr.PixelDensity 1.0
+[2023.08.04-16.06.47:085][275]vr.PixelDensity = "1"
+[2023.08.04-16.06.47:087][275]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Player Data.sav' error.
+[2023.08.04-16.06.47:088][275]LogLoad: Took 0.123788 seconds to LoadMap(/Game/Levels/MainMenuLevel)
+[2023.08.04-16.06.47:090][275]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Map Data.sav' error.
+[2023.08.04-16.06.48:435][354]LogNet: Browse: /Game/Levels/MainLevel
+[2023.08.04-16.06.48:435][354]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2023.08.04-16.06.48:435][354]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.08.04-16.06.48:435][354]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-16.06.48:435][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-16.06.48:525][354]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.04-16.06.48:527][354]LogSlate: Slate User Unregistered.  User Index 8
+[2023.08.04-16.06.48:527][354]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.08.04-16.06.48:529][354]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.08.04-16.06.48:531][354]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2023.08.04-16.06.48:557][354]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025916s)
+[2023.08.04-16.06.48:557][354]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.025947s)
+[2023.08.04-16.06.48:557][354]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainLevel'.
+[2023.08.04-16.06.48:557][354]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.04-16.06.48:557][354]LogAIModule: Creating AISystem for world MainLevel
+[2023.08.04-16.06.48:557][354]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2023.08.04-16.06.48:557][354]LogLoad: Game class is 'VRGameMode_C'
+[2023.08.04-16.06.48:567][354]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.08.04-09.06.48
+[2023.08.04-16.06.48:567][354]LogWorld: Bringing up level for play took: 0.008658
+[2023.08.04-16.06.48:570][354]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.08.04-16.06.48:571][354]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.08.04-16.06.48:573][354]LogLinker: Warning: Failed to load '/Engine/Transient': Can't find file.
+[2023.08.04-16.06.48:575][354]Cmd: vr.PixelDensity 1.0
+[2023.08.04-16.06.48:575][354]vr.PixelDensity = "1"
+[2023.08.04-16.06.48:577][354]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Player Data.sav' error.
+[2023.08.04-16.06.48:578][354]LogLoad: Took 0.143452 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2023.08.04-16.06.48:582][354]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Map Data.sav' error.
+[2023.08.04-16.06.48:585][354]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambient'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.08.04-16.06.50:063][390]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.06.50:582][402]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.06.50:814][408]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.06.51:118][415]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.06.51:383][421]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.06.51:932][435]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.06.52:293][444]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.06.59:786][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-16.06.59:786][654]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.08.04-16.06.59:854][654]LogSlate: Window 'EAESFieldLabVR Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.86.0)' being destroyed
+[2023.08.04-16.06.59:859][654]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-16.06.59:860][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-16.06.59:864][654]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.04-16.06.59:875][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-16.06.59:944][654]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.04-16.06.59:944][654]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.08.04-16.06.59:945][654]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.08.04-16.06.59:947][654]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.08.04-16.06.59:955][654]LogSlate: Slate User Unregistered.  User Index 8
+[2023.08.04-16.06.59:955][654]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.08.04-16.06.59:960][654]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.08.04-16.07.00:006][655]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.08.04-16.07.01:998][749]LogSlate: Window 'Message Log' being destroyed
+[2023.08.04-16.07.02:007][749]LogSlate: Window 'Message Log' being destroyed
+[2023.08.04-16.07.20:505][716]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/LoadMeshWidget.LoadMeshWidget
+[2023.08.04-16.07.20:505][716]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.04-16.07.20:532][716]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.04-16.07.21:095][716]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.04-16.07.21:095][716]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.04-16.08.51:139][437]BlueprintLog: New page: Compile VRPawn
+[2023.08.04-16.08.51:452][437]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2023.08.04-16.08.51:617][437]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.04-16.08.51:701][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2023.08.04-16.08.51:907][437]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2023.08.04-16.08.51:908][437]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/VRPawnCAFAB77A40D6EC6B8EB638B5635F4CDE.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Blueprints/VRPawn.uasset'
+[2023.08.04-16.08.51:916][437]LogFileHelpers: InternalPromptForCheckoutAndSave took 299 ms (total: 1.29 sec)
+[2023.08.04-16.08.51:930][437]AssetCheck: New page: Asset Save: VRPawn
+[2023.08.04-16.08.51:930][437]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2023.08.04-16.08.52:380][451]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.08.04-16.08.52:398][451]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.04-16.08.52:398][451]PIE: New page: PIE session: MainLevel (Aug. 4, 2023, 2:08:52 a.m.)
+[2023.08.04-16.08.52:398][451]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2023.08.04-16.08.52:430][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031879s)
+[2023.08.04-16.08.52:430][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.031916s)
+[2023.08.04-16.08.52:430][451]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.04-16.08.52:431][451]LogAIModule: Creating AISystem for world MainLevel
+[2023.08.04-16.08.52:431][451]LogPlayLevel: PIE: World Init took: (0.000812s)
+[2023.08.04-16.08.52:503][451]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2023.08.04-16.08.52:506][451]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.08.04-16.08.52:506][451]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.04-16.08.52:506][451]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.04-16.08.52:506][451]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.04-16.08.52:506][451]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.04-16.08.52:506][451]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.04-16.08.52:506][451]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.04-16.08.52:506][451]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.04-16.08.52:506][451]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.04-16.08.52:507][451]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.08.04-16.08.52:507][451]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.08.04-16.08.52:507][451]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.04-16.08.52:509][451]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.04-16.08.52:520][451]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.08.04-16.08.52:520][451]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.04-16.08.52:520][451]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.04-16.08.52:520][451]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.04-16.08.52:520][451]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.08.04-16.08.52:520][451]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.08.04-16.08.52:523][451]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.08.04-16.08.52:523][451]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.08.04-16.08.52:523][451]LogInit: FAudioDevice initialized.
+[2023.08.04-16.08.52:523][451]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainLevel'.
+[2023.08.04-16.08.52:554][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-16.08.52:752][451]LogLoad: Game class is 'VRGameMode_C'
+[2023.08.04-16.08.52:758][451]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.08.04-09.08.52
+[2023.08.04-16.08.52:758][451]LogWorld: Bringing up level for play took: 0.005214
+[2023.08.04-16.08.52:760][451]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2023.08.04-16.08.52:763][451]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.08.04-16.08.52:765][451]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.08.04-16.08.52:766][451]LogLinker: Warning: Failed to load '/Engine/Transient': Can't find file.
+[2023.08.04-16.08.52:767][451]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Map Data.sav' error.
+[2023.08.04-16.08.52:769][451]Cmd: vr.PixelDensity 1.0
+[2023.08.04-16.08.52:769][451]vr.PixelDensity = "1"
+[2023.08.04-16.08.52:772][451]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Player Data.sav' error.
+[2023.08.04-16.08.52:783][451]PIE: Server logged in
+[2023.08.04-16.08.52:791][451]PIE: Play in editor total start time 0.394 seconds.
+[2023.08.04-16.08.52:795][451]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Map Data.sav' error.
+[2023.08.04-16.08.52:801][451]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambient'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.08.04-16.08.52:816][451]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.08.04-16.08.52:822][451]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.08.04-16.08.52:837][451]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.08.04-16.09.04:024][ 13]LogNet: Browse: /Game/Levels/MainMenuLevel
+[2023.08.04-16.09.04:025][ 13]LogLoad: LoadMap: /Game/Levels/MainMenuLevel
+[2023.08.04-16.09.04:025][ 13]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.08.04-16.09.04:026][ 13]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-16.09.04:026][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-16.09.04:138][ 13]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.04-16.09.04:142][ 13]LogSlate: Slate User Unregistered.  User Index 8
+[2023.08.04-16.09.04:142][ 13]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.08.04-16.09.04:144][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.08.04-16.09.04:176][ 13]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainMenuLevel'.
+[2023.08.04-16.09.04:176][ 13]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.04-16.09.04:176][ 13]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.08.04-16.09.04:176][ 13]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2023.08.04-16.09.04:176][ 13]LogLoad: Game class is 'VRGameMode_C'
+[2023.08.04-16.09.04:177][ 13]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2023.08.04-09.09.04
+[2023.08.04-16.09.04:177][ 13]LogWorld: Bringing up level for play took: 0.000631
+[2023.08.04-16.09.04:180][ 13]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.08.04-16.09.04:182][ 13]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.08.04-16.09.04:184][ 13]Cmd: vr.PixelDensity 1.0
+[2023.08.04-16.09.04:184][ 13]vr.PixelDensity = "1"
+[2023.08.04-16.09.04:188][ 13]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Player Data.sav' error.
+[2023.08.04-16.09.04:188][ 13]LogLoad: Took 0.163146 seconds to LoadMap(/Game/Levels/MainMenuLevel)
+[2023.08.04-16.09.04:191][ 13]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Map Data.sav' error.
+[2023.08.04-16.09.05:483][ 89]LogNet: Browse: /Game/Levels/MainLevel
+[2023.08.04-16.09.05:484][ 89]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2023.08.04-16.09.05:484][ 89]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.08.04-16.09.05:485][ 89]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-16.09.05:485][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-16.09.05:590][ 89]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.04-16.09.05:592][ 89]LogSlate: Slate User Unregistered.  User Index 8
+[2023.08.04-16.09.05:592][ 89]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.08.04-16.09.05:594][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.08.04-16.09.05:596][ 89]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2023.08.04-16.09.05:631][ 89]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034133s)
+[2023.08.04-16.09.05:631][ 89]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.034180s)
+[2023.08.04-16.09.05:631][ 89]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainLevel'.
+[2023.08.04-16.09.05:631][ 89]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.04-16.09.05:631][ 89]LogAIModule: Creating AISystem for world MainLevel
+[2023.08.04-16.09.05:632][ 89]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2023.08.04-16.09.05:632][ 89]LogLoad: Game class is 'VRGameMode_C'
+[2023.08.04-16.09.05:640][ 89]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.08.04-09.09.05
+[2023.08.04-16.09.05:640][ 89]LogWorld: Bringing up level for play took: 0.008220
+[2023.08.04-16.09.05:643][ 89]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.08.04-16.09.05:645][ 89]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.08.04-16.09.05:647][ 89]LogLinker: Warning: Failed to load '/Engine/Transient': Can't find file.
+[2023.08.04-16.09.05:649][ 89]Cmd: vr.PixelDensity 1.0
+[2023.08.04-16.09.05:649][ 89]vr.PixelDensity = "1"
+[2023.08.04-16.09.05:653][ 89]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Player Data.sav' error.
+[2023.08.04-16.09.05:654][ 89]LogLoad: Took 0.169582 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainLevel)
+[2023.08.04-16.09.05:657][ 89]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/SaveGames/Map Data.sav' error.
+[2023.08.04-16.09.05:664][ 89]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambient'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.08.04-16.09.06:376][108]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.09.06:695][116]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.09.06:927][122]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.09.07:211][129]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.09.07:522][137]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.09.07:778][144]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.09.09:130][183]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.09.09:697][201]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.08.04-16.09.17:289][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.04-16.09.17:289][426]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.08.04-16.09.17:377][426]LogSlate: Window 'EAESFieldLabVR Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.86.0)' being destroyed
+[2023.08.04-16.09.17:380][426]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-16.09.17:381][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-16.09.17:384][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.04-16.09.17:393][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-16.09.17:462][426]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.04-16.09.17:462][426]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.08.04-16.09.17:462][426]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.08.04-16.09.17:464][426]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.08.04-16.09.17:473][426]LogSlate: Slate User Unregistered.  User Index 8
+[2023.08.04-16.09.17:473][426]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.08.04-16.09.17:476][426]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.08.04-16.09.17:523][427]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.08.04-16.09.19:613][530]BlueprintLog: New page: Compile VRPawn
+[2023.08.04-16.09.19:944][530]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
