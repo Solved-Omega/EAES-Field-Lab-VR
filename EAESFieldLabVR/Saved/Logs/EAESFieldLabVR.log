@@ -2105,3 +2105,99 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.04-16.09.17:523][427]LogPlayLevel: Display: Destroying online subsystem :Context_13
 [2023.08.04-16.09.19:613][530]BlueprintLog: New page: Compile VRPawn
 [2023.08.04-16.09.19:944][530]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.08.04-16.10.48:458][539]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/PauseMenuWidget.PauseMenuWidget
+[2023.08.04-16.10.48:459][539]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.04-16.10.48:486][539]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.04-16.10.49:144][539]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.04-16.10.49:144][539]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.04-16.10.52:714][696]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.04-16.10.52:714][696]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.04-16.11.17:105][773]BlueprintLog: New page: Compile PauseMenuWidget
+[2023.08.04-16.11.17:311][773]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.08.04-16.11.17:515][773]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.04-16.11.17:581][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenuWidget" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/PauseMenuWidget.uasset" SILENT=true
+[2023.08.04-16.11.17:682][773]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenuWidget
+[2023.08.04-16.11.17:682][773]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/PauseMenuWidget833319D443D3C8FE4919E08989ED86CF.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/PauseMenuWidget.uasset'
+[2023.08.04-16.11.17:691][773]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 1.46 sec)
+[2023.08.04-16.11.17:704][773]AssetCheck: New page: Asset Save: PauseMenuWidget
+[2023.08.04-16.11.17:704][773]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenuWidget.PauseMenuWidget
+[2023.08.04-16.11.17:921][777]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.04-16.11.17:981][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenuWidget" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/PauseMenuWidget.uasset" SILENT=true
+[2023.08.04-16.11.18:069][777]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenuWidget
+[2023.08.04-16.11.18:071][777]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/PauseMenuWidget77055C8A4BEF20713BF8549D2EEF85C7.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/PauseMenuWidget.uasset'
+[2023.08.04-16.11.18:079][777]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 1.62 sec)
+[2023.08.04-16.11.18:088][777]AssetCheck: New page: Asset Save: PauseMenuWidget
+[2023.08.04-16.11.18:088][777]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenuWidget.PauseMenuWidget
+[2023.08.04-16.12.15:882][378]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2023.08.04-16.12.15:885][378]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.086
+[2023.08.04-16.12.15:885][378]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/PauseMenuWidget] ([2] browsable assets)...
+[2023.08.04-16.12.15:890][378]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/PauseMenuWidget.PauseMenuWidget]
+[2023.08.04-16.12.15:891][378]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/PauseMenuWidget]
+[2023.08.04-16.12.15:982][378]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/PauseMenuWidget_Auto2
+[2023.08.04-16.12.15:982][378]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/PauseMenuWidget_Auto25C96B3134BF9199B81006897BA1F4141.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/Autosaves/Game/Widgets/PauseMenuWidget_Auto2.uasset'
+[2023.08.04-16.12.15:984][378]LogFileHelpers: Auto-saving content packages took 0.100
+[2023.08.04-16.12.40:892][355]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Misc/EAES-GameInstance.EAES-GameInstance
+[2023.08.04-16.12.40:893][355]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.04-16.13.07:499][620]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.08.04-16.13.07:499][620]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.08.04-16.13.07:499][620]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.08.04-16.13.16:762][214]BlueprintLog: New page: Compile EAES-GameInstance
+[2023.08.04-16.13.16:814][214]LogBlueprint: Error: [AssetLog] C:\Users\300339869\Downloads\eaes-bitbucket\EAESFieldLabVR\Content\Misc\EAES-GameInstance.uasset: [Compiler] Invalid pin connection from  Array  and  Out Actors : Array of Rock Parent Object References is not compatible with Array of Custom Rock Model Object References. (You may have changed the type after the connections were made)
+[2023.08.04-16.13.16:815][214]LogBlueprint: Error: [AssetLog] C:\Users\300339869\Downloads\eaes-bitbucket\EAESFieldLabVR\Content\Misc\EAES-GameInstance.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Array of Rock Parent Object References is not compatible with Array of Custom Rock Model Object References.' at  Get (a copy) generated from expanding For Each Loop
+[2023.08.04-16.13.16:815][214]LogBlueprint: Error: [AssetLog] C:\Users\300339869\Downloads\eaes-bitbucket\EAESFieldLabVR\Content\Misc\EAES-GameInstance.uasset: [Compiler] Can't connect pins  Out Actors  and  Target Array generated from expanding For Each Loop : Array of Custom Rock Model Object References is not compatible with Array of Rock Parent Object References.
+[2023.08.04-16.13.16:815][214]LogBlueprint: Error: [AssetLog] C:\Users\300339869\Downloads\eaes-bitbucket\EAESFieldLabVR\Content\Misc\EAES-GameInstance.uasset: [Compiler] Invalid pin connection from ' Out Actors ' to ' Target Array generated from expanding For Each Loop '. You may have changed the type after the connections were made.
+[2023.08.04-16.13.16:815][214]LogBlueprint: Error: [AssetLog] C:\Users\300339869\Downloads\eaes-bitbucket\EAESFieldLabVR\Content\Misc\EAES-GameInstance.uasset: [Compiler] Can't connect pins  Target Array generated from expanding For Each Loop  and  Out Actors : Array of Rock Parent Object References is not compatible with Array of Custom Rock Model Object References.
+[2023.08.04-16.13.17:038][214]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.08.04-16.13.17:064][214]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.04-16.13.17:207][214]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.08.04-16.13.17:321][214]LogSavePackage: Moving output files for package: /Game/Levels/MainLevel
+[2023.08.04-16.13.17:322][214]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/MainLevelC0B9D12F40BB26010DE0D9B79653D414.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Levels/MainLevel.umap'
+[2023.08.04-16.13.17:348][214]LogFileHelpers: Saving map 'MainLevel' took 0.217
+[2023.08.04-16.13.17:352][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenuWidget" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/PauseMenuWidget.uasset" SILENT=true
+[2023.08.04-16.13.17:456][214]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenuWidget
+[2023.08.04-16.13.17:457][214]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/PauseMenuWidgetC01565084B6DFDA8207E41AEA2B0AADA.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/PauseMenuWidget.uasset'
+[2023.08.04-16.13.17:466][214]LogFileHelpers: InternalPromptForCheckoutAndSave took 401 ms (total: 2.02 sec)
+[2023.08.04-16.13.17:478][214]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.04-16.13.17:478][214]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenuWidget.PauseMenuWidget
+[2023.08.04-16.13.17:479][214]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/MainLevel.MainLevel
+[2023.08.04-16.13.29:599][875]BlueprintLog: New page: Compile EAES-GameInstance
+[2023.08.04-16.13.29:700][875]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.08.04-16.13.29:725][875]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.04-16.13.29:781][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Misc/EAES-GameInstance" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Misc/EAES-GameInstance.uasset" SILENT=true
+[2023.08.04-16.13.29:786][875]LogSavePackage: Moving output files for package: /Game/Misc/EAES-GameInstance
+[2023.08.04-16.13.29:787][875]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/EAES-GameInstanceB856AAA64357D15C4C1FF69A9360C005.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Misc/EAES-GameInstance.uasset'
+[2023.08.04-16.13.29:793][875]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 2.09 sec)
+[2023.08.04-16.13.29:804][875]AssetCheck: New page: Asset Save: EAES-GameInstance
+[2023.08.04-16.13.29:804][875]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Misc/EAES-GameInstance.EAES-GameInstance
+[2023.08.04-16.13.30:363][899]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.04-16.13.30:419][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Misc/EAES-GameInstance" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Misc/EAES-GameInstance.uasset" SILENT=true
+[2023.08.04-16.13.30:424][899]LogSavePackage: Moving output files for package: /Game/Misc/EAES-GameInstance
+[2023.08.04-16.13.30:425][899]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/EAES-GameInstance257B513A4497DFEAEB23C382E037A4C9.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Misc/EAES-GameInstance.uasset'
+[2023.08.04-16.13.30:431][899]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 2.16 sec)
+[2023.08.04-16.13.30:442][899]AssetCheck: New page: Asset Save: EAES-GameInstance
+[2023.08.04-16.13.30:442][899]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Misc/EAES-GameInstance.EAES-GameInstance
+[2023.08.04-16.13.32:423][987]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.08.04-16.13.32:423][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.04-16.14.39:353][329]BlueprintLog: New page: Compile PauseMenuWidget
+[2023.08.04-16.14.39:524][329]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.08.04-16.14.39:660][329]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.04-16.14.39:736][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenuWidget" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/PauseMenuWidget.uasset" SILENT=true
+[2023.08.04-16.14.39:847][329]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenuWidget
+[2023.08.04-16.14.39:848][329]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/PauseMenuWidget801D9CAA4C8B285BEC4A898F6B2BA3BE.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/PauseMenuWidget.uasset'
+[2023.08.04-16.14.39:857][329]LogFileHelpers: InternalPromptForCheckoutAndSave took 196 ms (total: 2.35 sec)
+[2023.08.04-16.14.39:871][329]AssetCheck: New page: Asset Save: PauseMenuWidget
+[2023.08.04-16.14.39:871][329]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenuWidget.PauseMenuWidget
+[2023.08.04-16.14.40:224][338]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.04-16.14.40:288][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenuWidget" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/PauseMenuWidget.uasset" SILENT=true
+[2023.08.04-16.14.40:400][338]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenuWidget
+[2023.08.04-16.14.40:401][338]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/PauseMenuWidget6D3A5B1343136F7DA389AA8A7D03D49F.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/PauseMenuWidget.uasset'
+[2023.08.04-16.14.40:408][338]LogFileHelpers: InternalPromptForCheckoutAndSave took 184 ms (total: 2.54 sec)
+[2023.08.04-16.14.40:420][338]AssetCheck: New page: Asset Save: PauseMenuWidget
+[2023.08.04-16.14.40:420][338]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenuWidget.PauseMenuWidget
+[2023.08.04-16.14.40:908][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.04-16.14.40:984][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenuWidget" FILE="../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/PauseMenuWidget.uasset" SILENT=true
+[2023.08.04-16.14.41:115][362]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenuWidget
+[2023.08.04-16.14.41:116][362]LogSavePackage: Moving '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Saved/PauseMenuWidgetEDD227CA4FAD2611C0E37FB2B1B27FBE.tmp' to '../../../../../../Users/300339869/Downloads/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/PauseMenuWidget.uasset'
+[2023.08.04-16.14.41:124][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 215 ms (total: 2.75 sec)
+[2023.08.04-16.14.41:136][362]AssetCheck: New page: Asset Save: PauseMenuWidget
+[2023.08.04-16.14.41:136][362]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenuWidget.PauseMenuWidget
