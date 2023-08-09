@@ -1209,3 +1209,265 @@ Make sure 'VRPawn_C' has been compiled for  Toggle Rock Menu
 [2023.08.09-19.50.46:377][440]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
 [2023.08.09-19.50.46:377][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2023.08.09-19.50.46:829][441]LogSlate: Took 0.004049 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.08.09-19.52.15:760][843]LogDerivedDataCache: C:/Users/macap/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.174 and deleted 0 files with total size 0 MiB. Scanned 2464 files in 2454 folders with total size 1356 MiB.
+[2023.08.09-19.53.14:094][179]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.08.09-19.53.14:096][179]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.09-19.53.14:188][179]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../Download/eaes-bitbucket/EAESFieldLabVR/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2023.08.09-19.53.14:201][179]LogPackageLocalizationCache: Processed 43 localized package path(s) for 1 prioritized culture(s) in 0.012602 seconds
+[2023.08.09-19.53.14:294][179]LogSerialization: UsePackageTrailer: 'true'
+[2023.08.09-19.53.14:345][179]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2023.08.09-19.53.14:345][179]LogSavePackage: Moving '../../../../Download/eaes-bitbucket/EAESFieldLabVR/Saved/VRPawnDFC631DD4498BBD1ED0F72B2F6E828C2.tmp' to '../../../../Download/eaes-bitbucket/EAESFieldLabVR/Content/Blueprints/VRPawn.uasset'
+[2023.08.09-19.53.14:355][179]LogFileHelpers: InternalPromptForCheckoutAndSave took 258 ms
+[2023.08.09-19.53.14:365][179]AssetCheck: New page: Asset Save: VRPawn
+[2023.08.09-19.53.14:365][179]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2023.08.09-19.53.15:270][202]LogSlate: Window 'VRPawn' being destroyed
+[2023.08.09-19.53.15:277][202]LogSlate: Window 'VRPawn' being destroyed
+[2023.08.09-19.53.15:289][202]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-19.53.15:289][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-19.53.20:065][697]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/CustomizeRockWidget.CustomizeRockWidget
+[2023.08.09-19.53.20:066][697]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-19.53.20:073][697]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-19.53.20:617][697]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.09-19.53.20:617][697]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.09-19.53.26:935][163]LogSlate: Took 0.055330 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NotoColorEmoji.ttf' (7610K)
+[2023.08.09-19.53.26:974][163]LogSlate: Took 0.039083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.08.09-19.54.02:928][461]BlueprintLog: New page: Compile CustomizeRockWidget
+[2023.08.09-19.54.03:053][461]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.08.09-19.54.03:098][461]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.09-19.54.03:174][461]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/CustomizeRockWidget" FILE="../../../../Download/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/CustomizeRockWidget.uasset" SILENT=true
+[2023.08.09-19.54.03:206][461]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRockWidget
+[2023.08.09-19.54.03:206][461]LogSavePackage: Moving '../../../../Download/eaes-bitbucket/EAESFieldLabVR/Saved/CustomizeRockWidget6CB55F0B4CAAA09A2B9BC0BF034B2CFC.tmp' to '../../../../Download/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/CustomizeRockWidget.uasset'
+[2023.08.09-19.54.03:215][461]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 375 ms)
+[2023.08.09-19.54.03:227][461]AssetCheck: New page: Asset Save: CustomizeRockWidget
+[2023.08.09-19.54.03:227][461]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRockWidget.CustomizeRockWidget
+[2023.08.09-19.54.04:016][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.09-19.54.04:088][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/CustomizeRockWidget" FILE="../../../../Download/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/CustomizeRockWidget.uasset" SILENT=true
+[2023.08.09-19.54.04:117][499]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRockWidget
+[2023.08.09-19.54.04:117][499]LogSavePackage: Moving '../../../../Download/eaes-bitbucket/EAESFieldLabVR/Saved/CustomizeRockWidget778F94D2444100AA9107EDAA56F5AFD0.tmp' to '../../../../Download/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/CustomizeRockWidget.uasset'
+[2023.08.09-19.54.04:123][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 482 ms)
+[2023.08.09-19.54.04:133][499]AssetCheck: New page: Asset Save: CustomizeRockWidget
+[2023.08.09-19.54.04:133][499]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRockWidget.CustomizeRockWidget
+[2023.08.09-19.54.09:912][899]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/HUDWidget.HUDWidget
+[2023.08.09-19.54.09:913][899]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-19.54.09:921][899]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-19.54.10:385][899]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.09-19.54.10:385][899]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.09-19.54.11:328][968]BlueprintLog: New page: Compile HUDWidget
+[2023.08.09-19.54.11:439][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.08.09-19.54.16:229][330]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/JournalEntryRowTemplate.JournalEntryRowTemplate
+[2023.08.09-19.54.16:229][330]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-19.54.16:238][330]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-19.54.16:672][330]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.09-19.54.16:672][330]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.09-19.54.22:533][678]BlueprintLog: New page: Compile JournalEntryRowTemplate
+[2023.08.09-19.54.22:624][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.08.09-19.54.30:912][194]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/JournalEntryTemplate.JournalEntryTemplate
+[2023.08.09-19.54.30:913][194]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-19.54.30:920][194]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-19.54.31:337][194]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.09-19.54.31:337][194]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.09-19.55.07:774][768]LogContentBrowser: Attempting asset rename: JournalWidget -> JournalWidget
+[2023.08.09-19.55.09:769][969]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.09-19.55.09:769][969]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-19.55.09:777][969]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-19.55.10:204][969]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.09-19.55.10:204][969]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.09-19.55.21:217][621]BlueprintLog: New page: Compile JournalWidgetV2
+[2023.08.09-19.55.21:361][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.08.09-19.55.21:388][621]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.09-19.55.21:469][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../Download/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.09-19.55.21:524][621]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.09-19.55.21:524][621]LogSavePackage: Moving '../../../../Download/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV2C1FA223F42CD3B68D089E48F032D32F7.tmp' to '../../../../Download/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.09-19.55.21:533][621]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 628 ms)
+[2023.08.09-19.55.21:544][621]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.09-19.55.21:544][621]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.09-19.55.21:769][628]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.09-19.55.21:837][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../Download/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.09-19.55.21:893][628]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.09-19.55.21:894][628]LogSavePackage: Moving '../../../../Download/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV2BA55C0094E81A590CECAF0871D2838B5.tmp' to '../../../../Download/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.09-19.55.21:907][628]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 764 ms)
+[2023.08.09-19.55.21:917][628]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.09-19.55.21:917][628]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.09-19.55.26:701][896]LogSlate: Window 'Color Picker' being destroyed
+[2023.08.09-19.55.27:998][972]BlueprintLog: New page: Compile JournalWidgetV2
+[2023.08.09-19.55.28:142][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.08.09-19.55.28:168][972]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.09-19.55.28:246][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../Download/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.09-19.55.28:304][972]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.09-19.55.28:304][972]LogSavePackage: Moving '../../../../Download/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV256A312F94DD21A11B25D9CAE1BD9B787.tmp' to '../../../../Download/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.09-19.55.28:314][972]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 910 ms)
+[2023.08.09-19.55.28:327][972]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.09-19.55.28:327][972]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.09-19.55.28:607][980]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.09-19.55.28:673][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/JournalWidgetV2" FILE="../../../../Download/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset" SILENT=true
+[2023.08.09-19.55.28:728][980]LogSavePackage: Moving output files for package: /Game/Widgets/JournalWidgetV2
+[2023.08.09-19.55.28:728][980]LogSavePackage: Moving '../../../../Download/eaes-bitbucket/EAESFieldLabVR/Saved/JournalWidgetV228D7068042DB7544014B94B17DFFDA8A.tmp' to '../../../../Download/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset'
+[2023.08.09-19.55.28:737][980]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 1.04 sec)
+[2023.08.09-19.55.28:746][980]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.08.09-19.55.28:746][980]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/JournalWidgetV2.JournalWidgetV2
+[2023.08.09-19.55.31:009][142]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/LoadMeshTemplate.LoadMeshTemplate
+[2023.08.09-19.55.31:010][142]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-19.55.31:019][142]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-19.55.31:472][142]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.09-19.55.31:472][142]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.09-19.55.37:734][529]LogSlate: Window 'LoadMeshTemplate' being destroyed
+[2023.08.09-19.55.37:745][529]LogSlate: Window 'LoadMeshTemplate' being destroyed
+[2023.08.09-19.55.37:759][529]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-19.55.37:759][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-19.55.37:772][529]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-19.55.37:773][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-19.55.37:886][529]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-19.55.37:886][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-19.55.37:899][529]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-19.55.37:899][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-19.55.37:976][529]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-19.55.37:976][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-19.55.37:990][529]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-19.55.37:990][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-19.55.38:065][529]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-19.55.38:065][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-19.55.38:083][529]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-19.55.38:083][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-19.55.38:147][529]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-19.55.38:147][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-19.55.38:161][529]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-19.55.38:161][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-19.55.38:226][529]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-19.55.38:226][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-19.55.38:238][529]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-19.55.38:238][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-19.55.38:673][563]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/LoadMeshWidget.LoadMeshWidget
+[2023.08.09-19.55.38:674][563]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-19.55.38:680][563]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-19.55.39:193][563]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.09-19.55.39:193][563]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.09-19.55.42:174][760]LogSlate: Window 'LoadMeshWidget' being destroyed
+[2023.08.09-19.55.42:183][760]LogSlate: Window 'LoadMeshWidget' being destroyed
+[2023.08.09-19.55.42:191][760]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-19.55.42:191][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-19.55.42:206][760]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-19.55.42:206][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-19.55.43:797][916]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/MainMenuWidget.MainMenuWidget
+[2023.08.09-19.55.43:798][916]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-19.55.43:806][916]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-19.55.44:338][916]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.09-19.55.44:338][916]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.09-19.55.54:937][460]LogSlate: Window 'MainMenuWidget' being destroyed
+[2023.08.09-19.55.54:945][460]LogSlate: Window 'MainMenuWidget' being destroyed
+[2023.08.09-19.55.54:953][460]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-19.55.54:953][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-19.55.54:968][460]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-19.55.54:968][460]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-19.55.56:124][565]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/MinimapWidget.MinimapWidget
+[2023.08.09-19.55.56:125][565]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-19.55.56:133][565]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-19.55.56:642][565]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.09-19.55.56:642][565]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.09-19.56.00:639][808]BlueprintLog: New page: Compile MinimapWidget
+[2023.08.09-19.56.00:750][808]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.08.09-19.56.01:722][862]LogSlate: Window 'MinimapWidget' being destroyed
+[2023.08.09-19.56.01:729][862]LogSlate: Window 'MinimapWidget' being destroyed
+[2023.08.09-19.56.01:737][862]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-19.56.01:737][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-19.56.01:750][862]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-19.56.01:750][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-19.56.02:713][947]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/PauseMenuWidget.PauseMenuWidget
+[2023.08.09-19.56.02:713][947]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-19.56.02:722][947]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-19.56.03:205][947]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.09-19.56.03:205][947]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.09-19.56.04:737][ 31]BlueprintLog: New page: Compile PauseMenuWidget
+[2023.08.09-19.56.04:855][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.08.09-19.56.06:703][109]LogSlate: Window 'PauseMenuWidget' being destroyed
+[2023.08.09-19.56.06:710][109]LogSlate: Window 'PauseMenuWidget' being destroyed
+[2023.08.09-19.56.06:719][109]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-19.56.06:719][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-19.56.06:733][109]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-19.56.06:734][109]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-19.56.07:551][172]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/RockInventoryWidget.RockInventoryWidget
+[2023.08.09-19.56.07:551][172]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-19.56.07:558][172]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-19.56.08:029][172]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.09-19.56.08:029][172]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.09-19.56.09:153][253]BlueprintLog: New page: Compile RockInventoryWidget
+[2023.08.09-19.56.09:248][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.08.09-19.56.10:494][351]LogSlate: Window 'RockInventoryWidget' being destroyed
+[2023.08.09-19.56.10:501][351]LogSlate: Window 'RockInventoryWidget' being destroyed
+[2023.08.09-19.56.10:513][351]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-19.56.10:513][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-19.56.10:525][351]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-19.56.10:525][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-19.56.13:424][658]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/RockWidget.RockWidget
+[2023.08.09-19.56.13:424][658]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-19.56.13:432][658]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-19.56.13:961][658]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.09-19.56.13:961][658]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.09-19.56.14:985][731]BlueprintLog: New page: Compile RockWidget
+[2023.08.09-19.56.15:077][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.08.09-19.56.15:558][766]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.09-19.56.15:622][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/RockWidget" FILE="../../../../Download/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/RockWidget.uasset" SILENT=true
+[2023.08.09-19.56.15:662][766]LogSavePackage: Moving output files for package: /Game/Widgets/RockWidget
+[2023.08.09-19.56.15:662][766]LogSavePackage: Moving '../../../../Download/eaes-bitbucket/EAESFieldLabVR/Saved/RockWidgetDC54F5E1474D449D5D7C48B0987866CA.tmp' to '../../../../Download/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/RockWidget.uasset'
+[2023.08.09-19.56.15:672][766]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 1.15 sec)
+[2023.08.09-19.56.15:689][766]AssetCheck: New page: Asset Save: RockWidget
+[2023.08.09-19.56.15:689][766]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/RockWidget.RockWidget
+[2023.08.09-19.56.16:355][819]LogSlate: Window 'RockWidget' being destroyed
+[2023.08.09-19.56.16:364][819]LogSlate: Window 'RockWidget' being destroyed
+[2023.08.09-19.56.16:375][819]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-19.56.16:375][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-19.56.16:388][819]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-19.56.16:388][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-19.56.17:395][897]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/TutorialWidget.TutorialWidget
+[2023.08.09-19.56.17:395][897]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-19.56.17:406][897]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-19.56.17:918][897]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.09-19.56.17:918][897]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.09-19.56.18:825][953]BlueprintLog: New page: Compile TutorialWidget
+[2023.08.09-19.56.18:904][953]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2023.08.09-19.56.19:951][ 31]LogSlate: Window 'TutorialWidget' being destroyed
+[2023.08.09-19.56.19:959][ 31]LogSlate: Window 'TutorialWidget' being destroyed
+[2023.08.09-19.56.19:973][ 31]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-19.56.19:973][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-19.56.19:986][ 31]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-19.56.19:986][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-19.59.24:790][105]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/MainMenuWidget.MainMenuWidget
+[2023.08.09-19.59.24:791][105]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-19.59.24:800][105]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-19.59.25:273][105]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.09-19.59.25:273][105]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.09-19.59.28:063][265]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.09-19.59.28:063][265]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.08.09-20.00.08:990][240]LogSlate: Window 'Plugin Properties' being destroyed
+[2023.08.09-20.01.04:048][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.08.09-20.01.04:052][902]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainMenuLevel' took 0.079
+[2023.08.09-20.01.04:053][902]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/MainMenuWidget] ([2] browsable assets)...
+[2023.08.09-20.01.04:056][902]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/MainMenuWidget.MainMenuWidget]
+[2023.08.09-20.01.04:056][902]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/MainMenuWidget]
+[2023.08.09-20.01.04:056][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/MainMenuWidget" FILE="../../../../Download/eaes-bitbucket/EAESFieldLabVR/Saved/Autosaves/Game/Widgets/MainMenuWidget_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.08.09-20.01.04:090][902]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/MainMenuWidget_Auto1
+[2023.08.09-20.01.04:090][902]LogSavePackage: Moving '../../../../Download/eaes-bitbucket/EAESFieldLabVR/Saved/MainMenuWidget_Auto1A3E87ECB4FD63DD2EACEC484A1A28259.tmp' to '../../../../Download/eaes-bitbucket/EAESFieldLabVR/Saved/Autosaves/Game/Widgets/MainMenuWidget_Auto1.uasset'
+[2023.08.09-20.01.04:091][902]LogFileHelpers: Auto-saving content packages took 0.039
+[2023.08.09-20.06.08:659][801]BlueprintLog: New page: Compile MainMenuWidget
+[2023.08.09-20.06.08:770][801]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.08.09-20.06.08:985][801]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.09-20.06.09:056][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/MainMenuWidget" FILE="../../../../Download/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/MainMenuWidget.uasset" SILENT=true
+[2023.08.09-20.06.09:093][801]LogSavePackage: Moving output files for package: /Game/Widgets/MainMenuWidget
+[2023.08.09-20.06.09:094][801]LogSavePackage: Moving '../../../../Download/eaes-bitbucket/EAESFieldLabVR/Saved/MainMenuWidgetAD5131684DEBF7711E5813A40D9EA99E.tmp' to '../../../../Download/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/MainMenuWidget.uasset'
+[2023.08.09-20.06.09:104][801]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 1.27 sec)
+[2023.08.09-20.06.09:138][801]AssetCheck: New page: Asset Save: MainMenuWidget
+[2023.08.09-20.06.09:138][801]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/MainMenuWidget.MainMenuWidget
+[2023.08.09-20.06.45:414][885]BlueprintLog: New page: Compile MainMenuWidget
+[2023.08.09-20.06.45:515][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.08.09-20.06.45:600][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.09-20.06.45:671][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/MainMenuWidget" FILE="../../../../Download/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/MainMenuWidget.uasset" SILENT=true
+[2023.08.09-20.06.45:707][885]LogSavePackage: Moving output files for package: /Game/Widgets/MainMenuWidget
+[2023.08.09-20.06.45:708][885]LogSavePackage: Moving '../../../../Download/eaes-bitbucket/EAESFieldLabVR/Saved/MainMenuWidget77CBB37141478BD6007A289603F495C4.tmp' to '../../../../Download/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/MainMenuWidget.uasset'
+[2023.08.09-20.06.45:715][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 1.38 sec)
+[2023.08.09-20.06.45:731][885]AssetCheck: New page: Asset Save: MainMenuWidget
+[2023.08.09-20.06.45:731][885]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/MainMenuWidget.MainMenuWidget
+[2023.08.09-20.06.48:818][ 53]LogSlate: Window 'MainMenuWidget' being destroyed
+[2023.08.09-20.06.48:826][ 53]LogSlate: Window 'MainMenuWidget' being destroyed
+[2023.08.09-20.06.48:838][ 53]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-20.06.48:838][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-20.06.48:857][ 53]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-20.06.48:857][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
