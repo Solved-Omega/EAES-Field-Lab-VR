@@ -1,6 +1,38 @@
 {
 	"Contents": [
 		{
+			"File": "../../../EAESFieldLabVR/Plugins/RuntimeMeshLoader/RuntimeMeshLoader.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.0",
+				"FriendlyName": "RuntimeMeshLoader",
+				"Description": "Loads 3D-models at runtime",
+				"Category": "Other",
+				"CreatedBy": "Christopher Sebastian Jürges",
+				"CreatedByURL": "",
+				"DocsURL": "",
+				"MarketplaceURL": "",
+				"SupportURL": "",
+				"CanContainContent": true,
+				"Installed": true,
+				"Modules": [
+					{
+						"Name": "RuntimeMeshLoader",
+						"Type": "Runtime",
+						"LoadingPhase": "Default"
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "ProceduralMeshComponent",
+						"Enabled": true
+					}
+				]
+			}
+		},
+		{
 			"File": "../../../Engine/Plugins/2D/Paper2D/Paper2D.uplugin",
 			"Descriptor": 
 			{
@@ -247,8 +279,8 @@
 			"Descriptor": 
 			{
 				"FileVersion": 3,
-				"Version": 15,
-				"VersionName": "2022.1.0",
+				"Version": 16,
+				"VersionName": "2022.1.1",
 				"FriendlyName": "Bridge",
 				"Description": "Megascans Link for Quixel Bridge.",
 				"Category": "Editor",
@@ -3347,6 +3379,85 @@
 			}
 		},
 		{
+			"File": "../../../Engine/Plugins/Runtime/Oculus/OculusVR/OculusVR.uplugin",
+			"Descriptor": 
+			{
+				"FileVersion": 3,
+				"Version": 1,
+				"VersionName": "1.59.0",
+				"FriendlyName": "Oculus VR (deprecated)",
+				"Description": "Support for Oculus headsets and controllers. This plugin is deprecated and will be removed in a future engine release. Please use the built-in OpenXR plugin or marketplace OculusXR plugin.",
+				"Category": "Virtual Reality",
+				"CreatedBy": "Oculus",
+				"CreatedByURL": "https://www.oculus.com/",
+				"DocsURL": "https://developer.oculus.com/documentation/unreal/latest/concepts/unreal-engine/",
+				"MarketplaceURL": "",
+				"SupportURL": "https://forums.oculusvr.com/developer/categories/unreal",
+				"EnabledByDefault": false,
+				"CanContainContent": true,
+				"SupportedTargetPlatforms": [
+					"Win64",
+					"Android"
+				],
+				"Modules": [
+					{
+						"Name": "OculusHMD",
+						"Type": "Runtime",
+						"LoadingPhase": "PostConfigInit",
+						"PlatformAllowList": [
+							"Win64",
+							"Android"
+						]
+					},
+					{
+						"Name": "OculusInput",
+						"Type": "Runtime",
+						"LoadingPhase": "Default",
+						"PlatformAllowList": [
+							"Win64",
+							"Android"
+						]
+					},
+					{
+						"Name": "OculusMR",
+						"Type": "Runtime",
+						"LoadingPhase": "PostEngineInit",
+						"PlatformAllowList": [
+							"Win64",
+							"Android"
+						]
+					},
+					{
+						"Name": "OculusOpenXRHMD",
+						"Type": "Runtime",
+						"LoadingPhase": "PostConfigInit",
+						"PlatformAllowList": [
+							"Win64",
+							"Android"
+						]
+					},
+					{
+						"Name": "OculusEditor",
+						"Type": "Editor",
+						"LoadingPhase": "Default",
+						"PlatformAllowList": [
+							"Win64"
+						]
+					}
+				],
+				"Plugins": [
+					{
+						"Name": "ProceduralMeshComponent",
+						"Enabled": true
+					},
+					{
+						"Name": "OpenXR",
+						"Enabled": true
+					}
+				]
+			}
+		},
+		{
 			"File": "../../../Engine/Plugins/Runtime/OpenXR/OpenXR.uplugin",
 			"Descriptor": 
 			{
@@ -3795,22 +3906,22 @@
 					{
 						"Name": "TakesCore",
 						"Type": "UncookedOnly",
-						"LoadingPhase": "PostEngineInit"
+						"LoadingPhase": "PostDefault"
 					},
 					{
 						"Name": "TakeTrackRecorders",
 						"Type": "UncookedOnly",
-						"LoadingPhase": "PostEngineInit"
+						"LoadingPhase": "PostDefault"
 					},
 					{
 						"Name": "TakeRecorderSources",
 						"Type": "UncookedOnly",
-						"LoadingPhase": "PostEngineInit"
+						"LoadingPhase": "PostDefault"
 					},
 					{
 						"Name": "TakeRecorder",
 						"Type": "UncookedOnly",
-						"LoadingPhase": "PostEngineInit"
+						"LoadingPhase": "PostDefault"
 					},
 					{
 						"Name": "TakeMovieScene",
