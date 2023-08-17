@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Programs/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/CustomModels/CustomRockModel.uasset",
 				"F:/Download/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalEntryRowTemplate.uasset",
 				"F:/Download/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset",
 				"F:/Download/eaes-bitbucket/EAESFieldLabVR/Content/Widgets/JournalEntryTemplate.uasset",

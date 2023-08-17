@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "EAESFieldLabVR",
-			"Path": "C:\\Users\\300339869\\Downloads\\eaes-bitbucket\\EAESFieldLabVR\\Source\\EAESFieldLabVR.Target.cs",
+			"Path": "D:\\Programs\\GitHub\\EAES-Field-Lab-VR\\EAESFieldLabVR\\Source\\EAESFieldLabVR.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "EAESFieldLabVREditor",
-			"Path": "C:\\Users\\300339869\\Downloads\\eaes-bitbucket\\EAESFieldLabVR\\Source\\EAESFieldLabVREditor.Target.cs",
+			"Path": "D:\\Programs\\GitHub\\EAES-Field-Lab-VR\\EAESFieldLabVR\\Source\\EAESFieldLabVREditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
