@@ -1,6 +1,0 @@
-﻿  Using bundled DotNet SDK version: 6.0.302
-  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" EAESFieldLabVREditor Win64 Development -Project="D:\Programs\GitHub\EAES-Field-Lab-VR\EAESFieldLabVR\EAESFieldLabVR.uproject" -WaitMutex -FromMsBuild
-  Log file: C:\Users\macap\AppData\Local\UnrealBuildTool\Log.txt
-  Using 'git status' to determine working set for adaptive non-unity build (D:\Programs\GitHub\EAES-Field-Lab-VR).
-  Target is up to date
-  Total execution time: 0.67 seconds

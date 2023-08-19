@@ -1,7 +1,0 @@
-Breadcrumbs 'RHIThread'
-Context 1/2
-	00 Scene
-	01 ShadowDepths
-	02 Atlas0 8192x2048
-	03 Tutorial.DirectionalLight
-	04 WholeScene split3 2040x2040
