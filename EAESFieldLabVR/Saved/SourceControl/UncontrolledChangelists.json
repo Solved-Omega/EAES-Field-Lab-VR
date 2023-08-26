@@ -13,7 +13,9 @@
 				"C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Levels/MainMenuLevel.umap",
 				"C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockTestTemplate.uasset",
 				"C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockWidget.uasset",
-				"C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Preset_Rock_Parent.uasset"
+				"C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Preset_Rock_Parent.uasset",
+				"C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockWidget.uasset",
+				"C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockWidgetTestTemplate.uasset"
 			]
 		}
 	]
