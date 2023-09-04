@@ -1588,3 +1588,87 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.04-16.33.12:499][351]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 2.19 sec)
 [2023.09.04-16.33.12:507][351]AssetCheck: New page: Asset Save: Preset_Rock_Parent
 [2023.09.04-16.33.12:507][351]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Preset_Rock_Parent.Preset_Rock_Parent
+[2023.09.04-16.36.44:332][219]BlueprintLog: New page: Compile CustomizeRockTestTemplate
+[2023.09.04-16.36.44:383][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.09.04-16.36.44:398][219]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.04-16.36.44:443][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/CustomizeRockTestTemplate" FILE="C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockTestTemplate.uasset" SILENT=true
+[2023.09.04-16.36.44:453][219]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRockTestTemplate
+[2023.09.04-16.36.44:453][219]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockTestTemplate0AF0205642066E07504CF58251112CC4.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockTestTemplate.uasset'
+[2023.09.04-16.36.44:460][219]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 2.25 sec)
+[2023.09.04-16.36.44:467][219]AssetCheck: New page: Asset Save: CustomizeRockTestTemplate
+[2023.09.04-16.36.44:467][219]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRockTestTemplate.CustomizeRockTestTemplate
+[2023.09.04-16.36.45:226][296]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.04-16.36.45:282][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/CustomizeRockTestTemplate" FILE="C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockTestTemplate.uasset" SILENT=true
+[2023.09.04-16.36.45:292][296]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRockTestTemplate
+[2023.09.04-16.36.45:292][296]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockTestTemplate13D624294239DBF62E9C558AF9575D90.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockTestTemplate.uasset'
+[2023.09.04-16.36.45:299][296]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 2.33 sec)
+[2023.09.04-16.36.45:306][296]AssetCheck: New page: Asset Save: CustomizeRockTestTemplate
+[2023.09.04-16.36.45:307][296]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRockTestTemplate.CustomizeRockTestTemplate
+[2023.09.04-16.36.54:767][402]BlueprintLog: New page: Compile CustomizeRockTestTemplate
+[2023.09.04-16.36.54:820][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.09.04-16.36.55:519][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.04-16.36.55:565][471]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/CustomizeRockTestTemplate" FILE="C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockTestTemplate.uasset" SILENT=true
+[2023.09.04-16.36.55:574][471]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRockTestTemplate
+[2023.09.04-16.36.55:575][471]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockTestTemplateC392302D4E1B2173773754A4B84ACBA8.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockTestTemplate.uasset'
+[2023.09.04-16.36.55:581][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 2.39 sec)
+[2023.09.04-16.36.55:589][471]AssetCheck: New page: Asset Save: CustomizeRockTestTemplate
+[2023.09.04-16.36.55:589][471]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRockTestTemplate.CustomizeRockTestTemplate
+[2023.09.04-16.39.25:710][372]LogEditorTransaction: Undo Move Nodes
+[2023.09.04-16.39.30:455][876]LogEditorTransaction: Undo Move Node
+[2023.09.04-16.40.01:217][337]BlueprintLog: New page: Compile CustomizeRockTestTemplate
+[2023.09.04-16.40.01:274][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.09.04-16.40.01:286][337]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.04-16.40.01:330][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/CustomizeRockTestTemplate" FILE="C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockTestTemplate.uasset" SILENT=true
+[2023.09.04-16.40.01:342][337]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRockTestTemplate
+[2023.09.04-16.40.01:343][337]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockTestTemplateBFBE4CAA47AF43BC7CC67884E443CDA8.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockTestTemplate.uasset'
+[2023.09.04-16.40.01:349][337]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 2.45 sec)
+[2023.09.04-16.40.01:359][337]AssetCheck: New page: Asset Save: CustomizeRockTestTemplate
+[2023.09.04-16.40.01:359][337]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRockTestTemplate.CustomizeRockTestTemplate
+[2023.09.04-16.40.02:041][405]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.04-16.40.02:074][405]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/CustomizeRockTestTemplate" FILE="C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockTestTemplate.uasset" SILENT=true
+[2023.09.04-16.40.02:084][405]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRockTestTemplate
+[2023.09.04-16.40.02:085][405]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockTestTemplate34AD62904481B9864A2FB98B5FC26DE3.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockTestTemplate.uasset'
+[2023.09.04-16.40.02:092][405]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 2.51 sec)
+[2023.09.04-16.40.02:099][405]AssetCheck: New page: Asset Save: CustomizeRockTestTemplate
+[2023.09.04-16.40.02:099][405]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRockTestTemplate.CustomizeRockTestTemplate
+[2023.09.04-16.40.53:468][144]BlueprintLog: New page: Compile CustomizeRockTestTemplate
+[2023.09.04-16.40.53:530][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.09.04-16.40.53:541][144]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.04-16.40.53:578][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/CustomizeRockTestTemplate" FILE="C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockTestTemplate.uasset" SILENT=true
+[2023.09.04-16.40.53:591][144]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRockTestTemplate
+[2023.09.04-16.40.53:591][144]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockTestTemplate46EBAC7B442C0768A75341B9DCC161BC.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockTestTemplate.uasset'
+[2023.09.04-16.40.53:599][144]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 2.56 sec)
+[2023.09.04-16.40.53:607][144]AssetCheck: New page: Asset Save: CustomizeRockTestTemplate
+[2023.09.04-16.40.53:607][144]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRockTestTemplate.CustomizeRockTestTemplate
+[2023.09.04-16.40.54:105][188]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.04-16.40.54:136][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/CustomizeRockTestTemplate" FILE="C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockTestTemplate.uasset" SILENT=true
+[2023.09.04-16.40.54:147][188]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRockTestTemplate
+[2023.09.04-16.40.54:148][188]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockTestTemplateE1A4B45B4487893916366598D8F299D1.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockTestTemplate.uasset'
+[2023.09.04-16.40.54:155][188]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 2.61 sec)
+[2023.09.04-16.40.54:163][188]AssetCheck: New page: Asset Save: CustomizeRockTestTemplate
+[2023.09.04-16.40.54:163][188]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRockTestTemplate.CustomizeRockTestTemplate
+[2023.09.04-16.44.28:628][405]LogEditorTransaction: Undo Move Nodes
+[2023.09.04-16.45.24:417][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.09.04-16.45.24:421][965]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainMenuLevel' took 0.027
+[2023.09.04-16.45.24:421][965]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/CustomizeRockTestTemplate] ([2] browsable assets)...
+[2023.09.04-16.45.24:424][965]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/CustomizeRockTestTemplate.CustomizeRockTestTemplate]
+[2023.09.04-16.45.24:424][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/CustomizeRockTestTemplate]
+[2023.09.04-16.45.24:435][965]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/CustomizeRockTestTemplate_Auto2
+[2023.09.04-16.45.24:435][965]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockTestTemplate_Auto28A4B04A14BBB824E1F2364910C257EC0.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Autosaves/Game/Widgets/CustomizeRockTestTemplate_Auto2.uasset'
+[2023.09.04-16.45.24:436][965]LogFileHelpers: Auto-saving content packages took 0.016
+[2023.09.04-16.46.59:339][631]BlueprintLog: New page: Compile CustomizeRockTestTemplate
+[2023.09.04-16.46.59:405][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.09.04-16.46.59:416][631]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.04-16.46.59:463][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/CustomizeRockTestTemplate" FILE="C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockTestTemplate.uasset" SILENT=true
+[2023.09.04-16.46.59:476][631]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRockTestTemplate
+[2023.09.04-16.46.59:477][631]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockTestTemplate80AB58B346EC54AB43D66C8C67D8B5B2.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockTestTemplate.uasset'
+[2023.09.04-16.46.59:484][631]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 2.68 sec)
+[2023.09.04-16.46.59:491][631]AssetCheck: New page: Asset Save: CustomizeRockTestTemplate
+[2023.09.04-16.46.59:492][631]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRockTestTemplate.CustomizeRockTestTemplate
+[2023.09.04-16.47.00:019][672]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.04-16.47.00:062][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/CustomizeRockTestTemplate" FILE="C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockTestTemplate.uasset" SILENT=true
+[2023.09.04-16.47.00:075][672]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRockTestTemplate
+[2023.09.04-16.47.00:075][672]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockTestTemplate314F319345009C9FC012F7AB0F1A09EB.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockTestTemplate.uasset'
+[2023.09.04-16.47.00:083][672]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 2.74 sec)
+[2023.09.04-16.47.00:090][672]AssetCheck: New page: Asset Save: CustomizeRockTestTemplate
+[2023.09.04-16.47.00:090][672]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRockTestTemplate.CustomizeRockTestTemplate
