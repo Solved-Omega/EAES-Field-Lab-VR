@@ -1,3 +1,4 @@
-	Rock 12	None	
-Magnetic Test	?	Yes	
-Acid Test	?	No	
+	Custom Rock	Custom Rock	
+Magnetic Test		Yes	
+Acid Test		Yes	
+test	N/A	No	
