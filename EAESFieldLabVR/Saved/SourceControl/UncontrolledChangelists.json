@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset",
+				"C:/Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Levels/MainMenuLevel.umap",
+				"C:/Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Levels/MainLevel.umap",
+				"C:/Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Misc/EAES-GameInstance.uasset",
+				"C:/Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Preset_Rock_Parent.uasset",
+				"C:/Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockWidget.uasset",
+				"C:/Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/PauseMenuWidget.uasset",
+				"C:/Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockWidgetTestTemplate.uasset",
+				"C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/PauseMenuWidget.uasset",
+				"C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Misc/EAES-GameInstance.uasset",
+				"C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTestTemplate.uasset",
+				"C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Misc/SavePermanentData.uasset",
+				"C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/MainMenuWidget.uasset",
+				"C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Levels/MainMenuLevel.umap",
+				"C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockTestTemplate.uasset",
+				"C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockWidget.uasset",
+				"C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Preset_Rock_Parent.uasset",
+				"C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockWidget.uasset",
+				"C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockWidgetTestTemplate.uasset",
+				"C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/CustomModels/CustomRockModel.uasset",
+				"C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/JournalWidgetV2.uasset",
+				"C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/JournalInfoTemplate.uasset"
+			]
+		}
+	]
+}

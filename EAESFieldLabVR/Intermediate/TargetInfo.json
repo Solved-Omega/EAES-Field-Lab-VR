@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "EAESFieldLabVR",
+			"Path": "C:\\Users\\macap\\Downloads\\EAES-Field-Lab-VR\\EAESFieldLabVR\\Source\\EAESFieldLabVR.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "EAESFieldLabVREditor",
+			"Path": "C:\\Users\\macap\\Downloads\\EAES-Field-Lab-VR\\EAESFieldLabVR\\Source\\EAESFieldLabVREditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
