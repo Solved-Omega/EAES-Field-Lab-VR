@@ -1,4 +1,0 @@
-	Rock 11	Rock 12	Rock 14	Rock 4	Rock 5	
-Magnetic Test	?		?		?		?		?		
-Acid Test	?		?		?		?		?		
-test	N/A		N/A		N/A		N/A		N/A		
