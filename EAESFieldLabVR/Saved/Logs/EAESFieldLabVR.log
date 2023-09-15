@@ -4319,3 +4319,1300 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.15-04.03.19:693][296]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
 [2023.09.15-04.03.19:695][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
 [2023.09.15-04.03.19:796][297]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2023.09.15-04.05.45:336][201]BlueprintLog: New page: Compile CustomizeRockTestTemplate
+[2023.09.15-04.05.45:417][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.09.15-04.05.45:890][229]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.15-04.05.45:943][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/CustomizeRockTestTemplate" FILE="C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockTestTemplate.uasset" SILENT=true
+[2023.09.15-04.05.45:963][229]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRockTestTemplate
+[2023.09.15-04.05.45:963][229]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockTestTemplate14422FAC4F2B00B3004B8F9A95E2124F.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockTestTemplate.uasset'
+[2023.09.15-04.05.45:969][229]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 3.39 sec)
+[2023.09.15-04.05.45:976][229]AssetCheck: New page: Asset Save: CustomizeRockTestTemplate
+[2023.09.15-04.05.45:976][229]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRockTestTemplate.CustomizeRockTestTemplate
+[2023.09.15-04.16.46:038][497]BlueprintLog: New page: Compile CustomizeRockTestTemplate
+[2023.09.15-04.16.46:120][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.09.15-04.16.47:048][540]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.15-04.16.47:130][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/CustomizeRockTestTemplate" FILE="C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockTestTemplate.uasset" SILENT=true
+[2023.09.15-04.16.47:153][540]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRockTestTemplate
+[2023.09.15-04.16.47:153][540]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockTestTemplate1A24683E494C3BCE04D8EC854A6A4283.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockTestTemplate.uasset'
+[2023.09.15-04.16.47:159][540]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 3.50 sec)
+[2023.09.15-04.16.47:167][540]AssetCheck: New page: Asset Save: CustomizeRockTestTemplate
+[2023.09.15-04.16.47:167][540]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRockTestTemplate.CustomizeRockTestTemplate
+[2023.09.15-04.16.53:233][909]BlueprintLog: New page: Compile CustomizeRockTestTemplate
+[2023.09.15-04.16.53:323][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.09.15-04.16.53:338][909]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.15-04.16.53:401][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/CustomizeRockTestTemplate" FILE="C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockTestTemplate.uasset" SILENT=true
+[2023.09.15-04.16.53:423][909]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRockTestTemplate
+[2023.09.15-04.16.53:423][909]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockTestTemplate4DE85BE34A9C84FEA2A55CB8F37300E0.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockTestTemplate.uasset'
+[2023.09.15-04.16.53:430][909]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 3.60 sec)
+[2023.09.15-04.16.53:439][909]AssetCheck: New page: Asset Save: CustomizeRockTestTemplate
+[2023.09.15-04.16.53:439][909]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRockTestTemplate.CustomizeRockTestTemplate
+[2023.09.15-04.16.53:792][921]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.15-04.16.53:837][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/CustomizeRockTestTemplate" FILE="C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockTestTemplate.uasset" SILENT=true
+[2023.09.15-04.16.53:858][921]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRockTestTemplate
+[2023.09.15-04.16.53:859][921]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockTestTemplate63FE528E4768CAF3C930E5A5393C4D9A.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockTestTemplate.uasset'
+[2023.09.15-04.16.53:866][921]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 3.67 sec)
+[2023.09.15-04.16.53:873][921]AssetCheck: New page: Asset Save: CustomizeRockTestTemplate
+[2023.09.15-04.16.53:873][921]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRockTestTemplate.CustomizeRockTestTemplate
+[2023.09.15-04.17.18:223][183]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.09.15-04.17.18:237][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.15-04.17.18:237][183]PIE: New page: PIE session: MainMenuLevel (Sep 14, 2023, 2:17:18 PM)
+[2023.09.15-04.17.18:237][183]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.09.15-04.17.18:241][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003294s)
+[2023.09.15-04.17.18:241][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.003333s)
+[2023.09.15-04.17.18:241][183]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.15-04.17.18:241][183]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.15-04.17.18:242][183]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.09.15-04.17.18:242][183]LogPlayLevel: PIE: World Init took: (0.001037s)
+[2023.09.15-04.17.18:262][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.09.15-04.17.18:264][183]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.09.15-04.17.18:264][183]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.15-04.17.18:264][183]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.15-04.17.18:264][183]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.15-04.17.18:264][183]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.15-04.17.18:264][183]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.15-04.17.18:264][183]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.15-04.17.18:264][183]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.15-04.17.18:264][183]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.15-04.17.18:264][183]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.09.15-04.17.18:264][183]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.09.15-04.17.18:264][183]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.15-04.17.18:266][183]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.15-04.17.18:283][183]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.09.15-04.17.18:283][183]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.15-04.17.18:283][183]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.15-04.17.18:283][183]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.15-04.17.18:284][183]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.09.15-04.17.18:284][183]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.09.15-04.17.18:285][183]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.09.15-04.17.18:286][183]LogInit: FAudioDevice initialized with ID 21.
+[2023.09.15-04.17.18:286][183]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.09.15-04.17.18:286][183]LogAudio: Display: Audio Device (ID: 21) registered with world 'MainMenuLevel'.
+[2023.09.15-04.17.18:286][183]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2023.09.15-04.17.18:302][183]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-04.17.18:505][183]LogLoad: Game class is 'VRGameMode_C'
+[2023.09.15-04.17.18:506][183]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2023.09.14-21.17.18
+[2023.09.15-04.17.18:506][183]LogWorld: Bringing up level for play took: 0.000696
+[2023.09.15-04.17.18:509][183]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2023.09.15-04.17.18:512][183]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.09.15-04.17.18:516][183]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.09.15-04.17.18:518][183]vr.PixelDensity = "1"
+[2023.09.15-04.17.18:533][183]PIE: Server logged in
+[2023.09.15-04.17.18:540][183]PIE: Play in editor total start time 0.303 seconds.
+[2023.09.15-04.17.18:556][183]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.09.15-04.17.18:564][183]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.09.15-04.17.18:577][183]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.09.15-04.17.23:388][404]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.17.23:415][405]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.17.23:443][406]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.17.23:471][407]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.17.23:498][408]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.17.23:526][409]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.17.23:554][410]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.17.23:582][411]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.17.23:610][412]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.17.23:638][413]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.17.23:666][414]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.17.23:693][415]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.17.23:721][416]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.17.23:750][417]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.17.23:778][418]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.17.23:805][419]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.17.23:824][420]LogNet: Browse: /Game/Levels/MainLevel
+[2023.09.15-04.17.23:824][420]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2023.09.15-04.17.23:824][420]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.09.15-04.17.23:825][420]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.09.15-04.17.23:825][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.15-04.17.23:870][420]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.15-04.17.23:871][420]LogSlate: Slate User Unregistered.  User Index 8
+[2023.09.15-04.17.23:871][420]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.09.15-04.17.23:873][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.09.15-04.17.23:955][420]LogAudio: Display: Audio Device (ID: 21) registered with world 'MainLevel'.
+[2023.09.15-04.17.23:955][420]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.15-04.17.23:955][420]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.15-04.17.23:955][420]LogAIModule: Creating AISystem for world MainLevel
+[2023.09.15-04.17.23:956][420]LogPlayLevel: PIE: World Init took: (0.000910s)
+[2023.09.15-04.17.23:956][420]LogLoad: Game class is 'VRGameMode_C'
+[2023.09.15-04.17.23:986][420]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.09.14-21.17.23
+[2023.09.15-04.17.23:987][420]LogWorld: Bringing up level for play took: 0.029382
+[2023.09.15-04.17.23:989][420]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.09.15-04.17.23:993][420]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.09.15-04.17.23:995][420]LogLinker: Warning: Failed to load '/Engine/Transient': Can't find file.
+[2023.09.15-04.17.24:004][420]vr.PixelDensity = "1"
+[2023.09.15-04.17.24:007][420]LogLoad: Took 0.183458 seconds to LoadMap(/Game/Levels/MainLevel)
+[2023.09.15-04.17.24:033][420]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambient'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.09.15-04.17.24:088][421]LogShaderCompilers: Display: ================================================
+[2023.09.15-04.17.24:088][421]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.15-04.17.24:088][421]LogShaderCompilers: Display: Total job queries 652, among them cache hits 535 (82.06%)
+[2023.09.15-04.17.24:088][421]LogShaderCompilers: Display: Tracking 117 distinct input hashes that result in 96 distinct outputs (82.05%)
+[2023.09.15-04.17.24:088][421]LogShaderCompilers: Display: RAM used: 3.81 MiB of 1.60 GiB budget. Usage: 0.23%
+[2023.09.15-04.17.24:088][421]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.15-04.17.24:088][421]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.09.15-04.17.24:088][421]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.09.15-04.17.24:088][421]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.09.15-04.17.24:088][421]LogShaderCompilers: Display: ================================================
+[2023.09.15-04.17.24:105][422]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2023.09.15-04.17.24:634][437]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.09.15-04.18.04:828][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-04.18.04:828][764]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.09.15-04.18.04:926][764]LogSlate: Window 'EAESFieldLabVR Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.88.0)' being destroyed
+[2023.09.15-04.18.04:928][764]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.09.15-04.18.04:929][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.15-04.18.04:932][764]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.15-04.18.04:939][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.15-04.18.04:961][764]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2023.09.15-04.18.04:961][764]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.09.15-04.18.04:961][764]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.09.15-04.18.04:963][764]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.09.15-04.18.04:972][764]LogSlate: Slate User Unregistered.  User Index 8
+[2023.09.15-04.18.04:972][764]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.09.15-04.18.04:974][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.09.15-04.18.05:019][765]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2023.09.15-04.18.08:656][969]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.09.15-04.18.08:671][969]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.15-04.18.08:671][969]PIE: New page: PIE session: MainMenuLevel (Sep 14, 2023, 2:18:08 PM)
+[2023.09.15-04.18.08:672][969]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.09.15-04.18.08:674][969]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002432s)
+[2023.09.15-04.18.08:674][969]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002464s)
+[2023.09.15-04.18.08:674][969]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.15-04.18.08:674][969]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.15-04.18.08:674][969]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.09.15-04.18.08:674][969]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2023.09.15-04.18.08:696][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.09.15-04.18.08:699][969]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.09.15-04.18.08:699][969]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.15-04.18.08:699][969]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.15-04.18.08:699][969]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.15-04.18.08:699][969]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.15-04.18.08:699][969]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.15-04.18.08:699][969]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.15-04.18.08:699][969]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.15-04.18.08:699][969]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.15-04.18.08:700][969]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.09.15-04.18.08:700][969]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.09.15-04.18.08:700][969]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.15-04.18.08:702][969]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.15-04.18.08:720][969]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.09.15-04.18.08:720][969]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.15-04.18.08:720][969]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.15-04.18.08:720][969]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.15-04.18.08:721][969]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.09.15-04.18.08:721][969]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.09.15-04.18.08:722][969]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.09.15-04.18.08:722][969]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.09.15-04.18.08:722][969]LogInit: FAudioDevice initialized with ID 22.
+[2023.09.15-04.18.08:722][969]LogAudio: Display: Audio Device (ID: 22) registered with world 'MainMenuLevel'.
+[2023.09.15-04.18.08:722][969]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2023.09.15-04.18.08:743][969]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-04.18.08:954][969]LogLoad: Game class is 'VRGameMode_C'
+[2023.09.15-04.18.08:955][969]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2023.09.14-21.18.08
+[2023.09.15-04.18.08:955][969]LogWorld: Bringing up level for play took: 0.000515
+[2023.09.15-04.18.08:957][969]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2023.09.15-04.18.08:959][969]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.09.15-04.18.08:963][969]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.09.15-04.18.08:965][969]vr.PixelDensity = "1"
+[2023.09.15-04.18.08:980][969]PIE: Server logged in
+[2023.09.15-04.18.08:987][969]PIE: Play in editor total start time 0.316 seconds.
+[2023.09.15-04.18.09:010][969]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.09.15-04.18.09:016][969]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.09.15-04.18.09:031][969]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.09.15-04.18.11:108][ 43]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.11:136][ 44]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.11:163][ 45]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.11:191][ 46]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.11:218][ 47]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.11:245][ 48]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.11:274][ 49]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.11:302][ 50]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.11:331][ 51]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.11:359][ 52]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.11:387][ 53]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.11:415][ 54]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.11:443][ 55]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.11:471][ 56]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.11:499][ 57]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.11:527][ 58]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.11:555][ 59]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.11:582][ 60]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.11:610][ 61]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.11:638][ 62]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.11:665][ 63]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.11:683][ 64]LogNet: Browse: /Game/Levels/MainLevel
+[2023.09.15-04.18.11:683][ 64]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2023.09.15-04.18.11:683][ 64]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.09.15-04.18.11:684][ 64]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.09.15-04.18.11:684][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.15-04.18.11:731][ 64]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.15-04.18.11:733][ 64]LogSlate: Slate User Unregistered.  User Index 8
+[2023.09.15-04.18.11:733][ 64]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.09.15-04.18.11:735][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.09.15-04.18.11:821][ 64]LogAudio: Display: Audio Device (ID: 22) registered with world 'MainLevel'.
+[2023.09.15-04.18.11:821][ 64]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.15-04.18.11:821][ 64]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.15-04.18.11:822][ 64]LogAIModule: Creating AISystem for world MainLevel
+[2023.09.15-04.18.11:822][ 64]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2023.09.15-04.18.11:822][ 64]LogLoad: Game class is 'VRGameMode_C'
+[2023.09.15-04.18.11:853][ 64]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.09.14-21.18.11
+[2023.09.15-04.18.11:853][ 64]LogWorld: Bringing up level for play took: 0.030297
+[2023.09.15-04.18.11:856][ 64]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.09.15-04.18.11:860][ 64]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.09.15-04.18.11:862][ 64]LogLinker: Warning: Failed to load '/Engine/Transient': Can't find file.
+[2023.09.15-04.18.11:872][ 64]vr.PixelDensity = "1"
+[2023.09.15-04.18.11:875][ 64]LogLoad: Took 0.192616 seconds to LoadMap(/Game/Levels/MainLevel)
+[2023.09.15-04.18.11:894][ 64]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambient'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.09.15-04.18.11:966][ 66]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2023.09.15-04.18.13:344][108]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.09.15-04.18.13:581][116]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.09.15-04.18.33:659][766]LogNet: Browse: /Game/Levels/MainMenuLevel
+[2023.09.15-04.18.33:659][766]LogLoad: LoadMap: /Game/Levels/MainMenuLevel
+[2023.09.15-04.18.33:659][766]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.09.15-04.18.33:660][766]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.09.15-04.18.33:661][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.15-04.18.33:731][766]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.15-04.18.33:735][766]LogSlate: Slate User Unregistered.  User Index 8
+[2023.09.15-04.18.33:735][766]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.09.15-04.18.33:737][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.09.15-04.18.33:740][766]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.09.15-04.18.33:743][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002370s)
+[2023.09.15-04.18.33:743][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002411s)
+[2023.09.15-04.18.33:743][766]LogAudio: Display: Audio Device (ID: 22) registered with world 'MainMenuLevel'.
+[2023.09.15-04.18.33:743][766]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.15-04.18.33:743][766]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.15-04.18.33:744][766]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.09.15-04.18.33:744][766]LogPlayLevel: PIE: World Init took: (0.000830s)
+[2023.09.15-04.18.33:744][766]LogLoad: Game class is 'VRGameMode_C'
+[2023.09.15-04.18.33:744][766]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2023.09.14-21.18.33
+[2023.09.15-04.18.33:744][766]LogWorld: Bringing up level for play took: 0.000311
+[2023.09.15-04.18.33:747][766]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.09.15-04.18.33:751][766]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.09.15-04.18.33:753][766]vr.PixelDensity = "1"
+[2023.09.15-04.18.33:756][766]LogLoad: Took 0.096824 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainMenuLevel)
+[2023.09.15-04.18.45:390][204]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.45:418][205]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.45:445][206]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.45:473][207]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.45:500][208]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.45:529][209]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.45:556][210]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.45:584][211]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.45:612][212]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.45:639][213]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.45:667][214]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.45:695][215]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.45:722][216]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.45:750][217]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.45:779][218]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.45:807][219]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.45:835][220]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.45:864][221]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.45:892][222]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.45:921][223]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.45:948][224]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.45:976][225]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:004][226]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:032][227]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:060][228]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:088][229]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:117][230]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:145][231]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:172][232]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:200][233]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:228][234]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:256][235]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:284][236]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:311][237]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:340][238]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:368][239]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:395][240]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:424][241]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:451][242]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:478][243]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:507][244]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:534][245]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:563][246]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:591][247]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:618][248]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:646][249]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:673][250]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:702][251]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:730][252]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:758][253]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:785][254]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:814][255]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:842][256]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:869][257]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:896][258]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:924][259]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:951][260]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.46:979][261]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.47:008][262]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.47:035][263]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.47:063][264]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.47:092][265]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.47:119][266]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.47:147][267]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.47:175][268]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.18.47:193][269]LogNet: Browse: /Game/Levels/MainLevel
+[2023.09.15-04.18.47:193][269]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2023.09.15-04.18.47:193][269]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.09.15-04.18.47:194][269]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.09.15-04.18.47:194][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.15-04.18.47:214][269]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.15-04.18.47:216][269]LogSlate: Slate User Unregistered.  User Index 8
+[2023.09.15-04.18.47:216][269]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.09.15-04.18.47:217][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.09.15-04.18.47:304][269]LogAudio: Display: Audio Device (ID: 22) registered with world 'MainLevel'.
+[2023.09.15-04.18.47:304][269]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.15-04.18.47:304][269]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.15-04.18.47:305][269]LogAIModule: Creating AISystem for world MainLevel
+[2023.09.15-04.18.47:305][269]LogPlayLevel: PIE: World Init took: (0.000913s)
+[2023.09.15-04.18.47:305][269]LogLoad: Game class is 'VRGameMode_C'
+[2023.09.15-04.18.47:336][269]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.09.14-21.18.47
+[2023.09.15-04.18.47:336][269]LogWorld: Bringing up level for play took: 0.030189
+[2023.09.15-04.18.47:339][269]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.09.15-04.18.47:343][269]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.09.15-04.18.47:345][269]LogLinker: Warning: Failed to load '/Engine/Transient': Can't find file.
+[2023.09.15-04.18.47:345][269]LogUObjectGlobals: Warning: Failed to find object 'Object /Engine/Transient.UnrealEdEngine_0:EAES-GameInstance_C_20.HUDWidget_C_3'
+[2023.09.15-04.18.47:355][269]vr.PixelDensity = "1"
+[2023.09.15-04.18.47:358][269]LogLoad: Took 0.165688 seconds to LoadMap(/Game/Levels/MainLevel)
+[2023.09.15-04.18.47:375][269]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambient'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.09.15-04.18.58:708][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-04.18.58:708][639]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.09.15-04.18.58:801][639]LogSlate: Window 'EAESFieldLabVR Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.88.0)' being destroyed
+[2023.09.15-04.18.58:805][639]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.09.15-04.18.58:805][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.15-04.18.58:809][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.15-04.18.58:815][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.15-04.18.58:840][639]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.15-04.18.58:840][639]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2023.09.15-04.18.58:840][639]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.09.15-04.18.58:840][639]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.09.15-04.18.58:842][639]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.09.15-04.18.58:851][639]LogSlate: Slate User Unregistered.  User Index 8
+[2023.09.15-04.18.58:851][639]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.09.15-04.18.58:853][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.09.15-04.18.58:910][640]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2023.09.15-04.19.46:463][837]BlueprintLog: New page: Compile CustomizeRockTestTemplate
+[2023.09.15-04.19.46:544][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.09.15-04.22.20:479][410]LogDerivedDataCache: C:/Users/macap/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.171 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6031 files in 7748 folders with total size 1675 MiB.
+[2023.09.15-04.25.36:614][212]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.09.15-04.25.36:627][212]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.15-04.25.36:627][212]PIE: New page: PIE session: MainMenuLevel (Sep 14, 2023, 2:25:36 PM)
+[2023.09.15-04.25.36:627][212]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.09.15-04.25.36:629][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002311s)
+[2023.09.15-04.25.36:629][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002345s)
+[2023.09.15-04.25.36:629][212]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.15-04.25.36:630][212]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.15-04.25.36:630][212]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.09.15-04.25.36:630][212]LogPlayLevel: PIE: World Init took: (0.000809s)
+[2023.09.15-04.25.36:650][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.09.15-04.25.36:652][212]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.09.15-04.25.36:652][212]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.15-04.25.36:652][212]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.15-04.25.36:652][212]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.15-04.25.36:652][212]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.15-04.25.36:652][212]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.15-04.25.36:652][212]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.15-04.25.36:652][212]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.15-04.25.36:652][212]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.15-04.25.36:652][212]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.09.15-04.25.36:652][212]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.09.15-04.25.36:652][212]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.15-04.25.36:654][212]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.15-04.25.36:669][212]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.09.15-04.25.36:670][212]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.15-04.25.36:670][212]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.15-04.25.36:670][212]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.15-04.25.36:670][212]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.09.15-04.25.36:670][212]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.09.15-04.25.36:672][212]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.09.15-04.25.36:672][212]LogInit: FAudioDevice initialized with ID 23.
+[2023.09.15-04.25.36:672][212]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.09.15-04.25.36:672][212]LogAudio: Display: Audio Device (ID: 23) registered with world 'MainMenuLevel'.
+[2023.09.15-04.25.36:672][212]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2023.09.15-04.25.36:688][212]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-04.25.36:892][212]LogLoad: Game class is 'VRGameMode_C'
+[2023.09.15-04.25.36:893][212]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2023.09.14-21.25.36
+[2023.09.15-04.25.36:893][212]LogWorld: Bringing up level for play took: 0.000545
+[2023.09.15-04.25.36:895][212]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2023.09.15-04.25.36:898][212]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.09.15-04.25.36:901][212]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.09.15-04.25.36:904][212]vr.PixelDensity = "1"
+[2023.09.15-04.25.36:916][212]PIE: Server logged in
+[2023.09.15-04.25.36:923][212]PIE: Play in editor total start time 0.295 seconds.
+[2023.09.15-04.25.36:938][212]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.09.15-04.25.36:944][212]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.09.15-04.25.36:957][212]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.09.15-04.25.44:812][632]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.44:838][633]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.44:866][634]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.44:893][635]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.44:920][636]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.44:949][637]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.44:976][638]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:004][639]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:032][640]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:060][641]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:088][642]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:115][643]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:144][644]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:171][645]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:199][646]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:227][647]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:255][648]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:284][649]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:310][650]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:338][651]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:365][652]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:392][653]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:419][654]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:436][655]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:462][656]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:490][657]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:519][658]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:546][659]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:574][660]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:601][661]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:630][662]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:647][663]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:672][664]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:699][665]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:728][666]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:756][667]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:783][668]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:811][669]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:839][670]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:867][671]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:895][672]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:922][673]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:951][674]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.45:978][675]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:007][676]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:036][677]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:066][678]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:083][679]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:100][680]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:127][681]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:156][682]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:172][683]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:198][684]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:227][685]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:255][686]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:283][687]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:311][688]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:339][689]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:367][690]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:395][691]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:422][692]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:451][693]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:467][694]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:493][695]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:520][696]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:548][697]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:576][698]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:604][699]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:632][700]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:660][701]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:685][702]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:713][703]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:740][704]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:758][705]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:784][706]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:811][707]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:839][708]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:856][709]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:882][710]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:909][711]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:937][712]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:965][713]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.46:993][714]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:021][715]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:049][716]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:065][717]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:091][718]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:119][719]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:146][720]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:174][721]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:203][722]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:230][723]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:258][724]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:286][725]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:314][726]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:342][727]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:369][728]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:397][729]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:425][730]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:454][731]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:469][732]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:495][733]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:523][734]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:551][735]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:567][736]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:593][737]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:620][738]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:649][739]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:665][740]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:691][741]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:718][742]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:734][743]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:760][744]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:788][745]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:815][746]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:843][747]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:872][748]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:888][749]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:913][750]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:941][751]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:969][752]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.47:996][753]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:024][754]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:052][755]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:080][756]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:097][757]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:122][758]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:150][759]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:178][760]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:206][761]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:234][762]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:262][763]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:289][764]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:317][765]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:345][766]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:373][767]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:400][768]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:429][769]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:456][770]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:485][771]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:512][772]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:540][773]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:568][774]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:596][775]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:611][776]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:626][777]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:651][778]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:679][779]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:695][780]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:721][781]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:749][782]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:776][783]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:793][784]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:818][785]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:846][786]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:874][787]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:891][788]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:916][789]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:944][790]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.48:971][791]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:000][792]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:027][793]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:055][794]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:083][795]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:111][796]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:139][797]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:156][798]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:181][799]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:209][800]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:237][801]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:253][802]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:278][803]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:306][804]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:322][805]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:348][806]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:375][807]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:392][808]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:417][809]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:445][810]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:473][811]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:489][812]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:515][813]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:543][814]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:560][815]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:560][815]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.49:585][816]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:585][816]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.49:612][817]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:612][817]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.49:640][818]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:640][818]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.49:657][819]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:657][819]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.49:682][820]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:682][820]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.49:709][821]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:709][821]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.49:738][822]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:738][822]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.49:754][823]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:754][823]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.49:780][824]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:780][824]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.49:796][825]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:796][825]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.49:822][826]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:822][826]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.49:849][827]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:849][827]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.49:865][828]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:865][828]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.49:891][829]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:891][829]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.49:919][830]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:919][830]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.49:946][831]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:946][831]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.49:962][832]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:963][832]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.49:989][833]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.49:989][833]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:016][834]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:016][834]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:044][835]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:044][835]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:060][836]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:061][836]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:086][837]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:086][837]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:114][838]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:114][838]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:142][839]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:142][839]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:169][840]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:169][840]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:198][841]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:198][841]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:213][842]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:213][842]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:239][843]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:239][843]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:267][844]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:267][844]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:283][845]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:283][845]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:309][846]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:309][846]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:337][847]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:337][847]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:364][848]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:364][848]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:380][849]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:380][849]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:406][850]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:406][850]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:434][851]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:434][851]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:450][852]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:450][852]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:476][853]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:476][853]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:504][854]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:504][854]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:532][855]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:532][855]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:560][856]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:560][856]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:587][857]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:587][857]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:616][858]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:616][858]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:643][859]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:643][859]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:671][860]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:671][860]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:699][861]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:699][861]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:715][862]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:715][862]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:740][863]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:740][863]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:768][864]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:768][864]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:784][865]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:784][865]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:810][866]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:810][866]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:838][867]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:838][867]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:854][868]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:854][868]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:880][869]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:880][869]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:896][870]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:896][870]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:921][871]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:921][871]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:949][872]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:949][872]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.50:977][873]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.50:977][873]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.51:005][874]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.51:005][874]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.51:032][875]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.51:032][875]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.51:061][876]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.51:061][876]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.51:076][877]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.51:077][877]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.51:103][878]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.51:103][878]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.51:131][879]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.51:131][879]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.51:159][880]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.51:159][880]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.51:186][881]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.51:186][881]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.51:214][882]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.51:214][882]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.51:242][883]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.51:242][883]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.51:269][884]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.51:270][884]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.51:287][885]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.51:287][885]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.51:312][886]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.51:312][886]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.51:339][887]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.51:339][887]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.51:367][888]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.51:367][888]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.51:395][889]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.51:395][889]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.51:422][890]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.51:422][890]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.51:439][891]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.51:439][891]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:109][969]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:109][969]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:135][970]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:135][970]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:163][971]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:163][971]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:191][972]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:191][972]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:218][973]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:218][973]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:235][974]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:235][974]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:261][975]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:261][975]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:289][976]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:289][976]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:304][977]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:304][977]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:330][978]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:330][978]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:346][979]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:347][979]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:372][980]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:372][980]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:400][981]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:400][981]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:416][982]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:416][982]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:442][983]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:442][983]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:470][984]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:470][984]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:497][985]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:497][985]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:525][986]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:525][986]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:553][987]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:553][987]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:569][988]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:569][988]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:594][989]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:594][989]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:622][990]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:623][990]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:650][991]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:650][991]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:667][992]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:667][992]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:692][993]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:692][993]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:720][994]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:720][994]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:747][995]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:747][995]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:775][996]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:775][996]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:791][997]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:792][997]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:817][998]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:817][998]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:845][999]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:845][999]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:873][  0]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:873][  0]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:889][  1]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:889][  1]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:914][  2]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:914][  2]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:942][  3]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:942][  3]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:970][  4]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:970][  4]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.53:999][  5]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.53:999][  5]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.54:026][  6]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.54:026][  6]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.54:053][  7]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.54:053][  7]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.54:081][  8]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.54:081][  8]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.54:098][  9]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.54:098][  9]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.54:123][ 10]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.54:123][ 10]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.54:151][ 11]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.54:151][ 11]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.54:167][ 12]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.54:167][ 12]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.54:193][ 13]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.54:193][ 13]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.54:221][ 14]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.54:221][ 14]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.54:249][ 15]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.54:249][ 15]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.54:265][ 16]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.54:265][ 16]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.54:290][ 17]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.54:290][ 17]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.54:318][ 18]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.54:318][ 18]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.54:346][ 19]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.54:347][ 19]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.54:374][ 20]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.54:374][ 20]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.54:402][ 21]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.54:402][ 21]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.54:419][ 22]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.54:419][ 22]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.54:444][ 23]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.54:444][ 23]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.54:471][ 24]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.54:472][ 24]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.54:499][ 25]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.54:499][ 25]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.54:527][ 26]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.54:527][ 26]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.54:555][ 27]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.54:555][ 27]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.54:572][ 28]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.54:572][ 28]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.54:598][ 29]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.25.54:598][ 29]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.25.54:613][ 30]LogNet: Browse: /Game/Levels/MainLevel
+[2023.09.15-04.25.54:613][ 30]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2023.09.15-04.25.54:613][ 30]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.09.15-04.25.54:614][ 30]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.09.15-04.25.54:614][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.15-04.25.54:659][ 30]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.15-04.25.54:663][ 30]LogSlate: Slate User Unregistered.  User Index 8
+[2023.09.15-04.25.54:663][ 30]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.09.15-04.25.54:664][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.09.15-04.25.54:743][ 30]LogAudio: Display: Audio Device (ID: 23) registered with world 'MainLevel'.
+[2023.09.15-04.25.54:743][ 30]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.15-04.25.54:743][ 30]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.15-04.25.54:744][ 30]LogAIModule: Creating AISystem for world MainLevel
+[2023.09.15-04.25.54:744][ 30]LogPlayLevel: PIE: World Init took: (0.000788s)
+[2023.09.15-04.25.54:744][ 30]LogLoad: Game class is 'VRGameMode_C'
+[2023.09.15-04.25.54:771][ 30]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.09.14-21.25.54
+[2023.09.15-04.25.54:771][ 30]LogWorld: Bringing up level for play took: 0.026638
+[2023.09.15-04.25.54:774][ 30]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.09.15-04.25.54:777][ 30]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.09.15-04.25.54:778][ 30]LogLinker: Warning: Failed to load '/Engine/Transient': Can't find file.
+[2023.09.15-04.25.54:787][ 30]vr.PixelDensity = "1"
+[2023.09.15-04.25.54:790][ 30]LogLoad: Took 0.176984 seconds to LoadMap(/Game/Levels/MainLevel)
+[2023.09.15-04.25.54:796][ 30]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambient'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.09.15-04.25.54:825][ 31]LogShaderCompilers: Display: ================================================
+[2023.09.15-04.25.54:825][ 31]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.15-04.25.54:825][ 31]LogShaderCompilers: Display: Total job queries 724, among them cache hits 607 (83.84%)
+[2023.09.15-04.25.54:825][ 31]LogShaderCompilers: Display: Tracking 117 distinct input hashes that result in 96 distinct outputs (82.05%)
+[2023.09.15-04.25.54:825][ 31]LogShaderCompilers: Display: RAM used: 3.81 MiB of 1.60 GiB budget. Usage: 0.23%
+[2023.09.15-04.25.54:825][ 31]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.15-04.25.54:825][ 31]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.09.15-04.25.54:825][ 31]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.09.15-04.25.54:825][ 31]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.09.15-04.25.54:825][ 31]LogShaderCompilers: Display: ================================================
+[2023.09.15-04.25.54:854][ 32]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2023.09.15-04.27.04:058][279]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Documents/CustomRockModels/rock/rock_N.png' error.
+[2023.09.15-04.27.04:564][279]LogTemp: mNumMeshes: 0, mNumChildren of Node: 1
+[2023.09.15-04.27.04:564][279]LogTemp: Loading Mesh at index: 0
+[2023.09.15-04.27.04:634][279]LogTemp: mNumFaces: 200000
+[2023.09.15-04.27.04:655][279]LogTemp: mNumMeshes: 1, mNumChildren of Node: 0
+[2023.09.15-04.27.12:566][517]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.09.15-04.27.16:176][633]LogNet: Browse: /Game/Levels/MainMenuLevel
+[2023.09.15-04.27.16:176][633]LogLoad: LoadMap: /Game/Levels/MainMenuLevel
+[2023.09.15-04.27.16:176][633]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.09.15-04.27.16:177][633]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.09.15-04.27.16:178][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.15-04.27.16:241][633]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.15-04.27.16:267][633]LogSlate: Slate User Unregistered.  User Index 8
+[2023.09.15-04.27.16:267][633]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.09.15-04.27.16:275][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.09.15-04.27.16:279][633]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.09.15-04.27.16:281][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002183s)
+[2023.09.15-04.27.16:281][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002222s)
+[2023.09.15-04.27.16:281][633]LogAudio: Display: Audio Device (ID: 23) registered with world 'MainMenuLevel'.
+[2023.09.15-04.27.16:281][633]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.15-04.27.16:281][633]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.15-04.27.16:282][633]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.09.15-04.27.16:282][633]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2023.09.15-04.27.16:282][633]LogLoad: Game class is 'VRGameMode_C'
+[2023.09.15-04.27.16:282][633]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2023.09.14-21.27.16
+[2023.09.15-04.27.16:282][633]LogWorld: Bringing up level for play took: 0.000295
+[2023.09.15-04.27.16:285][633]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.09.15-04.27.16:288][633]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.09.15-04.27.16:290][633]vr.PixelDensity = "1"
+[2023.09.15-04.27.16:293][633]LogLoad: Took 0.116826 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainMenuLevel)
+[2023.09.15-04.27.18:275][723]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.27.18:275][723]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.27.18:301][724]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.27.18:301][724]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.27.18:329][725]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.27.18:329][725]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.27.18:355][726]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.27.18:355][726]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.27.18:384][727]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.27.18:384][727]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.27.18:412][728]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.27.18:412][728]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.27.18:440][729]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.27.18:440][729]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.27.18:468][730]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.27.18:468][730]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.27.18:495][731]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.27.18:495][731]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.27.18:523][732]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.27.18:523][732]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.27.18:551][733]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.27.18:551][733]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.27.18:579][734]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.27.18:579][734]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.27.18:607][735]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.27.18:607][735]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.27.18:635][736]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.27.18:635][736]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.27.18:663][737]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.27.18:663][737]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.27.18:690][738]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.27.18:690][738]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.27.18:719][739]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.27.18:719][739]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.27.18:746][740]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.27.18:746][740]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.27.18:774][741]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.27.18:774][741]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.27.18:802][742]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.27.18:802][742]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.27.18:830][743]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.27.18:830][743]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.27.18:846][744]LogNet: Browse: /Game/Levels/MainLevel
+[2023.09.15-04.27.18:846][744]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2023.09.15-04.27.18:846][744]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.09.15-04.27.18:847][744]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.09.15-04.27.18:847][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.15-04.27.18:897][744]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.15-04.27.18:899][744]LogSlate: Slate User Unregistered.  User Index 8
+[2023.09.15-04.27.18:899][744]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.09.15-04.27.18:900][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.09.15-04.27.18:980][744]LogAudio: Display: Audio Device (ID: 23) registered with world 'MainLevel'.
+[2023.09.15-04.27.18:980][744]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.15-04.27.18:980][744]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.15-04.27.18:981][744]LogAIModule: Creating AISystem for world MainLevel
+[2023.09.15-04.27.18:981][744]LogPlayLevel: PIE: World Init took: (0.000841s)
+[2023.09.15-04.27.18:981][744]LogLoad: Game class is 'VRGameMode_C'
+[2023.09.15-04.27.19:010][744]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.09.14-21.27.19
+[2023.09.15-04.27.19:010][744]LogWorld: Bringing up level for play took: 0.028855
+[2023.09.15-04.27.19:013][744]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.09.15-04.27.19:016][744]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.09.15-04.27.19:018][744]LogLinker: Warning: Failed to load '/Engine/Transient': Can't find file.
+[2023.09.15-04.27.19:018][744]LogUObjectGlobals: Warning: Failed to find object 'Object /Engine/Transient.UnrealEdEngine_0:EAES-GameInstance_C_21.HUDWidget_C_3'
+[2023.09.15-04.27.19:710][744]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Documents/CustomRockModels/rock/rock_N.png' error.
+[2023.09.15-04.27.20:188][744]LogTemp: mNumMeshes: 0, mNumChildren of Node: 1
+[2023.09.15-04.27.20:188][744]LogTemp: Loading Mesh at index: 0
+[2023.09.15-04.27.20:237][744]LogTemp: mNumFaces: 200000
+[2023.09.15-04.27.20:253][744]LogTemp: mNumMeshes: 1, mNumChildren of Node: 0
+[2023.09.15-04.27.20:452][744]vr.PixelDensity = "1"
+[2023.09.15-04.27.20:455][744]LogLoad: Took 1.608942 seconds to LoadMap(/Game/Levels/MainLevel)
+[2023.09.15-04.27.20:521][744]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambient'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.09.15-04.27.23:844][847]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.09.15-04.27.35:662][216]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.09.15-04.27.35:912][223]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.09.15-04.27.36:163][230]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.09.15-04.27.39:384][305]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Documents/CustomRockModels/Test/Test_N.png' error.
+[2023.09.15-04.27.39:882][305]LogTemp: mNumMeshes: 0, mNumChildren of Node: 1
+[2023.09.15-04.27.39:882][305]LogTemp: Loading Mesh at index: 0
+[2023.09.15-04.27.39:942][305]LogTemp: mNumFaces: 200000
+[2023.09.15-04.27.39:960][305]LogTemp: mNumMeshes: 1, mNumChildren of Node: 0
+[2023.09.15-04.27.46:312][495]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.09.15-04.27.48:911][573]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.09.15-04.27.51:191][637]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.09.15-04.27.55:341][746]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.09.15-04.27.55:676][756]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.09.15-04.28.15:127][361]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Documents/CustomRockModels/rock/rock_N.png' error.
+[2023.09.15-04.28.15:605][361]LogTemp: mNumMeshes: 0, mNumChildren of Node: 1
+[2023.09.15-04.28.15:606][361]LogTemp: Loading Mesh at index: 0
+[2023.09.15-04.28.15:656][361]LogTemp: mNumFaces: 200000
+[2023.09.15-04.28.15:677][361]LogTemp: mNumMeshes: 1, mNumChildren of Node: 0
+[2023.09.15-04.28.16:582][361]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Documents/CustomRockModels/Test/Test_N.png' error.
+[2023.09.15-04.28.17:055][361]LogTemp: mNumMeshes: 0, mNumChildren of Node: 1
+[2023.09.15-04.28.17:055][361]LogTemp: Loading Mesh at index: 0
+[2023.09.15-04.28.17:103][361]LogTemp: mNumFaces: 200000
+[2023.09.15-04.28.17:119][361]LogTemp: mNumMeshes: 1, mNumChildren of Node: 0
+[2023.09.15-04.28.21:585][492]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.09.15-04.28.21:866][499]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.09.15-04.28.22:080][505]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.09.15-04.28.22:327][512]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.09.15-04.28.22:792][526]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.09.15-04.28.23:055][534]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.09.15-04.28.23:332][542]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.09.15-04.28.23:611][550]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.09.15-04.28.41:928][ 95]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.09.15-04.28.42:202][102]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.09.15-04.28.42:455][108]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.09.15-04.28.42:694][115]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.09.15-04.28.43:126][128]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.09.15-04.28.43:470][138]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.09.15-04.28.43:857][149]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.09.15-04.28.50:011][330]LogNet: Browse: /Game/Levels/MainMenuLevel
+[2023.09.15-04.28.50:011][330]LogLoad: LoadMap: /Game/Levels/MainMenuLevel
+[2023.09.15-04.28.50:011][330]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.09.15-04.28.50:012][330]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.09.15-04.28.50:013][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.15-04.28.50:061][330]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.15-04.28.50:108][330]LogSlate: Slate User Unregistered.  User Index 8
+[2023.09.15-04.28.50:108][330]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.09.15-04.28.50:126][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.09.15-04.28.50:129][330]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.09.15-04.28.50:132][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002578s)
+[2023.09.15-04.28.50:132][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002628s)
+[2023.09.15-04.28.50:132][330]LogAudio: Display: Audio Device (ID: 23) registered with world 'MainMenuLevel'.
+[2023.09.15-04.28.50:132][330]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.15-04.28.50:132][330]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.15-04.28.50:133][330]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.09.15-04.28.50:133][330]LogPlayLevel: PIE: World Init took: (0.000896s)
+[2023.09.15-04.28.50:133][330]LogLoad: Game class is 'VRGameMode_C'
+[2023.09.15-04.28.50:133][330]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2023.09.14-21.28.50
+[2023.09.15-04.28.50:133][330]LogWorld: Bringing up level for play took: 0.000319
+[2023.09.15-04.28.50:137][330]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.09.15-04.28.50:140][330]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.09.15-04.28.50:143][330]vr.PixelDensity = "1"
+[2023.09.15-04.28.50:146][330]LogLoad: Took 0.135286 seconds to LoadMap(/Game/Levels/UEDPIE_0_MainMenuLevel)
+[2023.09.15-04.28.54:199][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-04.28.54:199][529]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.09.15-04.28.54:282][529]LogSlate: Window 'EAESFieldLabVR Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.88.0)' being destroyed
+[2023.09.15-04.28.54:284][529]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.09.15-04.28.54:285][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.15-04.28.54:287][529]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.15-04.28.54:293][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.15-04.28.54:314][529]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2023.09.15-04.28.54:314][529]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.09.15-04.28.54:314][529]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.09.15-04.28.54:316][529]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.09.15-04.28.54:323][529]LogSlate: Slate User Unregistered.  User Index 8
+[2023.09.15-04.28.54:323][529]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.09.15-04.28.54:324][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.09.15-04.28.54:432][530]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2023.09.15-04.28.56:095][635]BlueprintLog: New page: Compile CustomizeRockTestTemplate
+[2023.09.15-04.28.56:182][635]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.09.15-04.28.56:716][657]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.15-04.28.56:780][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/CustomizeRockTestTemplate" FILE="C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockTestTemplate.uasset" SILENT=true
+[2023.09.15-04.28.56:803][657]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRockTestTemplate
+[2023.09.15-04.28.56:804][657]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockTestTemplate342AC0944E01655C233ECE84FD3920B3.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRockTestTemplate.uasset'
+[2023.09.15-04.28.56:810][657]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 3.76 sec)
+[2023.09.15-04.28.56:817][657]AssetCheck: New page: Asset Save: CustomizeRockTestTemplate
+[2023.09.15-04.28.56:817][657]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRockTestTemplate.CustomizeRockTestTemplate
+[2023.09.15-04.30.10:391][ 98]BlueprintLog: New page: Compile PauseMenuWidget
+[2023.09.15-04.30.10:535][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.09.15-04.30.10:631][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.15-04.30.10:703][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/PauseMenuWidget" FILE="C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/PauseMenuWidget.uasset" SILENT=true
+[2023.09.15-04.30.10:806][ 98]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenuWidget
+[2023.09.15-04.30.10:807][ 98]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/PauseMenuWidget6C30C1AE40286364486607AC4469465A.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/PauseMenuWidget.uasset'
+[2023.09.15-04.30.10:813][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave took 183 ms (total: 3.95 sec)
+[2023.09.15-04.30.10:830][ 98]AssetCheck: New page: Asset Save: PauseMenuWidget
+[2023.09.15-04.30.10:830][ 98]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenuWidget.PauseMenuWidget
+[2023.09.15-04.30.12:310][195]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.09.15-04.30.12:324][195]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.15-04.30.12:324][195]PIE: New page: PIE session: MainMenuLevel (Sep 14, 2023, 2:30:12 PM)
+[2023.09.15-04.30.12:324][195]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.09.15-04.30.12:326][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002398s)
+[2023.09.15-04.30.12:326][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002431s)
+[2023.09.15-04.30.12:326][195]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.15-04.30.12:326][195]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.15-04.30.12:326][195]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.09.15-04.30.12:327][195]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2023.09.15-04.30.12:353][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.09.15-04.30.12:357][195]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.09.15-04.30.12:357][195]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.15-04.30.12:357][195]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.15-04.30.12:357][195]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.15-04.30.12:357][195]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.15-04.30.12:357][195]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.09.15-04.30.12:357][195]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.09.15-04.30.12:357][195]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.09.15-04.30.12:357][195]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.15-04.30.12:357][195]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.09.15-04.30.12:357][195]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.09.15-04.30.12:357][195]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.15-04.30.12:359][195]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.15-04.30.12:376][195]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2023.09.15-04.30.12:377][195]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.15-04.30.12:377][195]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.15-04.30.12:377][195]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.15-04.30.12:377][195]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.09.15-04.30.12:377][195]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2023.09.15-04.30.12:379][195]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.09.15-04.30.12:379][195]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.09.15-04.30.12:379][195]LogInit: FAudioDevice initialized with ID 24.
+[2023.09.15-04.30.12:379][195]LogAudio: Display: Audio Device (ID: 24) registered with world 'MainMenuLevel'.
+[2023.09.15-04.30.12:379][195]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2023.09.15-04.30.12:395][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-04.30.12:589][195]LogLoad: Game class is 'VRGameMode_C'
+[2023.09.15-04.30.12:589][195]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2023.09.14-21.30.12
+[2023.09.15-04.30.12:590][195]LogWorld: Bringing up level for play took: 0.000473
+[2023.09.15-04.30.12:592][195]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2023.09.15-04.30.12:595][195]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.09.15-04.30.12:597][195]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.09.15-04.30.12:599][195]vr.PixelDensity = "1"
+[2023.09.15-04.30.12:618][195]PIE: Server logged in
+[2023.09.15-04.30.12:628][195]PIE: Play in editor total start time 0.305 seconds.
+[2023.09.15-04.30.12:641][195]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.09.15-04.30.12:648][195]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.09.15-04.30.12:660][195]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.09.15-04.30.17:315][502]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.30.17:315][502]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.30.17:340][503]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.30.17:340][503]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.30.17:368][504]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.30.17:368][504]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.30.17:397][505]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.30.17:397][505]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.30.17:424][506]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.30.17:424][506]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.30.17:451][507]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.30.17:452][507]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.30.17:467][508]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.30.17:467][508]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.30.17:493][509]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.30.17:493][509]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.30.17:509][510]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.30.17:509][510]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.30.17:535][511]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.30.17:535][511]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.30.17:550][512]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.30.17:550][512]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.30.17:576][513]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.30.17:576][513]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.30.17:593][514]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.30.17:593][514]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.30.17:618][515]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.30.17:618][515]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.30.17:646][516]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.30.17:646][516]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.30.17:662][517]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.30.17:662][517]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.30.17:688][518]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.30.17:688][518]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.30.17:704][519]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.30.17:704][519]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.30.17:730][520]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.30.17:731][520]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.30.17:746][521]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.30.17:746][521]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.30.17:772][522]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.30.17:772][522]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.30.17:799][523]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.30.17:799][523]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.30.17:816][524]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.30.17:816][524]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.30.17:841][525]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.30.17:842][525]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.30.17:857][526]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.30.17:857][526]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.30.17:883][527]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.30.17:883][527]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.30.17:912][528]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.09.15-04.30.17:912][528]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.09.15-04.30.17:926][529]LogNet: Browse: /Game/Levels/MainLevel
+[2023.09.15-04.30.17:926][529]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2023.09.15-04.30.17:926][529]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.09.15-04.30.17:927][529]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.09.15-04.30.17:927][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.15-04.30.17:988][529]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.15-04.30.17:992][529]LogSlate: Slate User Unregistered.  User Index 8
+[2023.09.15-04.30.17:992][529]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.09.15-04.30.17:994][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.09.15-04.30.18:074][529]LogAudio: Display: Audio Device (ID: 24) registered with world 'MainLevel'.
+[2023.09.15-04.30.18:075][529]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.15-04.30.18:075][529]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.15-04.30.18:075][529]LogAIModule: Creating AISystem for world MainLevel
+[2023.09.15-04.30.18:075][529]LogPlayLevel: PIE: World Init took: (0.000833s)
+[2023.09.15-04.30.18:075][529]LogLoad: Game class is 'VRGameMode_C'
+[2023.09.15-04.30.18:106][529]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.09.14-21.30.18
+[2023.09.15-04.30.18:106][529]LogWorld: Bringing up level for play took: 0.029992
+[2023.09.15-04.30.18:109][529]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.09.15-04.30.18:112][529]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.09.15-04.30.18:113][529]LogLinker: Warning: Failed to load '/Engine/Transient': Can't find file.
+[2023.09.15-04.30.18:814][529]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Documents/CustomRockModels/rock/rock_N.png' error.
+[2023.09.15-04.30.19:281][529]LogTemp: mNumMeshes: 0, mNumChildren of Node: 1
+[2023.09.15-04.30.19:281][529]LogTemp: Loading Mesh at index: 0
+[2023.09.15-04.30.19:333][529]LogTemp: mNumFaces: 200000
+[2023.09.15-04.30.19:349][529]LogTemp: mNumMeshes: 1, mNumChildren of Node: 0
+[2023.09.15-04.30.20:159][529]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Documents/CustomRockModels/Test/Test_N.png' error.
+[2023.09.15-04.30.20:653][529]LogTemp: mNumMeshes: 0, mNumChildren of Node: 1
+[2023.09.15-04.30.20:654][529]LogTemp: Loading Mesh at index: 0
+[2023.09.15-04.30.20:712][529]LogTemp: mNumFaces: 200000
+[2023.09.15-04.30.20:734][529]LogTemp: mNumMeshes: 1, mNumChildren of Node: 0
+[2023.09.15-04.30.20:938][529]vr.PixelDensity = "1"
+[2023.09.15-04.30.20:942][529]LogLoad: Took 3.015667 seconds to LoadMap(/Game/Levels/MainLevel)
+[2023.09.15-04.30.21:058][529]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambient'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.09.15-04.30.21:092][530]LogShaderCompilers: Display: ================================================
+[2023.09.15-04.30.21:092][530]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.09.15-04.30.21:092][530]LogShaderCompilers: Display: Total job queries 776, among them cache hits 657 (84.66%)
+[2023.09.15-04.30.21:092][530]LogShaderCompilers: Display: Tracking 119 distinct input hashes that result in 97 distinct outputs (81.51%)
+[2023.09.15-04.30.21:092][530]LogShaderCompilers: Display: RAM used: 3.88 MiB of 1.60 GiB budget. Usage: 0.24%
+[2023.09.15-04.30.21:092][530]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.09.15-04.30.21:092][530]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.09.15-04.30.21:092][530]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.09.15-04.30.21:092][530]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.09.15-04.30.21:092][530]LogShaderCompilers: Display: ================================================
+[2023.09.15-04.30.21:158][531]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2023.09.15-04.30.25:606][676]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.09.15-04.30.25:910][686]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.09.15-04.30.37:226][ 27]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Documents/CustomRockModels/rock/rock_N.png' error.
+[2023.09.15-04.30.37:698][ 27]LogTemp: mNumMeshes: 0, mNumChildren of Node: 1
+[2023.09.15-04.30.37:698][ 27]LogTemp: Loading Mesh at index: 0
+[2023.09.15-04.30.37:748][ 27]LogTemp: mNumFaces: 200000
+[2023.09.15-04.30.37:764][ 27]LogTemp: mNumMeshes: 1, mNumChildren of Node: 0
+[2023.09.15-04.30.38:646][ 27]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Documents/CustomRockModels/Test/Test_N.png' error.
+[2023.09.15-04.30.39:100][ 27]LogTemp: mNumMeshes: 0, mNumChildren of Node: 1
+[2023.09.15-04.30.39:100][ 27]LogTemp: Loading Mesh at index: 0
+[2023.09.15-04.30.39:148][ 27]LogTemp: mNumFaces: 200000
+[2023.09.15-04.30.39:164][ 27]LogTemp: mNumMeshes: 1, mNumChildren of Node: 0
+[2023.09.15-04.31.03:535][782]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Documents/CustomRockModels/rock/rock_N.png' error.
+[2023.09.15-04.31.04:006][782]LogTemp: mNumMeshes: 0, mNumChildren of Node: 1
+[2023.09.15-04.31.04:007][782]LogTemp: Loading Mesh at index: 0
+[2023.09.15-04.31.04:055][782]LogTemp: mNumFaces: 200000
+[2023.09.15-04.31.04:071][782]LogTemp: mNumMeshes: 1, mNumChildren of Node: 0
+[2023.09.15-04.31.04:946][782]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Documents/CustomRockModels/Test/Test_N.png' error.
+[2023.09.15-04.31.05:422][782]LogTemp: mNumMeshes: 0, mNumChildren of Node: 1
+[2023.09.15-04.31.05:422][782]LogTemp: Loading Mesh at index: 0
+[2023.09.15-04.31.05:471][782]LogTemp: mNumFaces: 200000
+[2023.09.15-04.31.05:486][782]LogTemp: mNumMeshes: 1, mNumChildren of Node: 0
+[2023.09.15-04.31.18:689][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.15-04.31.18:689][196]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.09.15-04.31.18:757][196]LogSlate: Window 'EAESFieldLabVR Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.88.0)' being destroyed
+[2023.09.15-04.31.18:760][196]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.09.15-04.31.18:761][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.15-04.31.18:764][196]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.15-04.31.18:770][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.15-04.31.18:792][196]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.15-04.31.18:792][196]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2023.09.15-04.31.18:792][196]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.09.15-04.31.18:792][196]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.09.15-04.31.18:794][196]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.09.15-04.31.18:840][196]LogSlate: Slate User Unregistered.  User Index 8
+[2023.09.15-04.31.18:840][196]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.09.15-04.31.18:852][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.09.15-04.31.18:973][197]LogPlayLevel: Display: Destroying online subsystem :Context_68
