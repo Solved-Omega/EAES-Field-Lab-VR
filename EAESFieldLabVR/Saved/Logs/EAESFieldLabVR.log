@@ -2159,3 +2159,685 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.04-15.24.07:251][726]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 3.19 sec)
 [2023.10.04-15.24.07:257][726]AssetCheck: New page: Asset Save: EAES-PlayerController
 [2023.10.04-15.24.07:258][726]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/EAES-PlayerController.EAES-PlayerController
+[2023.10.04-15.26.36:772][705]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2023.10.04-15.26.36:777][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:777][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:777][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:777][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:777][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:777][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:777][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:777][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:777][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:777][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:777][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:777][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:777][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:777][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:778][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:778][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:778][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:778][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:778][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:778][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:778][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:778][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:778][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:778][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:778][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:778][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:778][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:778][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:778][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:778][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:778][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:778][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:778][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:778][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:778][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:778][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:778][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:778][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:778][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:778][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:778][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:778][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:778][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:779][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:779][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:779][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:779][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:779][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:779][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:779][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:779][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:779][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:779][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:779][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:779][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:779][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:779][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:779][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:780][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:780][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:780][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:780][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:780][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:780][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:780][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:780][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:780][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:780][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:780][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:780][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:780][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:780][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:780][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:780][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:780][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:780][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:780][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:780][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:780][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:780][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:780][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:780][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:780][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:781][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:781][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:781][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:781][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:781][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:781][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:781][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:781][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:781][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:781][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:781][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:781][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:781][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:781][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:781][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:781][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:781][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:781][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:781][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:781][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:781][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:781][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:781][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:781][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:781][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:781][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:783][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:783][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:784][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:784][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:784][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:784][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:785][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:785][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:792][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:794][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:794][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:795][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:795][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:795][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:796][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:796][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:799][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:799][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:804][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:806][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:809][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:810][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:810][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:810][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:810][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:810][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:810][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:810][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:810][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:810][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:816][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:817][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:817][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:818][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:818][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:819][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:820][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.36:820][705]LogVSAccessor: Warning: Couldn't access module table
+[2023.10.04-15.26.52:712][552]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/Journal/JournalWidgetV2.JournalWidgetV2
+[2023.10.04-15.26.52:712][552]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-15.26.52:712][552]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.04-15.26.52:719][552]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-15.26.52:719][552]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.04-15.27.00:971][130]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UExportTXT::WriteTXT' [The specified module could not be found.]
+[2023.10.04-15.27.05:677][554]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UExportTXT::WriteTXT' [The specified module could not be found.]
+[2023.10.04-15.27.07:804][731]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-15.27.07:946][731]LogSavePackage: Moving output files for package: /Game/Widgets/Journal/JournalWidgetV2
+[2023.10.04-15.27.07:947][731]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/JournalWidgetV2088E2380468361CF01AEA980BA473346.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/Journal/JournalWidgetV2.uasset'
+[2023.10.04-15.27.07:958][731]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 3.35 sec)
+[2023.10.04-15.27.07:966][731]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.10.04-15.27.07:966][731]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Journal/JournalWidgetV2.JournalWidgetV2
+[2023.10.04-15.27.29:313][641]BlueprintLog: New page: Compile EAES-PlayerController
+[2023.10.04-15.27.29:377][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.10.04-15.27.30:051][693]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-15.27.30:115][693]LogSavePackage: Moving output files for package: /Game/Blueprints/EAES-PlayerController
+[2023.10.04-15.27.30:115][693]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/EAES-PlayerControllerD40C68014DDD10297DED0C82C5398296.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/EAES-PlayerController.uasset'
+[2023.10.04-15.27.30:123][693]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 3.42 sec)
+[2023.10.04-15.27.30:129][693]AssetCheck: New page: Asset Save: EAES-PlayerController
+[2023.10.04-15.27.30:129][693]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/EAES-PlayerController.EAES-PlayerController
+[2023.10.04-15.28.01:466][530]BlueprintLog: New page: Compile EAES-PlayerController
+[2023.10.04-15.28.01:526][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.10.04-15.28.12:041][505]BlueprintLog: New page: Compile EAES-PlayerController
+[2023.10.04-15.28.12:102][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.10.04-15.28.42:335][885]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.04-15.28.50:956][607]BlueprintLog: New page: Compile JournalWidgetV2
+[2023.10.04-15.28.51:078][607]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.10.04-15.28.51:174][607]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-15.28.51:312][607]LogSavePackage: Moving output files for package: /Game/Widgets/Journal/JournalWidgetV2
+[2023.10.04-15.28.51:313][607]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/JournalWidgetV28DEA15794947D2886E18418B42DA61E4.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/Journal/JournalWidgetV2.uasset'
+[2023.10.04-15.28.51:321][607]LogFileHelpers: InternalPromptForCheckoutAndSave took 148 ms (total: 3.57 sec)
+[2023.10.04-15.28.51:329][607]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.10.04-15.28.51:329][607]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Journal/JournalWidgetV2.JournalWidgetV2
+[2023.10.04-15.28.51:723][625]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-15.28.51:857][625]LogSavePackage: Moving output files for package: /Game/Widgets/Journal/JournalWidgetV2
+[2023.10.04-15.28.51:858][625]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/JournalWidgetV2762B05B44D76AF1EA649269B5DF7BEF2.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/Journal/JournalWidgetV2.uasset'
+[2023.10.04-15.28.51:867][625]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 3.71 sec)
+[2023.10.04-15.28.51:875][625]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.10.04-15.28.51:875][625]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Journal/JournalWidgetV2.JournalWidgetV2
+[2023.10.04-15.29.25:068][259]BlueprintLog: New page: Compile JournalWidgetV2
+[2023.10.04-15.29.25:181][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.10.04-15.29.25:245][259]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-15.29.25:361][259]LogSavePackage: Moving output files for package: /Game/Widgets/Journal/JournalWidgetV2
+[2023.10.04-15.29.25:362][259]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/JournalWidgetV2E431F79D4B736252E32FA6B4A7D5E156.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/Journal/JournalWidgetV2.uasset'
+[2023.10.04-15.29.25:369][259]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 3.84 sec)
+[2023.10.04-15.29.25:376][259]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.10.04-15.29.25:376][259]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Journal/JournalWidgetV2.JournalWidgetV2
+[2023.10.04-15.29.25:836][283]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-15.29.25:947][283]LogSavePackage: Moving output files for package: /Game/Widgets/Journal/JournalWidgetV2
+[2023.10.04-15.29.25:948][283]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/JournalWidgetV22500CED643742C6EA8B2929D8EAF2EC3.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/Journal/JournalWidgetV2.uasset'
+[2023.10.04-15.29.25:954][283]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 3.96 sec)
+[2023.10.04-15.29.25:962][283]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.10.04-15.29.25:962][283]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Journal/JournalWidgetV2.JournalWidgetV2
+[2023.10.04-15.30.48:315][396]BlueprintLog: New page: Compile EAES-PlayerController
+[2023.10.04-15.30.48:378][396]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.10.04-15.30.48:400][396]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-15.30.48:465][396]LogSavePackage: Moving output files for package: /Game/Blueprints/EAES-PlayerController
+[2023.10.04-15.30.48:465][396]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/EAES-PlayerControllerA7F3B97943E7E1A2570795B0A732C6FA.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/EAES-PlayerController.uasset'
+[2023.10.04-15.30.48:473][396]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 4.03 sec)
+[2023.10.04-15.30.48:479][396]AssetCheck: New page: Asset Save: EAES-PlayerController
+[2023.10.04-15.30.48:479][396]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/EAES-PlayerController.EAES-PlayerController
+[2023.10.04-15.30.55:552][717]LogEditorTransaction: Undo Create Pin Link
+[2023.10.04-15.30.55:967][729]LogEditorTransaction: Undo Create Pin Link
+[2023.10.04-15.30.57:431][844]LogEditorTransaction: Undo Paste clipboard contents
+[2023.10.04-15.30.58:899][962]LogEditorTransaction: Undo Create Pin Link
+[2023.10.04-15.30.59:646][ 22]LogEditorTransaction: Undo Create Pin Link
+[2023.10.04-15.31.00:171][ 38]LogEditorTransaction: Undo Create Pin Link
+[2023.10.04-15.31.06:127][538]BlueprintLog: New page: Compile EAES-PlayerController
+[2023.10.04-15.31.06:187][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.10.04-15.31.06:212][538]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-15.31.06:266][538]LogSavePackage: Moving output files for package: /Game/Blueprints/EAES-PlayerController
+[2023.10.04-15.31.06:267][538]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/EAES-PlayerController6188918E48DC4505033F598B6BE8F9F4.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/EAES-PlayerController.uasset'
+[2023.10.04-15.31.06:275][538]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 4.10 sec)
+[2023.10.04-15.31.06:282][538]AssetCheck: New page: Asset Save: EAES-PlayerController
+[2023.10.04-15.31.06:282][538]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/EAES-PlayerController.EAES-PlayerController
+[2023.10.04-15.31.06:775][571]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-15.31.06:834][571]LogSavePackage: Moving output files for package: /Game/Blueprints/EAES-PlayerController
+[2023.10.04-15.31.06:835][571]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/EAES-PlayerControllerE86C83754835270CF1C19A8B4C564520.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/EAES-PlayerController.uasset'
+[2023.10.04-15.31.06:841][571]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 4.16 sec)
+[2023.10.04-15.31.06:848][571]AssetCheck: New page: Asset Save: EAES-PlayerController
+[2023.10.04-15.31.06:848][571]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/EAES-PlayerController.EAES-PlayerController
+[2023.10.04-15.31.39:612][314]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-15.31.39:689][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.10.04-15.31.39:705][314]LogSavePackage: Moving output files for package: /Game/Levels/MainMenuLevel
+[2023.10.04-15.31.39:706][314]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/MainMenuLevelC286996447B7D3BA49154599A1FB33FD.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Levels/MainMenuLevel.umap'
+[2023.10.04-15.31.39:718][314]LogFileHelpers: Saving map 'MainMenuLevel' took 0.055
+[2023.10.04-15.31.39:726][314]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 4.28 sec)
+[2023.10.04-15.31.39:740][314]AssetCheck: New page: Asset Save: MainMenuLevel
+[2023.10.04-15.31.39:740][314]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/MainMenuLevel.MainMenuLevel
+[2023.10.04-15.31.48:852][404]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-15.31.48:925][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.10.04-15.31.48:940][404]LogSavePackage: Moving output files for package: /Game/Levels/MainMenuLevel
+[2023.10.04-15.31.48:941][404]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/MainMenuLevel63C482FD4DA40410290801ADD17BF98D.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Levels/MainMenuLevel.umap'
+[2023.10.04-15.31.48:952][404]LogFileHelpers: Saving map 'MainMenuLevel' took 0.051
+[2023.10.04-15.31.48:960][404]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 4.39 sec)
+[2023.10.04-15.31.48:974][404]AssetCheck: New page: Asset Save: MainMenuLevel
+[2023.10.04-15.31.48:974][404]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/MainMenuLevel.MainMenuLevel
+[2023.10.04-15.32.00:877][817]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-15.32.00:955][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.10.04-15.32.00:968][817]LogSavePackage: Moving output files for package: /Game/Levels/MainMenuLevel
+[2023.10.04-15.32.00:969][817]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/MainMenuLevel0344376E4777AE347BF091B855E91DFB.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Levels/MainMenuLevel.umap'
+[2023.10.04-15.32.00:981][817]LogFileHelpers: Saving map 'MainMenuLevel' took 0.051
+[2023.10.04-15.32.00:987][817]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 4.50 sec)
+[2023.10.04-15.32.00:995][817]AssetCheck: New page: Asset Save: MainMenuLevel
+[2023.10.04-15.32.00:995][817]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/MainMenuLevel.MainMenuLevel
+[2023.10.04-15.32.09:579][660]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-15.32.09:645][660]LogSavePackage: Moving output files for package: /Game/Blueprints/EAES-PlayerController
+[2023.10.04-15.32.09:646][660]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/EAES-PlayerController717C203441BA59FD61CFAF8FFB875CB6.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/EAES-PlayerController.uasset'
+[2023.10.04-15.32.09:653][660]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 4.57 sec)
+[2023.10.04-15.32.09:660][660]AssetCheck: New page: Asset Save: EAES-PlayerController
+[2023.10.04-15.32.09:660][660]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/EAES-PlayerController.EAES-PlayerController
+[2023.10.04-16.10.58:315][863]LogDerivedDataCache: C:/Users/300339869/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.100 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4111 files in 5595 folders with total size 1499 MiB.
+[2023.10.04-16.48.39:982][358]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-16.48.40:043][358]LogSavePackage: Moving output files for package: /Game/Blueprints/EAES-PlayerController
+[2023.10.04-16.48.40:043][358]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/EAES-PlayerControllerE51D188D4DE06BE8A4848AB5AAE6B2E0.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/EAES-PlayerController.uasset'
+[2023.10.04-16.48.40:049][358]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 4.64 sec)
+[2023.10.04-16.48.40:058][358]AssetCheck: New page: Asset Save: EAES-PlayerController
+[2023.10.04-16.48.40:058][358]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/EAES-PlayerController.EAES-PlayerController
+[2023.10.04-16.48.56:202][233]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-16.48.56:255][233]LogSavePackage: Moving output files for package: /Game/Blueprints/EAES-PlayerController
+[2023.10.04-16.48.56:257][233]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/EAES-PlayerController28D8DBFD473725F49DE305BD844ECD76.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/EAES-PlayerController.uasset'
+[2023.10.04-16.48.56:262][233]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 4.70 sec)
+[2023.10.04-16.48.56:271][233]AssetCheck: New page: Asset Save: EAES-PlayerController
+[2023.10.04-16.48.56:271][233]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/EAES-PlayerController.EAES-PlayerController
+[2023.10.04-16.54.55:562][598]LogViewport: Scene viewport resized to 1141x691, mode Windowed.
+[2023.10.04-16.56.00:935][481]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-16.56.02:327][562]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-16.56.02:364][563]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-16.56.02:379][564]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-16.56.02:397][565]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-16.56.02:418][566]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-16.56.02:437][567]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-16.56.02:456][568]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-16.56.02:476][569]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-16.56.02:498][570]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-16.56.02:521][571]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-16.56.02:543][572]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-16.56.02:564][573]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-16.56.02:584][574]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-16.56.02:606][575]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-16.56.02:630][576]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-16.56.02:648][577]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-16.56.02:667][578]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-16.56.02:687][579]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-16.56.02:705][580]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-16.56.02:723][581]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-16.56.02:745][582]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-16.56.02:768][583]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-16.56.02:818][584]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-16.56.02:834][585]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-16.56.02:864][586]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-16.56.02:906][587]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-16.56.05:492][740]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PresetRocks/Preset_Rock_Parent.Preset_Rock_Parent
+[2023.10.04-16.56.05:492][740]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-16.56.05:492][740]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.04-16.56.35:800][419]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Misc/RockStruct.RockStruct
+[2023.10.04-16.56.44:231][894]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-16.56.44:281][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Misc/RockStruct" FILE="../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Misc/RockStruct.uasset" SILENT=true
+[2023.10.04-16.56.44:284][894]LogSavePackage: Moving output files for package: /Game/Misc/RockStruct
+[2023.10.04-16.56.44:284][894]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockStruct884539AC466D48C8DAD45AAD74B56E7D.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Misc/RockStruct.uasset'
+[2023.10.04-16.56.44:291][894]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 4.76 sec)
+[2023.10.04-16.56.44:299][894]AssetCheck: New page: Asset Save: RockStruct
+[2023.10.04-16.56.44:299][894]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Misc/RockStruct.RockStruct
+[2023.10.04-16.56.47:096][ 60]BlueprintLog: New page: Compile Preset_Rock_Parent
+[2023.10.04-16.56.47:284][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.10.04-16.56.47:354][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-16.56.47:444][ 60]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Preset_Rock_Parent
+[2023.10.04-16.56.47:444][ 60]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Preset_Rock_ParentC2DC19304FD4402B17D571845F575053.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Preset_Rock_Parent.uasset'
+[2023.10.04-16.56.47:451][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 4.85 sec)
+[2023.10.04-16.56.47:459][ 60]AssetCheck: New page: Asset Save: Preset_Rock_Parent
+[2023.10.04-16.56.47:459][ 60]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Preset_Rock_Parent.Preset_Rock_Parent
+[2023.10.04-16.56.48:365][108]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-16.56.48:434][108]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Preset_Rock_Parent
+[2023.10.04-16.56.48:435][108]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Preset_Rock_ParentBFE2BBD74BF5B69076D78E8828DD54DA.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Preset_Rock_Parent.uasset'
+[2023.10.04-16.56.48:444][108]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 4.93 sec)
+[2023.10.04-16.56.48:452][108]AssetCheck: New page: Asset Save: Preset_Rock_Parent
+[2023.10.04-16.56.48:452][108]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Preset_Rock_Parent.Preset_Rock_Parent
+[2023.10.04-16.57.07:978][272]BlueprintLog: New page: Compile Preset_Rock_Parent
+[2023.10.04-16.57.08:170][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.10.04-16.57.08:243][272]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-16.57.08:327][272]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Preset_Rock_Parent
+[2023.10.04-16.57.08:328][272]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Preset_Rock_ParentBA44353945E0872899CB078968AF4DE6.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Preset_Rock_Parent.uasset'
+[2023.10.04-16.57.08:338][272]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 5.02 sec)
+[2023.10.04-16.57.08:347][272]AssetCheck: New page: Asset Save: Preset_Rock_Parent
+[2023.10.04-16.57.08:347][272]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Preset_Rock_Parent.Preset_Rock_Parent
+[2023.10.04-16.57.19:145][890]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-16.57.19:221][890]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Preset_Rock_Parent
+[2023.10.04-16.57.19:222][890]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Preset_Rock_Parent7AC354FE4A8D6B0A9AB31CA9B0B73D65.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Preset_Rock_Parent.uasset'
+[2023.10.04-16.57.19:233][890]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 5.11 sec)
+[2023.10.04-16.57.19:240][890]AssetCheck: New page: Asset Save: Preset_Rock_Parent
+[2023.10.04-16.57.19:240][890]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Preset_Rock_Parent.Preset_Rock_Parent
+[2023.10.04-16.57.36:551][905]BlueprintLog: New page: Compile Preset_Rock_Parent
+[2023.10.04-16.57.36:749][905]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.10.04-16.57.36:826][905]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-16.57.36:914][905]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Preset_Rock_Parent
+[2023.10.04-16.57.36:915][905]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Preset_Rock_ParentC76B874B4CF23B6D827B55ADC6336526.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Preset_Rock_Parent.uasset'
+[2023.10.04-16.57.36:927][905]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Rock10
+[2023.10.04-16.57.36:927][905]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Rock10B8C7B03948D119120FC2AEB5B5C26179.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Rock10.uasset'
+[2023.10.04-16.57.36:970][905]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Rock11
+[2023.10.04-16.57.36:971][905]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Rock117291845E43E055656794CFB15A9D9098.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Rock11.uasset'
+[2023.10.04-16.57.37:022][905]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Rock12
+[2023.10.04-16.57.37:022][905]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Rock127FE3743B4E8AC82881283DA2BB752A8A.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Rock12.uasset'
+[2023.10.04-16.57.37:035][905]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Rock13
+[2023.10.04-16.57.37:036][905]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Rock13AAD41C3E4AE15750FA1CA4AC8332FCCE.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Rock13.uasset'
+[2023.10.04-16.57.37:050][905]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Rock14
+[2023.10.04-16.57.37:050][905]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Rock1464AA29E34CC243CB4B4064B3D8719A4F.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Rock14.uasset'
+[2023.10.04-16.57.37:063][905]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Rock15
+[2023.10.04-16.57.37:064][905]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Rock15AA5EB55844BAE4CADAF2EE905E77D840.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Rock15.uasset'
+[2023.10.04-16.57.37:079][905]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Rock16
+[2023.10.04-16.57.37:080][905]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Rock168EE583CB4C202A31850A528C3CEF189E.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Rock16.uasset'
+[2023.10.04-16.57.37:094][905]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Rock17
+[2023.10.04-16.57.37:095][905]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Rock17135E84584B1C94F7E27710962799F49D.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Rock17.uasset'
+[2023.10.04-16.57.37:105][905]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Rock18
+[2023.10.04-16.57.37:106][905]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Rock183A845A9842C3CE9C7726B4A292FC34E8.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Rock18.uasset'
+[2023.10.04-16.57.37:118][905]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Rock19
+[2023.10.04-16.57.37:119][905]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Rock19C2336F984AA9FB0AAC63EC8626A452DE.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Rock19.uasset'
+[2023.10.04-16.57.37:131][905]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Rock1
+[2023.10.04-16.57.37:132][905]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Rock136DB6DC6434BC856017830A0E7BD2289.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Rock1.uasset'
+[2023.10.04-16.57.37:143][905]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Rock20
+[2023.10.04-16.57.37:144][905]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Rock20BB5C8E6842EEA6D63C3C4491F7C59B17.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Rock20.uasset'
+[2023.10.04-16.57.37:155][905]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Rock21
+[2023.10.04-16.57.37:155][905]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Rock21B5440A9247CAE9718A6A6F9ADD364005.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Rock21.uasset'
+[2023.10.04-16.57.37:167][905]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Rock22
+[2023.10.04-16.57.37:168][905]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Rock224708FA74489D0802E182709459242F2A.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Rock22.uasset'
+[2023.10.04-16.57.37:179][905]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Rock23
+[2023.10.04-16.57.37:180][905]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Rock239410983A4F88A0B51FC781BD736E84E9.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Rock23.uasset'
+[2023.10.04-16.57.37:192][905]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Rock24
+[2023.10.04-16.57.37:192][905]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Rock249B86573E4691FE92933556B396DC15F6.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Rock24.uasset'
+[2023.10.04-16.57.37:204][905]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Rock25
+[2023.10.04-16.57.37:204][905]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Rock25FE87DE484787FB96C536AF98F4A12AAE.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Rock25.uasset'
+[2023.10.04-16.57.37:216][905]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Rock2
+[2023.10.04-16.57.37:217][905]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Rock2032BEAEB460454BF7E7DF9A414BE38D3.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Rock2.uasset'
+[2023.10.04-16.57.37:231][905]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Rock3
+[2023.10.04-16.57.37:231][905]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Rock3212DE82A4BC7F07402BC0493D3005EAD.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Rock3.uasset'
+[2023.10.04-16.57.37:245][905]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Rock4
+[2023.10.04-16.57.37:245][905]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Rock4C014853C48550770B338C5ACEE56A108.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Rock4.uasset'
+[2023.10.04-16.57.37:259][905]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Rock5
+[2023.10.04-16.57.37:259][905]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Rock5FA78AC0742C4EF1DE70315A2580089EA.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Rock5.uasset'
+[2023.10.04-16.57.37:272][905]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Rock6
+[2023.10.04-16.57.37:272][905]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Rock6F4F5AAAB4F79EDE452517BB6F1C457E2.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Rock6.uasset'
+[2023.10.04-16.57.37:286][905]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Rock7
+[2023.10.04-16.57.37:286][905]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Rock73A7FC7F14A553F5610D467ACD5F4453B.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Rock7.uasset'
+[2023.10.04-16.57.37:299][905]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Rock8
+[2023.10.04-16.57.37:299][905]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Rock82FE9DD3E4EE88257F5777BAD10F82C23.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Rock8.uasset'
+[2023.10.04-16.57.37:311][905]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Rock9
+[2023.10.04-16.57.37:312][905]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Rock950E005504C7A53594569AAB8F32F32FF.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Rock9.uasset'
+[2023.10.04-16.57.37:318][905]LogFileHelpers: InternalPromptForCheckoutAndSave took 493 ms (total: 5.61 sec)
+[2023.10.04-16.57.37:335][905]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.04-16.57.37:335][905]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Preset_Rock_Parent.Preset_Rock_Parent
+[2023.10.04-16.57.37:335][905]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Rock1.Rock1
+[2023.10.04-16.57.37:335][905]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Rock10.Rock10
+[2023.10.04-16.57.37:335][905]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Rock11.Rock11
+[2023.10.04-16.57.37:335][905]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Rock12.Rock12
+[2023.10.04-16.57.37:335][905]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Rock13.Rock13
+[2023.10.04-16.57.37:335][905]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Rock14.Rock14
+[2023.10.04-16.57.37:335][905]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Rock15.Rock15
+[2023.10.04-16.57.37:335][905]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Rock16.Rock16
+[2023.10.04-16.57.37:335][905]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Rock17.Rock17
+[2023.10.04-16.57.37:335][905]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Rock18.Rock18
+[2023.10.04-16.57.37:335][905]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Rock19.Rock19
+[2023.10.04-16.57.37:335][905]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Rock2.Rock2
+[2023.10.04-16.57.37:335][905]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Rock20.Rock20
+[2023.10.04-16.57.37:335][905]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Rock21.Rock21
+[2023.10.04-16.57.37:335][905]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Rock22.Rock22
+[2023.10.04-16.57.37:335][905]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Rock23.Rock23
+[2023.10.04-16.57.37:335][905]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Rock24.Rock24
+[2023.10.04-16.57.37:335][905]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Rock25.Rock25
+[2023.10.04-16.57.37:335][905]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Rock3.Rock3
+[2023.10.04-16.57.37:335][905]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Rock4.Rock4
+[2023.10.04-16.57.37:335][905]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Rock5.Rock5
+[2023.10.04-16.57.37:335][905]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Rock6.Rock6
+[2023.10.04-16.57.37:335][905]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Rock7.Rock7
+[2023.10.04-16.57.37:335][905]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Rock8.Rock8
+[2023.10.04-16.57.37:335][905]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Rock9.Rock9
+[2023.10.04-16.58.27:866][904]BlueprintLog: New page: Compile Preset_Rock_Parent
+[2023.10.04-16.58.28:059][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.10.04-16.58.28:130][904]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-16.58.28:208][904]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Preset_Rock_Parent
+[2023.10.04-16.58.28:209][904]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Preset_Rock_ParentCD233F2B419FDD92D96C6E88FE5B8C26.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Preset_Rock_Parent.uasset'
+[2023.10.04-16.58.28:217][904]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 5.69 sec)
+[2023.10.04-16.58.28:224][904]AssetCheck: New page: Asset Save: Preset_Rock_Parent
+[2023.10.04-16.58.28:224][904]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Preset_Rock_Parent.Preset_Rock_Parent
+[2023.10.04-16.58.28:477][913]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-16.58.28:554][913]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Preset_Rock_Parent
+[2023.10.04-16.58.28:554][913]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Preset_Rock_ParentCAABD69E48313F9CD552098445503D4B.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Preset_Rock_Parent.uasset'
+[2023.10.04-16.58.28:563][913]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 5.78 sec)
+[2023.10.04-16.58.28:570][913]AssetCheck: New page: Asset Save: Preset_Rock_Parent
+[2023.10.04-16.58.28:570][913]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Preset_Rock_Parent.Preset_Rock_Parent
+[2023.10.04-16.58.47:277][ 31]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/CustomizeRock/CustomizeRockWidget.CustomizeRockWidget
+[2023.10.04-16.58.47:277][ 31]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-16.58.47:277][ 31]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.04-16.58.47:284][ 31]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-16.58.47:284][ 31]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.04-16.58.48:778][111]BlueprintLog: New page: Compile CustomizeRockWidget
+[2023.10.04-16.58.48:790][111]LogBlueprint: Error: [AssetLog] C:\Users\300339869\Documents\GitHub\EAES-Field-Lab-VR\EAESFieldLabVR\Content\Widgets\CustomizeRock\CustomizeRockWidget.uasset: [Compiler] In use pin  Rock Data Acid Test Done  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2023.10.04-16.58.48:790][111]LogBlueprint: Error: [AssetLog] C:\Users\300339869\Documents\GitHub\EAES-Field-Lab-VR\EAESFieldLabVR\Content\Widgets\CustomizeRock\CustomizeRockWidget.uasset: [Compiler] In use pin  Rock Data Magnetic Test Done  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2023.10.04-16.58.48:790][111]LogBlueprint: Error: [AssetLog] C:\Users\300339869\Documents\GitHub\EAES-Field-Lab-VR\EAESFieldLabVR\Content\Widgets\CustomizeRock\CustomizeRockWidget.uasset: [Compiler] In use pin  Rock Data Acid Test Done  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.10.04-16.58.48:790][111]LogBlueprint: Error: [AssetLog] C:\Users\300339869\Documents\GitHub\EAES-Field-Lab-VR\EAESFieldLabVR\Content\Widgets\CustomizeRock\CustomizeRockWidget.uasset: [Compiler] In use pin  Rock Data Magnetic Test Done  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.10.04-16.58.48:861][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.10.04-16.58.49:501][142]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-16.58.49:592][142]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRock/CustomizeRockWidget
+[2023.10.04-16.58.49:593][142]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockWidgetAC53FC4540E918F556EA52B655EC5FF8.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRock/CustomizeRockWidget.uasset'
+[2023.10.04-16.58.49:602][142]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 5.88 sec)
+[2023.10.04-16.58.49:609][142]AssetCheck: New page: Asset Save: CustomizeRockWidget
+[2023.10.04-16.58.49:609][142]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRock/CustomizeRockWidget.CustomizeRockWidget
+[2023.10.04-16.59.03:420][934]BlueprintLog: New page: Compile CustomizeRockWidget
+[2023.10.04-16.59.03:505][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.10.04-16.59.03:558][934]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-16.59.03:647][934]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRock/CustomizeRockWidget
+[2023.10.04-16.59.03:648][934]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockWidget904C1CFE46264BE21EA21FAA3B514175.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRock/CustomizeRockWidget.uasset'
+[2023.10.04-16.59.03:655][934]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 5.98 sec)
+[2023.10.04-16.59.03:663][934]AssetCheck: New page: Asset Save: CustomizeRockWidget
+[2023.10.04-16.59.03:663][934]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRock/CustomizeRockWidget.CustomizeRockWidget
+[2023.10.04-16.59.19:850][892]BlueprintLog: New page: Compile RockWidget
+[2023.10.04-16.59.19:860][892]LogBlueprint: Error: [AssetLog] C:\Users\300339869\Documents\GitHub\EAES-Field-Lab-VR\EAESFieldLabVR\Content\Widgets\RockTest\RockWidget.uasset: [Compiler] In use pin  Rock Data Acid Test Done  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.10.04-16.59.19:860][892]LogBlueprint: Error: [AssetLog] C:\Users\300339869\Documents\GitHub\EAES-Field-Lab-VR\EAESFieldLabVR\Content\Widgets\RockTest\RockWidget.uasset: [Compiler] In use pin  Rock Data Acid Test Done  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2023.10.04-16.59.19:860][892]LogBlueprint: Warning: [AssetLog] C:\Users\300339869\Documents\GitHub\EAES-Field-Lab-VR\EAESFieldLabVR\Content\Widgets\RockTest\RockWidget.uasset: [Compiler] Input pin  Rock Data Magnetic Test Done  specifying non-default value no longer exists on node  Set . Please refresh node or reset pin to default value to remove pin.
+[2023.10.04-16.59.19:862][892]LogBlueprint: Error: [AssetLog] C:\Users\300339869\Documents\GitHub\EAES-Field-Lab-VR\EAESFieldLabVR\Content\Widgets\RockTest\RockWidget.uasset: [Compiler] In use pin  Rock Data Magnetic Test Done  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.10.04-16.59.19:862][892]LogBlueprint: Warning: [AssetLog] C:\Users\300339869\Documents\GitHub\EAES-Field-Lab-VR\EAESFieldLabVR\Content\Widgets\RockTest\RockWidget.uasset: [Compiler] Input pin  Rock Data Acid Test Done  specifying non-default value no longer exists on node  Set . Please refresh node or reset pin to default value to remove pin.
+[2023.10.04-16.59.19:862][892]LogBlueprint: Error: [AssetLog] C:\Users\300339869\Documents\GitHub\EAES-Field-Lab-VR\EAESFieldLabVR\Content\Widgets\RockTest\RockWidget.uasset: [Compiler] In use pin  Rock Data Magnetic Test Done  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2023.10.04-16.59.19:944][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.10.04-16.59.30:563][505]BlueprintLog: New page: Compile RockWidget
+[2023.10.04-16.59.30:575][505]LogBlueprint: Error: [AssetLog] C:\Users\300339869\Documents\GitHub\EAES-Field-Lab-VR\EAESFieldLabVR\Content\Widgets\RockTest\RockWidget.uasset: [Compiler] In use pin  Rock Data Magnetic Test Done  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.10.04-16.59.30:575][505]LogBlueprint: Warning: [AssetLog] C:\Users\300339869\Documents\GitHub\EAES-Field-Lab-VR\EAESFieldLabVR\Content\Widgets\RockTest\RockWidget.uasset: [Compiler] Input pin  Rock Data Acid Test Done  specifying non-default value no longer exists on node  Set . Please refresh node or reset pin to default value to remove pin.
+[2023.10.04-16.59.30:575][505]LogBlueprint: Error: [AssetLog] C:\Users\300339869\Documents\GitHub\EAES-Field-Lab-VR\EAESFieldLabVR\Content\Widgets\RockTest\RockWidget.uasset: [Compiler] In use pin  Rock Data Magnetic Test Done  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2023.10.04-16.59.30:644][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.10.04-16.59.31:672][556]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-16.59.31:756][556]LogSavePackage: Moving output files for package: /Game/Widgets/RockTest/RockWidget
+[2023.10.04-16.59.31:756][556]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockWidget7D7C9B8A40F5EC36D6E11DAFC2580B31.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockWidget.uasset'
+[2023.10.04-16.59.31:764][556]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 6.07 sec)
+[2023.10.04-16.59.31:771][556]AssetCheck: New page: Asset Save: RockWidget
+[2023.10.04-16.59.31:771][556]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/RockTest/RockWidget.RockWidget
+[2023.10.04-16.59.44:149][281]BlueprintLog: New page: Compile RockWidget
+[2023.10.04-16.59.44:232][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.10.04-16.59.44:258][281]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-16.59.44:348][281]LogSavePackage: Moving output files for package: /Game/Widgets/RockTest/RockWidget
+[2023.10.04-16.59.44:348][281]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockWidgetA9F3694244650F091E4FC1A634176C58.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockWidget.uasset'
+[2023.10.04-16.59.44:355][281]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 6.17 sec)
+[2023.10.04-16.59.44:380][281]AssetCheck: New page: Asset Save: RockWidget
+[2023.10.04-16.59.44:381][281]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/RockTest/RockWidget.RockWidget
+[2023.10.04-16.59.55:377][930]BlueprintLog: New page: Compile RockWidget
+[2023.10.04-16.59.55:459][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.10.04-16.59.57:146][ 21]BlueprintLog: New page: Compile CustomRockModel
+[2023.10.04-16.59.57:323][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.10.04-17.00.00:048][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.10.04-17.00.01:128][165]LogSlate: Window 'Save Content' being destroyed
+[2023.10.04-17.00.01:135][165]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-17.00.01:220][165]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRock/CustomizeRockTestTemplate
+[2023.10.04-17.00.01:220][165]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockTestTemplateE023A068494CBB1DBD5CDABBF663050E.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRock/CustomizeRockTestTemplate.uasset'
+[2023.10.04-17.00.01:230][165]LogSavePackage: Moving output files for package: /Game/Blueprints/EAES-PlayerController
+[2023.10.04-17.00.01:231][165]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/EAES-PlayerController5C2CAD874203D5593209DC93AC971AA0.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/EAES-PlayerController.uasset'
+[2023.10.04-17.00.01:248][165]LogSavePackage: Moving output files for package: /Game/Widgets/Journal/JournalEntryTemplate
+[2023.10.04-17.00.01:249][165]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/JournalEntryTemplate624575284F851AECB5E23489424836FB.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/Journal/JournalEntryTemplate.uasset'
+[2023.10.04-17.00.01:268][165]LogSavePackage: Moving output files for package: /Game/Widgets/Journal/JournalInfoTemplate
+[2023.10.04-17.00.01:268][165]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/JournalInfoTemplateFE250D464F4583D2FAB23FAA17DE988E.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/Journal/JournalInfoTemplate.uasset'
+[2023.10.04-17.00.01:330][165]LogSavePackage: Moving output files for package: /Game/Widgets/Journal/JournalWidgetV2
+[2023.10.04-17.00.01:331][165]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/JournalWidgetV218093AEB47330374708139B147202CEF.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/Journal/JournalWidgetV2.uasset'
+[2023.10.04-17.00.01:460][165]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/PauseMenuWidget
+[2023.10.04-17.00.01:461][165]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/PauseMenuWidgetD701E02A46771198F1D6F4BA3D25AF50.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/PauseMenu/PauseMenuWidget.uasset'
+[2023.10.04-17.00.01:510][165]LogSavePackage: Moving output files for package: /Game/Widgets/ActorSpawner/RockInventoryWidget
+[2023.10.04-17.00.01:511][165]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockInventoryWidget0FEDBF7941CF79E3F10DC1BE347C7374.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/ActorSpawner/RockInventoryWidget.uasset'
+[2023.10.04-17.00.01:543][165]LogSavePackage: Moving output files for package: /Game/Widgets/RockTest/RockWidgetTestTemplate
+[2023.10.04-17.00.01:544][165]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockWidgetTestTemplate3089DE154923A8677BDF298C7A45E7C0.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockWidgetTestTemplate.uasset'
+[2023.10.04-17.00.01:545][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Misc/SaveMapData" FILE="../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Misc/SaveMapData.uasset" SILENT=true
+[2023.10.04-17.00.01:548][165]LogSavePackage: Moving output files for package: /Game/Misc/SaveMapData
+[2023.10.04-17.00.01:548][165]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveMapData24FA32C0444D9E40E39BD399914B3E16.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Misc/SaveMapData.uasset'
+[2023.10.04-17.00.01:559][165]LogFileHelpers: InternalPromptForCheckoutAndSave took 423 ms (total: 6.59 sec)
+[2023.10.04-17.00.01:566][165]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.04-17.00.01:566][165]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/ActorSpawner/RockInventoryWidget.RockInventoryWidget
+[2023.10.04-17.00.01:567][165]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/RockTest/RockWidgetTestTemplate.RockWidgetTestTemplate
+[2023.10.04-17.00.01:567][165]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Misc/SaveMapData.SaveMapData
+[2023.10.04-17.00.01:567][165]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRock/CustomizeRockTestTemplate.CustomizeRockTestTemplate
+[2023.10.04-17.00.01:567][165]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/EAES-PlayerController.EAES-PlayerController
+[2023.10.04-17.00.01:568][165]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Journal/JournalWidgetV2.JournalWidgetV2
+[2023.10.04-17.00.01:568][165]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Journal/JournalEntryTemplate.JournalEntryTemplate
+[2023.10.04-17.00.01:568][165]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/PauseMenuWidget.PauseMenuWidget
+[2023.10.04-17.00.01:570][165]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Journal/JournalInfoTemplate.JournalInfoTemplate
+[2023.10.04-17.00.02:330][211]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.10.04-17.00.02:345][211]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.10.04-17.00.02:352][211]LogPlayLevel: [PlayLevel] Compiling SaveMapData before play...
+[2023.10.04-17.00.02:377][211]LogPlayLevel: [PlayLevel] Compiling RockInventoryWidget before play...
+[2023.10.04-17.00.02:446][211]LogPlayLevel: [PlayLevel] Compiling RockWidgetTestTemplate before play...
+[2023.10.04-17.00.02:492][211]LogPlayLevel: [PlayLevel] Compiling CustomizeRockTestTemplate before play...
+[2023.10.04-17.00.02:545][211]LogPlayLevel: [PlayLevel] Compiling JournalWidgetV2 before play...
+[2023.10.04-17.00.02:563][211]LogBlueprint: Error: [AssetLog] C:\Users\300339869\Documents\GitHub\EAES-Field-Lab-VR\EAESFieldLabVR\Content\Widgets\Journal\JournalWidgetV2.uasset: [Compiler] In use pin  Rock Data Magnetic Test Done  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.10.04-17.00.02:567][211]LogBlueprint: Error: [AssetLog] C:\Users\300339869\Documents\GitHub\EAES-Field-Lab-VR\EAESFieldLabVR\Content\Widgets\Journal\JournalWidgetV2.uasset: [Compiler] In use pin  Rock Data Acid Test Done  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.10.04-17.00.02:635][211]LogPlayLevel: [PlayLevel] Compiling JournalEntryTemplate before play...
+[2023.10.04-17.00.02:679][211]LogPlayLevel: [PlayLevel] Compiling PauseMenuWidget before play...
+[2023.10.04-17.00.02:800][211]LogPlayLevel: [PlayLevel] Compiling JournalInfoTemplate before play...
+[2023.10.04-17.00.02:877][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.10.04-17.00.02:879][211]LogPlayLevel: PlayLevel: Blueprint regeneration took 533 ms (8 blueprints)
+[2023.10.04-17.00.02:879][211]BlueprintLog: Warning: Blueprint failed to compile:  JournalWidgetV2
+[2023.10.04-17.00.04:982][211]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.10.04-17.00.06:235][271]LogSlate: Window 'Message Log' being destroyed
+[2023.10.04-17.00.06:238][271]LogSlate: Window 'Message Log' being destroyed
+[2023.10.04-17.00.08:877][428]BlueprintLog: New page: Compile JournalWidgetV2
+[2023.10.04-17.00.08:900][428]LogBlueprint: Error: [AssetLog] C:\Users\300339869\Documents\GitHub\EAES-Field-Lab-VR\EAESFieldLabVR\Content\Widgets\Journal\JournalWidgetV2.uasset: [Compiler] In use pin  Rock Data Magnetic Test Done  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.10.04-17.00.08:903][428]LogBlueprint: Error: [AssetLog] C:\Users\300339869\Documents\GitHub\EAES-Field-Lab-VR\EAESFieldLabVR\Content\Widgets\Journal\JournalWidgetV2.uasset: [Compiler] In use pin  Rock Data Acid Test Done  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.10.04-17.00.08:967][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.10.04-17.00.18:541][980]BlueprintLog: New page: Compile JournalWidgetV2
+[2023.10.04-17.00.18:568][980]LogBlueprint: Error: [AssetLog] C:\Users\300339869\Documents\GitHub\EAES-Field-Lab-VR\EAESFieldLabVR\Content\Widgets\Journal\JournalWidgetV2.uasset: [Compiler] In use pin  Rock Data Acid Test Done  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2023.10.04-17.00.18:633][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.10.04-17.00.23:487][248]BlueprintLog: New page: Compile JournalWidgetV2
+[2023.10.04-17.00.23:584][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.10.04-17.00.23:633][248]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-17.00.23:759][248]LogSavePackage: Moving output files for package: /Game/Widgets/Journal/JournalWidgetV2
+[2023.10.04-17.00.23:760][248]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/JournalWidgetV2F121E2004D0B1449813A4C91A66E4222.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/Journal/JournalWidgetV2.uasset'
+[2023.10.04-17.00.23:767][248]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 6.72 sec)
+[2023.10.04-17.00.23:792][248]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.10.04-17.00.23:792][248]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Journal/JournalWidgetV2.JournalWidgetV2
+[2023.10.04-17.00.57:758][229]LogEditorTransaction: Undo Remove Graph
+[2023.10.04-17.01.09:637][895]BlueprintLog: New page: Compile JournalWidgetV2
+[2023.10.04-17.01.09:738][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.10.04-17.01.09:809][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.04-17.01.09:916][895]LogSavePackage: Moving output files for package: /Game/Widgets/Journal/JournalWidgetV2
+[2023.10.04-17.01.09:916][895]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/JournalWidgetV20093DD194DF88268945A4B97C8522755.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/Journal/JournalWidgetV2.uasset'
+[2023.10.04-17.01.09:924][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 6.84 sec)
+[2023.10.04-17.01.09:931][895]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.10.04-17.01.09:931][895]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Journal/JournalWidgetV2.JournalWidgetV2
+[2023.10.04-17.01.12:344][ 29]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.10.04-17.01.12:359][ 29]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.04-17.01.12:359][ 29]PIE: New page: PIE session: MainMenuLevel (Oct. 4, 2023, 3:01:12 a.m.)
+[2023.10.04-17.01.12:359][ 29]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.10.04-17.01.12:361][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002242s)
+[2023.10.04-17.01.12:361][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002271s)
+[2023.10.04-17.01.12:361][ 29]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-17.01.12:361][ 29]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.04-17.01.12:362][ 29]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.10.04-17.01.12:362][ 29]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2023.10.04-17.01.12:388][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.10.04-17.01.12:390][ 29]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.10.04-17.01.12:390][ 29]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.04-17.01.12:390][ 29]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.04-17.01.12:390][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.04-17.01.12:390][ 29]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.04-17.01.12:390][ 29]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.04-17.01.12:390][ 29]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.04-17.01.12:390][ 29]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.04-17.01.12:390][ 29]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.04-17.01.12:391][ 29]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.10.04-17.01.12:391][ 29]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.10.04-17.01.12:391][ 29]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.04-17.01.12:392][ 29]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.04-17.01.12:405][ 29]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.10.04-17.01.12:405][ 29]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.04-17.01.12:405][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.04-17.01.12:405][ 29]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.04-17.01.12:406][ 29]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.10.04-17.01.12:406][ 29]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.10.04-17.01.12:407][ 29]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.10.04-17.01.12:407][ 29]LogInit: FAudioDevice initialized with ID 5.
+[2023.10.04-17.01.12:407][ 29]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.10.04-17.01.12:407][ 29]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainMenuLevel'.
+[2023.10.04-17.01.12:407][ 29]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2023.10.04-17.01.12:433][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.04-17.01.12:644][ 29]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.04-17.01.12:644][ 29]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2023.10.04-10.01.12
+[2023.10.04-17.01.12:645][ 29]LogWorld: Bringing up level for play took: 0.000459
+[2023.10.04-17.01.12:647][ 29]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2023.10.04-17.01.12:650][ 29]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.04-17.01.12:653][ 29]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.04-17.01.12:662][ 29]vr.PixelDensity = "1"
+[2023.10.04-17.01.12:678][ 29]PIE: Server logged in
+[2023.10.04-17.01.12:685][ 29]PIE: Play in editor total start time 0.326 seconds.
+[2023.10.04-17.01.12:700][ 29]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.10.04-17.01.12:705][ 29]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.10.04-17.01.12:717][ 29]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.10.04-17.01.23:208][ 69]LogNet: Browse: /Game/Levels/MainLevel
+[2023.10.04-17.01.23:208][ 69]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2023.10.04-17.01.23:208][ 69]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.10.04-17.01.23:210][ 69]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.04-17.01.23:210][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-17.01.23:267][ 69]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.04-17.01.23:271][ 69]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.04-17.01.23:271][ 69]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.04-17.01.23:273][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.10.04-17.01.23:401][ 69]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainLevel'.
+[2023.10.04-17.01.23:401][ 69]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.04-17.01.23:401][ 69]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.04-17.01.23:401][ 69]LogAIModule: Creating AISystem for world MainLevel
+[2023.10.04-17.01.23:402][ 69]LogPlayLevel: PIE: World Init took: (0.001008s)
+[2023.10.04-17.01.23:402][ 69]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.04-17.01.23:419][ 69]LogTexture: Display: Waiting for textures to be ready 0/17 (/Game/Levels/UEDPIE_0_MainLevel) ...
+[2023.10.04-17.01.23:460][ 69]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.10.04-10.01.23
+[2023.10.04-17.01.23:460][ 69]LogWorld: Bringing up level for play took: 0.036262
+[2023.10.04-17.01.23:463][ 69]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.04-17.01.23:466][ 69]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.04-17.01.23:474][ 69]LogLinker: Warning: Failed to load '/Engine/Transient': Can't find file.
+[2023.10.04-17.01.23:487][ 69]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Documents/CustomRockModels/rock/rock_T.png' error.
+[2023.10.04-17.01.23:487][ 69]LogStreaming: Warning: Failed to read file 'C:/Users/macap/Documents/CustomRockModels/rock/rock_N.png' error.
+[2023.10.04-17.01.23:487][ 69]LogTemp: Warning: Runtime Mesh Loader: Read mesh file failure.
+
+[2023.10.04-17.01.23:504][ 69]vr.PixelDensity = "1"
+[2023.10.04-17.01.23:512][ 69]LogLoad: Took 0.303334 seconds to LoadMap(/Game/Levels/MainLevel)
+[2023.10.04-17.01.23:523][ 69]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambient'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.04-17.01.23:528][ 70]LogHttp: Warning: 0000056A68E55500: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.10.04-17.01.23:528][ 70]LogHttp: Warning: 0000056A68E55500: libcurl info message cache 0 (Couldn't open file C:/Users/macap/Documents/CustomRockModels/rock/rock_Image.png)
+[2023.10.04-17.01.23:528][ 70]LogHttp: Warning: 0000056A68E55500: libcurl info message cache 1 (Closing connection -1)
+[2023.10.04-17.01.23:528][ 70]LogHttp: Warning: 0000056A68E53200: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.10.04-17.01.23:528][ 70]LogHttp: Warning: 0000056A68E53200: libcurl info message cache 0 (Couldn't open file /)
+[2023.10.04-17.01.23:528][ 70]LogHttp: Warning: 0000056A68E53200: libcurl info message cache 1 (Closing connection -1)
+[2023.10.04-17.01.23:575][ 70]LogShaderCompilers: Display: ================================================
+[2023.10.04-17.01.23:576][ 70]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.04-17.01.23:576][ 70]LogShaderCompilers: Display: Total job queries 247, among them cache hits 132 (53.44%)
+[2023.10.04-17.01.23:576][ 70]LogShaderCompilers: Display: Tracking 115 distinct input hashes that result in 92 distinct outputs (80.00%)
+[2023.10.04-17.01.23:576][ 70]LogShaderCompilers: Display: RAM used: 3.96 MiB of 1.60 GiB budget. Usage: 0.24%
+[2023.10.04-17.01.23:576][ 70]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.04-17.01.23:576][ 70]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.04-17.01.23:576][ 70]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.10.04-17.01.23:576][ 70]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.04-17.01.23:576][ 70]LogShaderCompilers: Display: ================================================
+[2023.10.04-17.01.23:594][ 71]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2023.10.04-17.01.26:046][135]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.04-17.01.29:350][227]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.04-17.01.32:129][306]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.04-17.01.32:813][325]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.04-17.01.33:631][348]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.04-17.01.46:370][718]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.04-17.01.46:370][718]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.10.04-17.01.46:416][718]LogSlate: Window 'EAESFieldLabVR Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.10.04-17.01.46:420][718]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.04-17.01.46:421][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-17.01.46:424][718]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.04-17.01.46:433][718]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-17.01.46:474][718]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.04-17.01.46:474][718]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2023.10.04-17.01.46:474][718]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.10.04-17.01.46:474][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.10.04-17.01.46:476][718]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.10.04-17.01.46:489][718]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.04-17.01.46:489][718]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.04-17.01.46:492][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.10.04-17.01.46:538][719]LogPlayLevel: Display: Destroying online subsystem :Context_44
