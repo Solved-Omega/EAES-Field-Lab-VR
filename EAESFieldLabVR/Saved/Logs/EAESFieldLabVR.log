@@ -5127,3 +5127,554 @@ Make sure 'PauseMenuWidget_C' has been compiled for  Save Rock Objects
 [2023.10.11-18.23.19:121][574]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
 [2023.10.11-18.23.19:125][574]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
 [2023.10.11-18.23.19:158][575]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2023.10.11-18.27.54:864][544]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2023.10.11-18.27.54:866][544]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/MainMenuLevel.MainMenuLevel
+[2023.10.11-18.27.54:866][544]Cmd: MAP LOAD FILE="../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Levels/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.11-18.27.54:866][544]LightingResults: New page: Lighting Build
+[2023.10.11-18.27.54:866][544]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2023.10.11-18.27.54:867][544]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-18.27.54:868][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-18.27.54:868][544]MapCheck: New page: Map Check
+[2023.10.11-18.27.54:868][544]LightingResults: New page: Lighting Build
+[2023.10.11-18.27.54:893][544]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.11-18.27.54:894][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.10.11-18.27.54:915][544]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuLevel'.
+[2023.10.11-18.27.54:915][544]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-18.27.54:915][544]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.11-18.27.54:915][544]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.10.11-18.27.54:952][544]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.11-18.27.54:981][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.10.11-18.27.54:992][544]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.11-18.27.54:993][544]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.23ms to complete.
+[2023.10.11-18.27.54:993][544]LogFileHelpers: Loading map 'MainMenuLevel' took 0.127
+[2023.10.11-18.27.56:910][653]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/MainMenuLevel.MainMenuLevel:PersistentLevel.MainMenuLevel
+[2023.10.11-18.27.56:910][653]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-18.27.56:910][653]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.11-18.28.00:925][867]BlueprintLog: New page: Compile MainMenuLevel
+[2023.10.11-18.28.00:987][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.10.11-18.28.00:999][867]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-18.28.01:077][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.10.11-18.28.01:089][867]LogSavePackage: Moving output files for package: /Game/Levels/MainMenuLevel
+[2023.10.11-18.28.01:089][867]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/MainMenuLevelE1B8766C4F0B00F68A322C95DFEC1818.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Levels/MainMenuLevel.umap'
+[2023.10.11-18.28.01:102][867]LogFileHelpers: Saving map 'MainMenuLevel' took 0.050
+[2023.10.11-18.28.01:108][867]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 5.46 sec)
+[2023.10.11-18.28.01:119][867]AssetCheck: New page: Asset Save: MainMenuLevel
+[2023.10.11-18.28.01:119][867]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/MainMenuLevel.MainMenuLevel
+[2023.10.11-18.28.01:670][897]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-18.28.01:738][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.10.11-18.28.01:750][897]LogSavePackage: Moving output files for package: /Game/Levels/MainMenuLevel
+[2023.10.11-18.28.01:750][897]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/MainMenuLevelB2A4445D4B32A054C23986AC0989BFD8.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Levels/MainMenuLevel.umap'
+[2023.10.11-18.28.01:762][897]LogFileHelpers: Saving map 'MainMenuLevel' took 0.051
+[2023.10.11-18.28.01:770][897]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 5.56 sec)
+[2023.10.11-18.28.01:777][897]AssetCheck: New page: Asset Save: MainMenuLevel
+[2023.10.11-18.28.01:778][897]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/MainMenuLevel.MainMenuLevel
+[2023.10.11-18.28.12:969][537]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-18.28.12:969][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-18.28.12:983][537]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-18.28.12:983][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-18.28.15:336][665]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-18.28.15:336][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-18.28.16:361][722]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.10.11-18.28.16:361][722]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-18.28.16:361][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-18.28.17:206][767]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-18.28.17:206][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-18.28.24:036][173]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Misc/SavePermanentData.SavePermanentData
+[2023.10.11-18.28.24:036][173]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-18.28.24:036][173]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.11-18.28.27:197][358]LogContentBrowser: Attempting asset rename: SavePlayerData -> SavePlayerData
+[2023.10.11-18.28.29:111][473]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Misc/SavePlayerData.SavePlayerData
+[2023.10.11-18.28.29:112][473]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-18.28.29:112][473]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.11-18.28.31:898][635]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Misc/SaveUserSettings.SaveUserSettings
+[2023.10.11-18.28.31:900][635]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-18.28.31:900][635]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.11-18.28.49:255][613]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-18.28.49:306][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Misc/SavePlayerData" FILE="../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Misc/SavePlayerData.uasset" SILENT=true
+[2023.10.11-18.28.49:307][613]LogSavePackage: Moving output files for package: /Game/Misc/SavePlayerData
+[2023.10.11-18.28.49:308][613]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SavePlayerDataD5339CCC4B4C80D82112ABA664E720E6.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Misc/SavePlayerData.uasset'
+[2023.10.11-18.28.49:313][613]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 5.62 sec)
+[2023.10.11-18.28.49:320][613]AssetCheck: New page: Asset Save: SavePlayerData
+[2023.10.11-18.28.49:320][613]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Misc/SavePlayerData.SavePlayerData
+[2023.10.11-18.28.50:019][654]BlueprintLog: New page: Compile SavePlayerData
+[2023.10.11-18.28.50:078][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.10.11-18.29.12:973][ 26]BlueprintLog: New page: Compile SaveMapData
+[2023.10.11-18.29.13:020][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.10.11-18.29.13:877][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-18.29.13:926][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Misc/SaveMapData" FILE="../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Misc/SaveMapData.uasset" SILENT=true
+[2023.10.11-18.29.13:930][ 76]LogSavePackage: Moving output files for package: /Game/Misc/SaveMapData
+[2023.10.11-18.29.13:930][ 76]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveMapDataB0D52B774960189D6EB9708EF2DB3066.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Misc/SaveMapData.uasset'
+[2023.10.11-18.29.13:937][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 5.68 sec)
+[2023.10.11-18.29.13:943][ 76]AssetCheck: New page: Asset Save: SaveMapData
+[2023.10.11-18.29.13:943][ 76]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Misc/SaveMapData.SaveMapData
+[2023.10.11-18.29.46:422][266]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/CustomizeRock/CustomizeRockTestTemplate.CustomizeRockTestTemplate
+[2023.10.11-18.29.46:422][266]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-18.29.46:423][266]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.11-18.29.46:427][266]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-18.29.46:427][266]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.11-18.29.50:699][506]LogSlate: Took 0.007949 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.10.11-18.30.21:866][324]BlueprintLog: New page: Compile CustomizeRockTestTemplate
+[2023.10.11-18.30.21:944][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.10.11-18.30.22:002][324]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-18.30.22:099][324]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRock/CustomizeRockTestTemplate
+[2023.10.11-18.30.22:100][324]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockTestTemplate1C516DF94DF734E5436B47894A36FFE1.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRock/CustomizeRockTestTemplate.uasset'
+[2023.10.11-18.30.22:108][324]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 5.78 sec)
+[2023.10.11-18.30.22:123][324]AssetCheck: New page: Asset Save: CustomizeRockTestTemplate
+[2023.10.11-18.30.22:123][324]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRock/CustomizeRockTestTemplate.CustomizeRockTestTemplate
+[2023.10.11-18.30.22:481][342]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-18.30.22:573][342]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRock/CustomizeRockTestTemplate
+[2023.10.11-18.30.22:574][342]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockTestTemplateDC47064845D56DAA559AFEA5F9C32CDA.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRock/CustomizeRockTestTemplate.uasset'
+[2023.10.11-18.30.22:582][342]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 5.88 sec)
+[2023.10.11-18.30.22:589][342]AssetCheck: New page: Asset Save: CustomizeRockTestTemplate
+[2023.10.11-18.30.22:589][342]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRock/CustomizeRockTestTemplate.CustomizeRockTestTemplate
+[2023.10.11-18.30.34:150][ 32]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-18.30.34:150][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-18.30.34:469][ 48]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-18.30.34:469][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-18.30.34:890][ 71]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-18.30.34:890][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-18.30.35:179][ 77]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-18.30.35:179][ 77]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-18.30.38:796][291]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/CustomizeRock/CustomizeRockWidget.CustomizeRockWidget
+[2023.10.11-18.30.38:796][291]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-18.30.38:796][291]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.11-18.30.38:801][291]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-18.30.38:801][291]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.11-18.30.57:959][420]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.11-18.31.03:910][772]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.11-18.31.13:927][368]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.11-18.31.40:492][796]BlueprintLog: New page: Compile CustomizeRockWidget
+[2023.10.11-18.31.40:578][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.10.11-18.31.40:676][796]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-18.31.40:758][796]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRock/CustomizeRockWidget
+[2023.10.11-18.31.40:759][796]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockWidgetA8B108054A3CA6FC44836B9167D39796.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRock/CustomizeRockWidget.uasset'
+[2023.10.11-18.31.40:767][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 5.97 sec)
+[2023.10.11-18.31.40:788][796]AssetCheck: New page: Asset Save: CustomizeRockWidget
+[2023.10.11-18.31.40:788][796]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRock/CustomizeRockWidget.CustomizeRockWidget
+[2023.10.11-18.33.01:066][425]BlueprintLog: New page: Compile CustomizeRockWidget
+[2023.10.11-18.33.01:153][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.10.11-18.33.01:196][425]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-18.33.01:275][425]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRock/CustomizeRockWidget
+[2023.10.11-18.33.01:276][425]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockWidget11BAF1B64EF4923CC6CFA486362F117B.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRock/CustomizeRockWidget.uasset'
+[2023.10.11-18.33.01:283][425]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 6.06 sec)
+[2023.10.11-18.33.01:291][425]AssetCheck: New page: Asset Save: CustomizeRockWidget
+[2023.10.11-18.33.01:291][425]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRock/CustomizeRockWidget.CustomizeRockWidget
+[2023.10.11-18.33.01:753][445]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-18.33.01:835][445]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRock/CustomizeRockWidget
+[2023.10.11-18.33.01:836][445]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockWidgetE2B4ABCA43D459AFEA1AA291D4A85075.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRock/CustomizeRockWidget.uasset'
+[2023.10.11-18.33.01:842][445]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 6.15 sec)
+[2023.10.11-18.33.01:850][445]AssetCheck: New page: Asset Save: CustomizeRockWidget
+[2023.10.11-18.33.01:850][445]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRock/CustomizeRockWidget.CustomizeRockWidget
+[2023.10.11-18.33.09:057][877]LogEditorTransaction: Undo Move Node
+[2023.10.11-18.33.23:720][711]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/PauseMenu/PauseMenuWidget.PauseMenuWidget
+[2023.10.11-18.33.23:720][711]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-18.33.23:721][711]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.11-18.33.23:725][711]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-18.33.23:725][711]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.11-18.33.39:638][567]LogEditorTransaction: Undo Move Node
+[2023.10.11-18.34.00:084][724]BlueprintLog: New page: Compile CustomizeRockWidget
+[2023.10.11-18.34.00:171][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.10.11-18.34.00:234][724]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-18.34.00:320][724]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRock/CustomizeRockWidget
+[2023.10.11-18.34.00:321][724]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockWidget1F5506434003008B782D038EDE08406C.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRock/CustomizeRockWidget.uasset'
+[2023.10.11-18.34.00:329][724]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 6.24 sec)
+[2023.10.11-18.34.00:336][724]AssetCheck: New page: Asset Save: CustomizeRockWidget
+[2023.10.11-18.34.00:336][724]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRock/CustomizeRockWidget.CustomizeRockWidget
+[2023.10.11-18.34.00:761][742]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-18.34.00:844][742]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRock/CustomizeRockWidget
+[2023.10.11-18.34.00:845][742]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockWidgetFF76FD3A444C298D2582A2AFD73DCBBB.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRock/CustomizeRockWidget.uasset'
+[2023.10.11-18.34.00:853][742]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 6.34 sec)
+[2023.10.11-18.34.00:860][742]AssetCheck: New page: Asset Save: CustomizeRockWidget
+[2023.10.11-18.34.00:860][742]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRock/CustomizeRockWidget.CustomizeRockWidget
+[2023.10.11-18.34.13:904][524]BlueprintLog: New page: Compile CustomizeRockWidget
+[2023.10.11-18.34.13:987][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.10.11-18.34.37:516][908]BlueprintLog: New page: Compile CustomizeRockTestTemplate
+[2023.10.11-18.34.37:620][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.10.11-18.34.38:051][925]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-18.34.38:144][925]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRock/CustomizeRockTestTemplate
+[2023.10.11-18.34.38:145][925]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockTestTemplate76CE22A24597E282F697FA81531A0691.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRock/CustomizeRockTestTemplate.uasset'
+[2023.10.11-18.34.38:152][925]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 6.44 sec)
+[2023.10.11-18.34.38:161][925]AssetCheck: New page: Asset Save: CustomizeRockTestTemplate
+[2023.10.11-18.34.38:161][925]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRock/CustomizeRockTestTemplate.CustomizeRockTestTemplate
+[2023.10.11-18.34.47:051][454]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.10.11-18.34.47:063][454]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.11-18.34.47:064][454]PIE: New page: PIE session: MainMenuLevel (Oct. 11, 2023, 4:34:47 a.m.)
+[2023.10.11-18.34.47:064][454]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.10.11-18.34.47:066][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001894s)
+[2023.10.11-18.34.47:066][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.001922s)
+[2023.10.11-18.34.47:066][454]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-18.34.47:066][454]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.11-18.34.47:066][454]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.10.11-18.34.47:067][454]LogPlayLevel: PIE: World Init took: (0.000664s)
+[2023.10.11-18.34.47:093][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.10.11-18.34.47:098][454]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.10.11-18.34.47:098][454]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.11-18.34.47:098][454]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.11-18.34.47:098][454]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.11-18.34.47:098][454]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.11-18.34.47:098][454]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.11-18.34.47:098][454]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.11-18.34.47:098][454]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.11-18.34.47:098][454]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.11-18.34.47:099][454]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.10.11-18.34.47:099][454]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.10.11-18.34.47:099][454]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.11-18.34.47:101][454]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.11-18.34.47:114][454]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.10.11-18.34.47:115][454]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.11-18.34.47:115][454]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.11-18.34.47:115][454]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.11-18.34.47:115][454]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.10.11-18.34.47:115][454]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.10.11-18.34.47:117][454]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.10.11-18.34.47:117][454]LogInit: FAudioDevice initialized with ID 9.
+[2023.10.11-18.34.47:117][454]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.10.11-18.34.47:117][454]LogAudio: Display: Audio Device (ID: 9) registered with world 'MainMenuLevel'.
+[2023.10.11-18.34.47:117][454]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2023.10.11-18.34.47:140][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.11-18.34.47:333][454]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.11-18.34.47:334][454]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2023.10.11-11.34.47
+[2023.10.11-18.34.47:334][454]LogWorld: Bringing up level for play took: 0.000597
+[2023.10.11-18.34.47:338][454]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2023.10.11-18.34.47:342][454]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.11-18.34.47:344][454]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.11-18.34.47:348][454]vr.PixelDensity = "1"
+[2023.10.11-18.34.47:367][454]PIE: Server logged in
+[2023.10.11-18.34.47:372][454]PIE: Play in editor total start time 0.308 seconds.
+[2023.10.11-18.34.47:386][454]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.10.11-18.34.47:392][454]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.10.11-18.34.47:406][454]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.10.11-18.34.53:589][943]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.53:589][943]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.53:603][944]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.53:603][944]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.53:617][945]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.53:617][945]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.53:630][946]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.53:630][946]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.53:644][947]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.53:644][947]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.53:658][948]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.53:658][948]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.53:672][949]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.53:672][949]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.53:686][950]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.53:686][950]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.53:700][951]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.53:700][951]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.53:713][952]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.53:713][952]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.53:727][953]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.53:727][953]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.53:741][954]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.53:741][954]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.53:755][955]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.53:755][955]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.53:769][956]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.53:769][956]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.53:782][957]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.53:782][957]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.53:796][958]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.53:797][958]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.53:810][959]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.53:810][959]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.53:825][960]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.53:825][960]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.53:839][961]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.53:839][961]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.53:853][962]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.53:853][962]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.53:866][963]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.53:866][963]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.53:880][964]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.53:880][964]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.53:894][965]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.53:894][965]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.53:908][966]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.53:908][966]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.53:922][967]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.53:922][967]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.53:936][968]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.53:936][968]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.53:950][969]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.53:950][969]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.53:964][970]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.53:964][970]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.53:977][971]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.53:978][971]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.53:991][972]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.53:991][972]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:006][973]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:006][973]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:020][974]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:020][974]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:033][975]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:033][975]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:046][976]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:046][976]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:061][977]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:061][977]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:075][978]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:075][978]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:089][979]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:089][979]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:103][980]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:103][980]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:117][981]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:117][981]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:131][982]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:131][982]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:145][983]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:145][983]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:159][984]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:159][984]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:173][985]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:173][985]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:186][986]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:186][986]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:200][987]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:200][987]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:214][988]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:214][988]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:228][989]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:229][989]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:243][990]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:243][990]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:258][991]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:258][991]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:272][992]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:272][992]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:285][993]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:285][993]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:299][994]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:299][994]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:313][995]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:313][995]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:327][996]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:327][996]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:341][997]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:341][997]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:355][998]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:355][998]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:368][999]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:368][999]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:382][  0]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:382][  0]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:395][  1]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:395][  1]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:409][  2]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:409][  2]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:423][  3]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:423][  3]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:438][  4]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:438][  4]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:452][  5]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:452][  5]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:465][  6]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:465][  6]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:479][  7]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:479][  7]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:492][  8]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:492][  8]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:507][  9]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:507][  9]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:521][ 10]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:521][ 10]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:535][ 11]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:535][ 11]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:549][ 12]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:549][ 12]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:562][ 13]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:562][ 13]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:576][ 14]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:576][ 14]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:590][ 15]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:590][ 15]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:604][ 16]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:604][ 16]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:618][ 17]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:618][ 17]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:632][ 18]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:632][ 18]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:646][ 19]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:646][ 19]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:660][ 20]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:660][ 20]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:674][ 21]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:674][ 21]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:687][ 22]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:688][ 22]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:702][ 23]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:702][ 23]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:716][ 24]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:716][ 24]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:730][ 25]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:730][ 25]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:744][ 26]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:744][ 26]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:757][ 27]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:757][ 27]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:772][ 28]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:772][ 28]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:785][ 29]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:785][ 29]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:805][ 30]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.11-18.34.54:805][ 30]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.11-18.34.54:809][ 31]LogNet: Browse: /Game/Levels/MainLevel
+[2023.10.11-18.34.54:809][ 31]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2023.10.11-18.34.54:809][ 31]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.10.11-18.34.54:811][ 31]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-18.34.54:811][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-18.34.54:866][ 31]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.11-18.34.54:870][ 31]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.11-18.34.54:870][ 31]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.11-18.34.54:872][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.10.11-18.34.54:982][ 31]LogAudio: Display: Audio Device (ID: 9) registered with world 'MainLevel'.
+[2023.10.11-18.34.54:982][ 31]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.11-18.34.54:983][ 31]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.11-18.34.54:983][ 31]LogAIModule: Creating AISystem for world MainLevel
+[2023.10.11-18.34.54:983][ 31]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2023.10.11-18.34.54:983][ 31]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.11-18.34.55:001][ 31]LogTexture: Display: Waiting for textures to be ready 0/17 (/Game/Levels/UEDPIE_0_MainLevel) ...
+[2023.10.11-18.34.55:054][ 31]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.10.11-11.34.55
+[2023.10.11-18.34.55:054][ 31]LogWorld: Bringing up level for play took: 0.037015
+[2023.10.11-18.34.55:057][ 31]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.11-18.34.55:059][ 31]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.11-18.34.55:076][ 31]LogLinker: Warning: Failed to load '/Engine/Transient': Can't find file.
+[2023.10.11-18.34.55:097][ 31]LogStreaming: Warning: Failed to read file '' error.
+[2023.10.11-18.34.55:097][ 31]LogStreaming: Warning: Failed to read file '' error.
+[2023.10.11-18.34.55:097][ 31]LogTemp: Warning: Runtime Mesh Loader: filepath is empty.
+
+[2023.10.11-18.34.55:098][ 31]LogStreaming: Warning: Failed to read file '' error.
+[2023.10.11-18.34.55:098][ 31]LogStreaming: Warning: Failed to read file '' error.
+[2023.10.11-18.34.55:098][ 31]LogTemp: Warning: Runtime Mesh Loader: filepath is empty.
+
+[2023.10.11-18.34.55:101][ 31]vr.PixelDensity = "1"
+[2023.10.11-18.34.55:107][ 31]LogLoad: Took 0.298282 seconds to LoadMap(/Game/Levels/MainLevel)
+[2023.10.11-18.34.55:128][ 31]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambient'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.11-18.34.55:132][ 32]LogHttp: Warning: 000005B0784F9100: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.10.11-18.34.55:132][ 32]LogHttp: Warning: 000005B0784F9100: libcurl info message cache 0 (Couldn't open file /)
+[2023.10.11-18.34.55:132][ 32]LogHttp: Warning: 000005B0784F9100: libcurl info message cache 1 (Closing connection -1)
+[2023.10.11-18.34.55:132][ 32]LogHttp: Warning: 000005B0784F5F00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.10.11-18.34.55:133][ 32]LogHttp: Warning: 000005B0784F5F00: libcurl info message cache 0 (Couldn't open file /)
+[2023.10.11-18.34.55:133][ 32]LogHttp: Warning: 000005B0784F5F00: libcurl info message cache 1 (Closing connection -1)
+[2023.10.11-18.34.55:133][ 32]LogHttp: Warning: 000005B0784F1E00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.10.11-18.34.55:133][ 32]LogHttp: Warning: 000005B0784F1E00: libcurl info message cache 0 (Couldn't open file /)
+[2023.10.11-18.34.55:133][ 32]LogHttp: Warning: 000005B0784F1E00: libcurl info message cache 1 (Closing connection -1)
+[2023.10.11-18.34.55:133][ 32]LogHttp: Warning: 000005B0784F5000: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.10.11-18.34.55:133][ 32]LogHttp: Warning: 000005B0784F5000: libcurl info message cache 0 (Couldn't open file /)
+[2023.10.11-18.34.55:133][ 32]LogHttp: Warning: 000005B0784F5000: libcurl info message cache 1 (Closing connection -1)
+[2023.10.11-18.34.55:165][ 32]LogShaderCompilers: Display: ================================================
+[2023.10.11-18.34.55:165][ 32]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.11-18.34.55:165][ 32]LogShaderCompilers: Display: Total job queries 811, among them cache hits 680 (83.85%)
+[2023.10.11-18.34.55:165][ 32]LogShaderCompilers: Display: Tracking 131 distinct input hashes that result in 100 distinct outputs (76.34%)
+[2023.10.11-18.34.55:165][ 32]LogShaderCompilers: Display: RAM used: 4.32 MiB of 1.60 GiB budget. Usage: 0.26%
+[2023.10.11-18.34.55:165][ 32]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.11-18.34.55:165][ 32]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.11-18.34.55:165][ 32]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.10.11-18.34.55:165][ 32]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.11-18.34.55:165][ 32]LogShaderCompilers: Display: ================================================
+[2023.10.11-18.34.55:210][ 33]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2023.10.11-18.34.59:886][157]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.11-18.35.00:529][175]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.11-18.35.02:195][220]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.11-18.35.02:503][228]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.11-18.35.02:710][233]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.11-18.35.02:894][238]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.11-18.35.03:101][243]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.11-18.35.03:318][248]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.11-18.35.03:922][264]LogHttp: Warning: 000005B0ABBC9B00: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.10.11-18.35.03:922][264]LogHttp: Warning: 000005B0ABBC9B00: libcurl info message cache 0 (Couldn't open file C:/Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/ThinSection/Rock12.png)
+[2023.10.11-18.35.03:922][264]LogHttp: Warning: 000005B0ABBC9B00: libcurl info message cache 1 (Closing connection -1)
+[2023.10.11-18.35.05:125][294]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.11-18.35.05:437][302]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.11-18.35.05:621][307]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.11-18.35.05:853][313]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.11-18.35.06:057][318]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.11-18.35.06:286][324]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.11-18.35.06:472][329]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.11-18.35.07:117][346]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.11-18.35.07:429][354]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.11-18.35.08:047][371]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.11-18.35.11:774][473]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.11-18.35.13:087][510]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.11-18.35.13:288][516]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.11-18.35.13:467][521]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.11-18.35.13:673][527]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.11-18.35.13:902][533]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.11-18.35.14:396][547]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.11-18.35.43:289][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.11-18.35.43:289][418]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.10.11-18.35.43:332][418]LogSlate: Window 'EAESFieldLabVR Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.10.11-18.35.43:336][418]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.11-18.35.43:337][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-18.35.43:341][418]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.11-18.35.43:348][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.11-18.35.43:383][418]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.11-18.35.43:383][418]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2023.10.11-18.35.43:383][418]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.10.11-18.35.43:383][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.10.11-18.35.43:385][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.10.11-18.35.43:397][418]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.11-18.35.43:397][418]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.11-18.35.43:399][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.10.11-18.35.43:443][419]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2023.10.11-18.36.03:426][463]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.11-18.36.05:912][606]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.11-18.36.10:896][898]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.11-18.37.17:502][548]BlueprintLog: New page: Compile CustomizeRockTestTemplate
+[2023.10.11-18.37.17:632][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.10.11-18.37.17:646][548]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-18.37.17:740][548]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRock/CustomizeRockTestTemplate
+[2023.10.11-18.37.17:741][548]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockTestTemplate5700297C46C56087025312A1E951A64E.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRock/CustomizeRockTestTemplate.uasset'
+[2023.10.11-18.37.17:748][548]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 6.54 sec)
+[2023.10.11-18.37.17:761][548]AssetCheck: New page: Asset Save: CustomizeRockTestTemplate
+[2023.10.11-18.37.17:761][548]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRock/CustomizeRockTestTemplate.CustomizeRockTestTemplate
+[2023.10.11-18.37.18:195][565]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-18.37.18:283][565]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRock/CustomizeRockTestTemplate
+[2023.10.11-18.37.18:284][565]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockTestTemplate442F4B1E4C079B116872BB8CFEDA5CAB.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRock/CustomizeRockTestTemplate.uasset'
+[2023.10.11-18.37.18:294][565]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 6.64 sec)
+[2023.10.11-18.37.18:302][565]AssetCheck: New page: Asset Save: CustomizeRockTestTemplate
+[2023.10.11-18.37.18:302][565]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRock/CustomizeRockTestTemplate.CustomizeRockTestTemplate
+[2023.10.11-18.37.19:838][657]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-18.37.19:923][657]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRock/CustomizeRockTestTemplate
+[2023.10.11-18.37.19:923][657]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockTestTemplate1C2557314A9A20B27A273F9A4267FEBD.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRock/CustomizeRockTestTemplate.uasset'
+[2023.10.11-18.37.19:931][657]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 6.73 sec)
+[2023.10.11-18.37.19:938][657]AssetCheck: New page: Asset Save: CustomizeRockTestTemplate
+[2023.10.11-18.37.19:938][657]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRock/CustomizeRockTestTemplate.CustomizeRockTestTemplate
+[2023.10.11-18.37.46:176][151]BlueprintLog: New page: Compile CustomizeRockTestTemplate
+[2023.10.11-18.37.46:322][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.10.11-18.37.46:336][151]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-18.37.46:429][151]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRock/CustomizeRockTestTemplate
+[2023.10.11-18.37.46:430][151]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockTestTemplate9BDD9C0E4E4B952FC56F598FB5A37DB6.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRock/CustomizeRockTestTemplate.uasset'
+[2023.10.11-18.37.46:437][151]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 6.83 sec)
+[2023.10.11-18.37.46:444][151]AssetCheck: New page: Asset Save: CustomizeRockTestTemplate
+[2023.10.11-18.37.46:444][151]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRock/CustomizeRockTestTemplate.CustomizeRockTestTemplate
+[2023.10.11-18.37.46:914][170]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-18.37.47:007][170]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRock/CustomizeRockTestTemplate
+[2023.10.11-18.37.47:007][170]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockTestTemplate1595367740B88904B9E82197AF7A0B6E.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRock/CustomizeRockTestTemplate.uasset'
+[2023.10.11-18.37.47:016][170]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 6.94 sec)
+[2023.10.11-18.37.47:022][170]AssetCheck: New page: Asset Save: CustomizeRockTestTemplate
+[2023.10.11-18.37.47:022][170]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRock/CustomizeRockTestTemplate.CustomizeRockTestTemplate
+[2023.10.11-18.37.53:307][547]BlueprintLog: New page: Compile CustomizeRockTestTemplate
+[2023.10.11-18.37.53:452][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.10.11-18.37.53:467][547]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-18.37.53:568][547]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRock/CustomizeRockTestTemplate
+[2023.10.11-18.37.53:569][547]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockTestTemplate54D83C2E4E25C52F6DE1C5AD517397DA.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRock/CustomizeRockTestTemplate.uasset'
+[2023.10.11-18.37.53:577][547]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 7.05 sec)
+[2023.10.11-18.37.53:585][547]AssetCheck: New page: Asset Save: CustomizeRockTestTemplate
+[2023.10.11-18.37.53:585][547]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRock/CustomizeRockTestTemplate.CustomizeRockTestTemplate
+[2023.10.11-18.37.53:953][560]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-18.37.54:036][560]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRock/CustomizeRockTestTemplate
+[2023.10.11-18.37.54:037][560]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockTestTemplate7A37D8A24AC0CD0711C4A79870242F40.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRock/CustomizeRockTestTemplate.uasset'
+[2023.10.11-18.37.54:044][560]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 7.14 sec)
+[2023.10.11-18.37.54:051][560]AssetCheck: New page: Asset Save: CustomizeRockTestTemplate
+[2023.10.11-18.37.54:051][560]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRock/CustomizeRockTestTemplate.CustomizeRockTestTemplate
+[2023.10.11-18.37.59:731][901]BlueprintLog: New page: Compile CustomizeRockTestTemplate
+[2023.10.11-18.37.59:878][901]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.10.11-18.38.00:388][920]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.11-18.38.00:481][920]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRock/CustomizeRockTestTemplate
+[2023.10.11-18.38.00:481][920]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockTestTemplateF00020564B69F24D09BA5D818ADF2F97.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRock/CustomizeRockTestTemplate.uasset'
+[2023.10.11-18.38.00:491][920]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 7.24 sec)
+[2023.10.11-18.38.00:497][920]AssetCheck: New page: Asset Save: CustomizeRockTestTemplate
+[2023.10.11-18.38.00:497][920]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRock/CustomizeRockTestTemplate.CustomizeRockTestTemplate
