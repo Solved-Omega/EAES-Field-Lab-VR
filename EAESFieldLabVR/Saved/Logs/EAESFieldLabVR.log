@@ -12457,3 +12457,19 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.13-18.01.24:682][ 85]LogPlayLevel: Display: Destroying online subsystem :Context_121
 [2023.10.13-18.01.55:457][337]BlueprintLog: New page: Compile VRPawn
 [2023.10.13-18.01.55:833][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.10.13-18.03.13:397][859]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/CustomModels/CustomRockModel.CustomRockModel
+[2023.10.13-18.03.13:398][859]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.13-18.03.13:398][859]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-18.03.43:927][162]LogEditorTransaction: Undo Create Pin Link
+[2023.10.13-18.03.51:788][393]LogEditorTransaction: Undo Create Pin Link
+[2023.10.13-18.05.09:083][628]BlueprintLog: New page: Compile VRPawn
+[2023.10.13-18.05.09:437][628]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.10.13-18.05.11:328][628]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-18.05.11:402][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2023.10.13-18.05.11:604][628]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2023.10.13-18.05.11:605][628]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/VRPawn68430E76408D2B95FBED67A1AE7C2EDA.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/VRPawn.uasset'
+[2023.10.13-18.05.11:618][628]LogFileHelpers: InternalPromptForCheckoutAndSave took 290 ms (total: 34.0 sec)
+[2023.10.13-18.05.11:629][628]AssetCheck: New page: Asset Save: VRPawn
+[2023.10.13-18.05.11:629][628]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2023.10.13-18.05.20:167][ 11]BlueprintLog: New page: Compile VRPawn
+[2023.10.13-18.05.20:443][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
