@@ -11803,3 +11803,78 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.13-17.40.20:463][336]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
 [2023.10.13-17.40.20:465][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
 [2023.10.13-17.40.20:541][337]LogPlayLevel: Display: Destroying online subsystem :Context_113
+[2023.10.13-17.41.39:140][ 49]LogSlate: Window 'EAES-GameInstance' being destroyed
+[2023.10.13-17.41.39:146][ 49]LogSlate: Window 'EAES-GameInstance' being destroyed
+[2023.10.13-17.41.39:159][ 49]LogWorld: UWorld::CleanupWorld for World_84, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-17.41.39:159][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-17.41.39:333][ 49]LogWorld: UWorld::CleanupWorld for World_88, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-17.41.39:333][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-17.41.39:348][ 49]LogWorld: UWorld::CleanupWorld for World_87, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-17.41.39:348][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-17.41.39:451][ 49]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.10.13-17.41.39:451][ 49]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-17.41.39:454][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-17.41.39:557][ 49]LogWorld: UWorld::CleanupWorld for World_91, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-17.41.39:557][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-17.41.42:312][355]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.10.13-17.41.59:626][383]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-17.41.59:713][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.10.13-17.41.59:732][383]LogSavePackage: Moving output files for package: /Game/Levels/MainMenuLevel
+[2023.10.13-17.41.59:733][383]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/MainMenuLevel791D0F3845616DE2DAC790A52D77751D.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Levels/MainMenuLevel.umap'
+[2023.10.13-17.41.59:748][383]LogFileHelpers: Saving map 'MainMenuLevel' took 0.068
+[2023.10.13-17.41.59:763][383]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 30.1 sec)
+[2023.10.13-17.41.59:776][383]AssetCheck: New page: Asset Save: MainMenuLevel
+[2023.10.13-17.41.59:776][383]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/MainMenuLevel.MainMenuLevel
+[2023.10.13-17.42.15:049][ 30]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2023.10.13-17.42.15:050][ 30]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.13-17.42.15:050][ 30]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-17.43.11:479][721]BlueprintLog: New page: Compile VRPawn
+[2023.10.13-17.43.11:795][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.10.13-17.43.13:055][721]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-17.43.13:128][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2023.10.13-17.43.13:325][721]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2023.10.13-17.43.13:325][721]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/VRPawnBFF6CC3742AB59914A1EBBAC76C6EFCA.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/VRPawn.uasset'
+[2023.10.13-17.43.13:339][721]LogFileHelpers: InternalPromptForCheckoutAndSave took 283 ms (total: 30.4 sec)
+[2023.10.13-17.43.13:353][721]AssetCheck: New page: Asset Save: VRPawn
+[2023.10.13-17.43.13:353][721]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2023.10.13-17.43.13:807][722]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-17.43.13:863][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2023.10.13-17.43.14:066][722]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2023.10.13-17.43.14:067][722]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/VRPawn455949E8437B51BC032169890CDE703A.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/VRPawn.uasset'
+[2023.10.13-17.43.14:080][722]LogFileHelpers: InternalPromptForCheckoutAndSave took 272 ms (total: 30.7 sec)
+[2023.10.13-17.43.14:091][722]AssetCheck: New page: Asset Save: VRPawn
+[2023.10.13-17.43.14:091][722]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2023.10.13-17.45.54:957][148]BlueprintLog: New page: Compile VRPawn
+[2023.10.13-17.45.55:266][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.10.13-17.45.56:514][148]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-17.45.56:590][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2023.10.13-17.45.56:794][148]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2023.10.13-17.45.56:795][148]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/VRPawn7E3FB30B4360DE970AEBF78B4FE3B5C0.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/VRPawn.uasset'
+[2023.10.13-17.45.56:809][148]LogFileHelpers: InternalPromptForCheckoutAndSave took 294 ms (total: 30.9 sec)
+[2023.10.13-17.45.56:822][148]AssetCheck: New page: Asset Save: VRPawn
+[2023.10.13-17.45.56:822][148]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2023.10.13-17.46.15:581][292]BlueprintLog: New page: Compile VRPawn
+[2023.10.13-17.46.15:903][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.10.13-17.46.17:214][292]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-17.46.17:288][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2023.10.13-17.46.17:488][292]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2023.10.13-17.46.17:488][292]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/VRPawn4EA58AB949507A9A0FA2D3B3F9B1E7C5.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/VRPawn.uasset'
+[2023.10.13-17.46.17:504][292]LogFileHelpers: InternalPromptForCheckoutAndSave took 289 ms (total: 31.2 sec)
+[2023.10.13-17.46.17:514][292]AssetCheck: New page: Asset Save: VRPawn
+[2023.10.13-17.46.17:514][292]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2023.10.13-17.46.53:429][492]BlueprintLog: New page: Compile VRPawn
+[2023.10.13-17.46.53:749][492]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2023.10.13-17.46.55:000][492]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-17.46.55:075][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2023.10.13-17.46.55:275][492]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2023.10.13-17.46.55:276][492]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/VRPawn7D4A7320488D6F74159C279E05F7FC51.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/VRPawn.uasset'
+[2023.10.13-17.46.55:289][492]LogFileHelpers: InternalPromptForCheckoutAndSave took 289 ms (total: 31.5 sec)
+[2023.10.13-17.46.55:299][492]AssetCheck: New page: Asset Save: VRPawn
+[2023.10.13-17.46.55:300][492]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
+[2023.10.13-17.46.56:107][517]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-17.46.56:166][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/VRPawn" FILE="../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/VRPawn.uasset" SILENT=true
+[2023.10.13-17.46.56:365][517]LogSavePackage: Moving output files for package: /Game/Blueprints/VRPawn
+[2023.10.13-17.46.56:365][517]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/VRPawn1311A1504B3FEA571B978B9398F61ECC.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/VRPawn.uasset'
+[2023.10.13-17.46.56:381][517]LogFileHelpers: InternalPromptForCheckoutAndSave took 274 ms (total: 31.8 sec)
+[2023.10.13-17.46.56:393][517]AssetCheck: New page: Asset Save: VRPawn
+[2023.10.13-17.46.56:393][517]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/VRPawn.VRPawn
