@@ -2591,3 +2591,183 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.13-15.38.07:909][135]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2023.10.13-15.38.07:914][135]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2023.10.13-15.38.07:914][135]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-15.39.06:538][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.10.13-15.39.06:539][865]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainMenuLevel' took 0.029
+[2023.10.13-15.39.06:540][865]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/Journal/JournalWidgetV2] ([2] browsable assets)...
+[2023.10.13-15.39.06:544][865]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/Journal/JournalWidgetV2.JournalWidgetV2]
+[2023.10.13-15.39.06:544][865]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/Journal/JournalWidgetV2]
+[2023.10.13-15.39.06:602][865]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/Journal/JournalWidgetV2_Auto1
+[2023.10.13-15.39.06:602][865]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/JournalWidgetV2_Auto19282094145748FEA547506B6296CB20B.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Autosaves/Game/Widgets/Journal/JournalWidgetV2_Auto1.uasset'
+[2023.10.13-15.39.06:604][865]LogFileHelpers: Auto-saving content packages took 0.065
+[2023.10.13-15.40.50:856][629]BlueprintLog: New page: Compile JournalWidgetV2
+[2023.10.13-15.40.50:966][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.10.13-15.40.51:126][629]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-15.40.51:236][629]LogSavePackage: Moving output files for package: /Game/Widgets/Journal/JournalWidgetV2
+[2023.10.13-15.40.51:236][629]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/JournalWidgetV29044B7B3421A15E46696B48E82A8B318.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/Journal/JournalWidgetV2.uasset'
+[2023.10.13-15.40.51:243][629]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 4.97 sec)
+[2023.10.13-15.40.51:253][629]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.10.13-15.40.51:253][629]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Journal/JournalWidgetV2.JournalWidgetV2
+[2023.10.13-15.40.51:735][649]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-15.40.51:836][649]LogSavePackage: Moving output files for package: /Game/Widgets/Journal/JournalWidgetV2
+[2023.10.13-15.40.51:837][649]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/JournalWidgetV24F6F11BA49C19C3AC028FF8E78715EC8.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/Journal/JournalWidgetV2.uasset'
+[2023.10.13-15.40.51:846][649]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 5.08 sec)
+[2023.10.13-15.40.51:854][649]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.10.13-15.40.51:854][649]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Journal/JournalWidgetV2.JournalWidgetV2
+[2023.10.13-15.42.06:466][ 31]BlueprintLog: New page: Compile JournalWidgetV2
+[2023.10.13-15.42.06:587][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.10.13-15.42.06:745][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-15.42.06:858][ 31]LogSavePackage: Moving output files for package: /Game/Widgets/Journal/JournalWidgetV2
+[2023.10.13-15.42.06:858][ 31]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/JournalWidgetV2AC1762114A436B367998B58558864D03.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/Journal/JournalWidgetV2.uasset'
+[2023.10.13-15.42.06:868][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 5.20 sec)
+[2023.10.13-15.42.06:876][ 31]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.10.13-15.42.06:876][ 31]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Journal/JournalWidgetV2.JournalWidgetV2
+[2023.10.13-15.42.07:264][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.13-15.42.07:370][ 45]LogSavePackage: Moving output files for package: /Game/Widgets/Journal/JournalWidgetV2
+[2023.10.13-15.42.07:370][ 45]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/JournalWidgetV27A10FC5F47F5E417F5710389552F298B.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/Journal/JournalWidgetV2.uasset'
+[2023.10.13-15.42.07:380][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 5.32 sec)
+[2023.10.13-15.42.07:392][ 45]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.10.13-15.42.07:393][ 45]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Journal/JournalWidgetV2.JournalWidgetV2
+[2023.10.13-15.42.13:538][403]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.10.13-15.42.13:551][403]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.13-15.42.13:552][403]PIE: New page: PIE session: MainMenuLevel (Oct. 13, 2023, 1:42:13 a.m.)
+[2023.10.13-15.42.13:552][403]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.10.13-15.42.13:554][403]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002595s)
+[2023.10.13-15.42.13:554][403]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002651s)
+[2023.10.13-15.42.13:554][403]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.13-15.42.13:554][403]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-15.42.13:555][403]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.10.13-15.42.13:555][403]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2023.10.13-15.42.13:590][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.10.13-15.42.13:592][403]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.10.13-15.42.13:592][403]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.13-15.42.13:592][403]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.13-15.42.13:592][403]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.13-15.42.13:592][403]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.13-15.42.13:592][403]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.13-15.42.13:592][403]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.13-15.42.13:592][403]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.13-15.42.13:592][403]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.13-15.42.13:593][403]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.10.13-15.42.13:593][403]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.10.13-15.42.13:593][403]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.13-15.42.13:595][403]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.13-15.42.13:608][403]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.10.13-15.42.13:608][403]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.13-15.42.13:608][403]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.13-15.42.13:608][403]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.13-15.42.13:609][403]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.10.13-15.42.13:609][403]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.10.13-15.42.13:612][403]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.10.13-15.42.13:612][403]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.10.13-15.42.13:612][403]LogInit: FAudioDevice initialized with ID 7.
+[2023.10.13-15.42.13:612][403]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainMenuLevel'.
+[2023.10.13-15.42.13:612][403]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.10.13-15.42.13:637][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-15.42.13:835][403]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.13-15.42.13:836][403]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2023.10.13-08.42.13
+[2023.10.13-15.42.13:836][403]LogWorld: Bringing up level for play took: 0.000628
+[2023.10.13-15.42.13:838][403]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2023.10.13-15.42.13:842][403]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.13-15.42.13:843][403]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.13-15.42.13:848][403]vr.PixelDensity = "1"
+[2023.10.13-15.42.13:865][403]PIE: Server logged in
+[2023.10.13-15.42.13:872][403]PIE: Play in editor total start time 0.321 seconds.
+[2023.10.13-15.42.13:880][403]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.10.13-15.42.13:887][403]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.10.13-15.42.13:901][403]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.10.13-15.42.23:374][474]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:388][475]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:400][476]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:415][477]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:429][478]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:445][479]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:458][480]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:473][481]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:488][482]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:503][483]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:519][484]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:533][485]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:547][486]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:561][487]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:575][488]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:591][489]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:605][490]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:619][491]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:634][492]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:647][493]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:661][494]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:676][495]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:690][496]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:703][497]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:718][498]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:732][499]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:746][500]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:760][501]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:773][502]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:788][503]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:801][504]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:816][505]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:830][506]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:844][507]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:859][508]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:872][509]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:885][510]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:897][511]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Player Data 2.sav' error.
+[2023.10.13-15.42.23:899][511]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.13-15.42.23:905][512]LogNet: Browse: /Game/Levels/MainLevel
+[2023.10.13-15.42.23:905][512]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2023.10.13-15.42.23:905][512]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.10.13-15.42.23:907][512]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-15.42.23:907][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-15.42.23:959][512]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.13-15.42.23:964][512]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.13-15.42.23:964][512]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.13-15.42.23:965][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.10.13-15.42.24:070][512]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainLevel'.
+[2023.10.13-15.42.24:070][512]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.13-15.42.24:070][512]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.13-15.42.24:070][512]LogAIModule: Creating AISystem for world MainLevel
+[2023.10.13-15.42.24:070][512]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2023.10.13-15.42.24:070][512]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.13-15.42.24:106][512]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.10.13-08.42.24
+[2023.10.13-15.42.24:106][512]LogWorld: Bringing up level for play took: 0.034746
+[2023.10.13-15.42.24:110][512]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.13-15.42.24:111][512]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.13-15.42.24:123][512]LogLinker: Warning: Failed to load '/Engine/Transient': Can't find file.
+[2023.10.13-15.42.24:123][512]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array RockTestList [2/1]!
+[2023.10.13-15.42.24:123][512]LogScript: Warning: Script Msg called by: MainLevel_C /Game/Levels/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.MainLevel_C_1
+[2023.10.13-15.42.24:123][512]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array RockTestList [2/1]!
+[2023.10.13-15.42.24:123][512]LogScript: Warning: Script Msg called by: MainLevel_C /Game/Levels/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.MainLevel_C_1
+[2023.10.13-15.42.24:123][512]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array RockTestList [2/1]!
+[2023.10.13-15.42.24:123][512]LogScript: Warning: Script Msg called by: MainLevel_C /Game/Levels/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.MainLevel_C_1
+[2023.10.13-15.42.24:126][512]vr.PixelDensity = "1"
+[2023.10.13-15.42.24:133][512]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Player Data 2.sav' error.
+[2023.10.13-15.42.24:133][512]LogLoad: Took 0.227538 seconds to LoadMap(/Game/Levels/MainLevel)
+[2023.10.13-15.42.24:143][512]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambient'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.13-15.42.24:181][513]LogShaderCompilers: Display: ================================================
+[2023.10.13-15.42.24:181][513]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.13-15.42.24:181][513]LogShaderCompilers: Display: Total job queries 292, among them cache hits 177 (60.62%)
+[2023.10.13-15.42.24:181][513]LogShaderCompilers: Display: Tracking 115 distinct input hashes that result in 93 distinct outputs (80.87%)
+[2023.10.13-15.42.24:181][513]LogShaderCompilers: Display: RAM used: 3.90 MiB of 1.60 GiB budget. Usage: 0.24%
+[2023.10.13-15.42.24:181][513]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.13-15.42.24:181][513]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.13-15.42.24:181][513]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.10.13-15.42.24:181][513]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.13-15.42.24:181][513]LogShaderCompilers: Display: ================================================
+[2023.10.13-15.42.24:210][514]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2023.10.13-15.42.48:534][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.13-15.42.48:534][140]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.10.13-15.42.48:578][140]LogSlate: Window 'EAESFieldLabVR Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.10.13-15.42.48:583][140]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.13-15.42.48:584][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-15.42.48:588][140]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.13-15.42.48:596][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.13-15.42.48:642][140]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.13-15.42.48:642][140]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.10.13-15.42.48:642][140]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.10.13-15.42.48:642][140]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.10.13-15.42.48:645][140]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.10.13-15.42.48:655][140]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.13-15.42.48:656][140]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.13-15.42.48:659][140]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.10.13-15.42.48:719][141]LogPlayLevel: Display: Destroying online subsystem :Context_44
