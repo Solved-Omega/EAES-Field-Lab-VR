@@ -1668,3 +1668,392 @@ Script Stack (0 frames) :
 [2023.10.19-03.51.42:649][799]LogFileHelpers: InternalPromptForCheckoutAndSave took 163 ms (total: 6.01 sec)
 [2023.10.19-03.51.42:658][799]AssetCheck: New page: Asset Save: PauseMenuWidget
 [2023.10.19-03.51.42:658][799]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/PauseMenuWidget.PauseMenuWidget
+[2023.10.19-03.52.20:997][207]LogSlate: Window 'SavePermanentData' being destroyed
+[2023.10.19-03.52.21:002][207]LogSlate: Window 'SavePermanentData' being destroyed
+[2023.10.19-03.52.21:072][207]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.10.19-03.52.21:072][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.19-03.52.21:086][207]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.10.19-03.52.21:086][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.19-03.52.21:241][207]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.10.19-03.52.21:241][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.19-03.52.26:535][831]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/ActorSpawner/RockInventoryWidget.RockInventoryWidget
+[2023.10.19-03.52.26:535][831]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.52.26:535][831]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.19-03.52.26:544][831]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.52.26:544][831]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.19-03.52.40:062][196]BlueprintLog: New page: Compile RockInventoryWidget
+[2023.10.19-03.52.40:147][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.10.19-03.52.40:856][253]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-03.52.40:936][253]LogSavePackage: Moving output files for package: /Game/Widgets/ActorSpawner/RockInventoryWidget
+[2023.10.19-03.52.40:937][253]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockInventoryWidget25E6EA2D491CB634BDEEB0845DB67345.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/ActorSpawner/RockInventoryWidget.uasset'
+[2023.10.19-03.52.40:944][253]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 6.10 sec)
+[2023.10.19-03.52.40:951][253]AssetCheck: New page: Asset Save: RockInventoryWidget
+[2023.10.19-03.52.40:951][253]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/ActorSpawner/RockInventoryWidget.RockInventoryWidget
+[2023.10.19-03.53.01:019][151]BlueprintLog: New page: Compile RockInventoryWidget
+[2023.10.19-03.53.01:103][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.10.19-03.53.01:657][176]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-03.53.01:738][176]LogSavePackage: Moving output files for package: /Game/Widgets/ActorSpawner/RockInventoryWidget
+[2023.10.19-03.53.01:739][176]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockInventoryWidgetEF4D56EE4222031BA4EF33A6B5276B6F.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/ActorSpawner/RockInventoryWidget.uasset'
+[2023.10.19-03.53.01:745][176]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 6.18 sec)
+[2023.10.19-03.53.01:753][176]AssetCheck: New page: Asset Save: RockInventoryWidget
+[2023.10.19-03.53.01:753][176]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/ActorSpawner/RockInventoryWidget.RockInventoryWidget
+[2023.10.19-03.53.03:762][299]LogSlate: Window 'RockInventoryWidget' being destroyed
+[2023.10.19-03.53.03:766][299]LogSlate: Window 'RockInventoryWidget' being destroyed
+[2023.10.19-03.53.03:773][299]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.10.19-03.53.03:773][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.19-03.53.03:786][299]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2023.10.19-03.53.03:786][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.19-03.53.11:047][156]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.53.11:344][156]LogShaderCompilers: Display: ================================================
+[2023.10.19-03.53.11:345][156]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.19-03.53.11:345][156]LogShaderCompilers: Display: Total job queries 12, among them cache hits 0 (0.00%)
+[2023.10.19-03.53.11:345][156]LogShaderCompilers: Display: Tracking 12 distinct input hashes that result in 8 distinct outputs (66.67%)
+[2023.10.19-03.53.11:345][156]LogShaderCompilers: Display: RAM used: 411.61 KiB of 1.60 GiB budget. Usage: 0.02%
+[2023.10.19-03.53.11:345][156]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.19-03.53.11:345][156]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.19-03.53.11:345][156]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.10.19-03.53.11:345][156]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.19-03.53.11:345][156]LogShaderCompilers: Display: ================================================
+[2023.10.19-03.53.13:456][402]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.53.14:604][530]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.53.14:642][531]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.53.14:654][532]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.53.14:678][533]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.53.14:699][534]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.53.14:717][535]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.53.14:737][536]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.53.14:758][537]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.53.14:777][538]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.53.14:801][539]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.53.14:820][540]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.53.14:836][541]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.53.14:856][542]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.53.14:873][543]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.53.14:893][544]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.53.14:916][545]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.53.14:938][546]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.53.14:959][547]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.53.15:250][578]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PresetRocks/Preset_Rock_Parent.Preset_Rock_Parent
+[2023.10.19-03.53.15:250][578]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.53.15:251][578]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.19-03.53.57:341][780]BlueprintLog: New page: Compile Preset_Rock_Parent
+[2023.10.19-03.53.57:539][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.10.19-03.53.58:149][815]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-03.53.58:217][815]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Preset_Rock_Parent
+[2023.10.19-03.53.58:218][815]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Preset_Rock_Parent1F5B033A4425D810CF7ABC863FBDF9F4.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Preset_Rock_Parent.uasset'
+[2023.10.19-03.53.58:223][815]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 6.26 sec)
+[2023.10.19-03.53.58:233][815]AssetCheck: New page: Asset Save: Preset_Rock_Parent
+[2023.10.19-03.53.58:233][815]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Preset_Rock_Parent.Preset_Rock_Parent
+[2023.10.19-03.54.17:347][185]LogSlate: Window 'Preset_Rock_Parent' being destroyed
+[2023.10.19-03.54.17:351][185]LogSlate: Window 'Preset_Rock_Parent' being destroyed
+[2023.10.19-03.54.17:363][185]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2023.10.19-03.54.17:363][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.19-03.54.19:914][479]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/CustomModels/CustomRockModel.CustomRockModel
+[2023.10.19-03.54.19:914][479]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.54.19:914][479]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.19-03.54.31:597][455]BlueprintLog: New page: Compile CustomRockModel
+[2023.10.19-03.54.31:721][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.10.19-03.54.32:307][483]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-03.54.32:385][483]LogSavePackage: Moving output files for package: /Game/Blueprints/CustomModels/CustomRockModel
+[2023.10.19-03.54.32:386][483]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomRockModel6B7B07424BE922072F7728AECAFB3226.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/CustomModels/CustomRockModel.uasset'
+[2023.10.19-03.54.32:391][483]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 6.34 sec)
+[2023.10.19-03.54.32:401][483]AssetCheck: New page: Asset Save: CustomRockModel
+[2023.10.19-03.54.32:401][483]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/CustomModels/CustomRockModel.CustomRockModel
+[2023.10.19-03.57.01:115][858]BlueprintLog: New page: Compile CustomRockModel
+[2023.10.19-03.57.01:233][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.10.19-03.57.01:728][880]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-03.57.01:821][880]LogSavePackage: Moving output files for package: /Game/Blueprints/CustomModels/CustomRockModel
+[2023.10.19-03.57.01:821][880]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomRockModel2DDBC40F42601451EF79858CF67F73E0.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/CustomModels/CustomRockModel.uasset'
+[2023.10.19-03.57.01:827][880]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 6.44 sec)
+[2023.10.19-03.57.01:836][880]AssetCheck: New page: Asset Save: CustomRockModel
+[2023.10.19-03.57.01:836][880]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/CustomModels/CustomRockModel.CustomRockModel
+[2023.10.19-03.57.15:055][916]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-03.57.15:132][916]LogSavePackage: Moving output files for package: /Game/Blueprints/CustomModels/CustomRockModel
+[2023.10.19-03.57.15:143][916]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomRockModel5075EBF44A5FCE863EEDADBC4E865F6F.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/CustomModels/CustomRockModel.uasset'
+[2023.10.19-03.57.15:148][916]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 6.54 sec)
+[2023.10.19-03.57.15:156][916]AssetCheck: New page: Asset Save: CustomRockModel
+[2023.10.19-03.57.15:156][916]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/CustomModels/CustomRockModel.CustomRockModel
+[2023.10.19-03.57.21:346][272]LogSlate: Window 'CustomRockModel' being destroyed
+[2023.10.19-03.57.21:350][272]LogSlate: Window 'CustomRockModel' being destroyed
+[2023.10.19-03.57.21:361][272]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2023.10.19-03.57.21:361][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.19-03.57.30:618][367]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/Notification/NotificationWidget.NotificationWidget
+[2023.10.19-03.57.30:619][367]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.57.30:619][367]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.19-03.57.30:626][367]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.57.30:626][367]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.19-03.58.07:650][756]BlueprintLog: New page: Compile NotificationWidget
+[2023.10.19-03.58.07:713][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.10.19-03.58.07:736][756]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-03.58.07:777][756]LogSavePackage: Moving output files for package: /Game/Widgets/Notification/NotificationWidget
+[2023.10.19-03.58.07:778][756]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/NotificationWidget1A3BEED94652F84ECB92429486AA2950.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/Notification/NotificationWidget.uasset'
+[2023.10.19-03.58.07:784][756]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 6.58 sec)
+[2023.10.19-03.58.07:792][756]AssetCheck: New page: Asset Save: NotificationWidget
+[2023.10.19-03.58.07:792][756]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Notification/NotificationWidget.NotificationWidget
+[2023.10.19-03.58.08:560][843]LogSlate: Window 'NotificationWidget' being destroyed
+[2023.10.19-03.58.08:564][843]LogSlate: Window 'NotificationWidget' being destroyed
+[2023.10.19-03.58.08:571][843]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2023.10.19-03.58.08:572][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.19-03.58.08:586][843]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2023.10.19-03.58.08:586][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.19-03.58.13:615][436]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/RockTest/RockWidget.RockWidget
+[2023.10.19-03.58.13:615][436]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.58.13:615][436]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.19-03.58.13:622][436]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.58.13:622][436]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.19-03.58.49:907][162]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/RockTest/RockWidgetTestTemplate.RockWidgetTestTemplate
+[2023.10.19-03.58.49:907][162]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.58.49:907][162]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.19-03.58.49:914][162]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.58.49:915][162]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.19-03.58.51:753][363]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/RockTest/RockTestTemplate.RockTestTemplate
+[2023.10.19-03.58.51:753][363]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.58.51:753][363]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.19-03.58.51:761][363]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-03.58.51:761][363]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.19-03.59.58:901][622]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2023.10.19-03.59.58:926][622]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.19-04.01.14:428][873]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.19-04.01.36:316][198]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.19-04.02.00:537][830]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.19-04.02.03:653][137]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.19-04.02.27:921][989]BlueprintLog: New page: Compile RockWidget
+[2023.10.19-04.02.27:995][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.10.19-04.02.28:015][989]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-04.02.28:065][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/RockTest/RockWidget" FILE="C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockWidget.uasset" SILENT=true
+[2023.10.19-04.02.28:084][989]LogSavePackage: Moving output files for package: /Game/Widgets/RockTest/RockWidget
+[2023.10.19-04.02.28:084][989]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockWidgetCCB1BC024A06A6D397C1CFBF9450E1AE.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockWidget.uasset'
+[2023.10.19-04.02.28:090][989]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 6.66 sec)
+[2023.10.19-04.02.28:100][989]AssetCheck: New page: Asset Save: RockWidget
+[2023.10.19-04.02.28:100][989]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/RockTest/RockWidget.RockWidget
+[2023.10.19-04.03.50:929][671]BlueprintLog: New page: Compile RockWidget
+[2023.10.19-04.03.51:001][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.10.19-04.03.51:028][671]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-04.03.51:081][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/RockTest/RockWidget" FILE="C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockWidget.uasset" SILENT=true
+[2023.10.19-04.03.51:098][671]LogSavePackage: Moving output files for package: /Game/Widgets/RockTest/RockWidget
+[2023.10.19-04.03.51:099][671]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockWidget507CD5CA4C34D33A5C4D7193A11DEB42.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockWidget.uasset'
+[2023.10.19-04.03.51:105][671]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 6.73 sec)
+[2023.10.19-04.03.51:114][671]AssetCheck: New page: Asset Save: RockWidget
+[2023.10.19-04.03.51:114][671]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/RockTest/RockWidget.RockWidget
+[2023.10.19-04.04.15:900][581]BlueprintLog: New page: Compile RockWidget
+[2023.10.19-04.04.15:969][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.10.19-04.04.15:990][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-04.04.16:030][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/RockTest/RockWidget" FILE="C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockWidget.uasset" SILENT=true
+[2023.10.19-04.04.16:047][581]LogSavePackage: Moving output files for package: /Game/Widgets/RockTest/RockWidget
+[2023.10.19-04.04.16:048][581]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockWidget4360419C4322559D673AD2980FFB09A5.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockWidget.uasset'
+[2023.10.19-04.04.16:054][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 6.80 sec)
+[2023.10.19-04.04.16:066][581]AssetCheck: New page: Asset Save: RockWidget
+[2023.10.19-04.04.16:066][581]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/RockTest/RockWidget.RockWidget
+[2023.10.19-04.04.16:745][651]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-04.04.16:776][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/RockTest/RockWidget" FILE="C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockWidget.uasset" SILENT=true
+[2023.10.19-04.04.16:792][651]LogSavePackage: Moving output files for package: /Game/Widgets/RockTest/RockWidget
+[2023.10.19-04.04.16:793][651]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockWidget603E4F9A45C7EA70B052269B71D4483F.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockWidget.uasset'
+[2023.10.19-04.04.16:798][651]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 6.85 sec)
+[2023.10.19-04.04.16:806][651]AssetCheck: New page: Asset Save: RockWidget
+[2023.10.19-04.04.16:806][651]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/RockTest/RockWidget.RockWidget
+[2023.10.19-04.04.22:413][306]BlueprintLog: New page: Compile RockWidget
+[2023.10.19-04.04.22:481][306]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.10.19-04.04.22:500][306]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-04.04.22:552][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/RockTest/RockWidget" FILE="C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockWidget.uasset" SILENT=true
+[2023.10.19-04.04.22:569][306]LogSavePackage: Moving output files for package: /Game/Widgets/RockTest/RockWidget
+[2023.10.19-04.04.22:570][306]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockWidget1BF174C646D10BE6AB57E28C3F3E72B8.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockWidget.uasset'
+[2023.10.19-04.04.22:576][306]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 6.93 sec)
+[2023.10.19-04.04.22:584][306]AssetCheck: New page: Asset Save: RockWidget
+[2023.10.19-04.04.22:584][306]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/RockTest/RockWidget.RockWidget
+[2023.10.19-04.04.22:929][339]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-04.04.22:976][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/RockTest/RockWidget" FILE="C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockWidget.uasset" SILENT=true
+[2023.10.19-04.04.22:991][339]LogSavePackage: Moving output files for package: /Game/Widgets/RockTest/RockWidget
+[2023.10.19-04.04.22:992][339]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockWidgetF22A17294DCCD03369693F86C728F8C5.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockWidget.uasset'
+[2023.10.19-04.04.22:997][339]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 7.00 sec)
+[2023.10.19-04.04.23:006][339]AssetCheck: New page: Asset Save: RockWidget
+[2023.10.19-04.04.23:006][339]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/RockTest/RockWidget.RockWidget
+[2023.10.19-04.04.33:034][531]BlueprintLog: New page: Compile RockWidget
+[2023.10.19-04.04.33:102][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.10.19-04.04.33:120][531]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-04.04.33:166][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/RockTest/RockWidget" FILE="C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockWidget.uasset" SILENT=true
+[2023.10.19-04.04.33:183][531]LogSavePackage: Moving output files for package: /Game/Widgets/RockTest/RockWidget
+[2023.10.19-04.04.33:183][531]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockWidgetC9142CEE42861EB729CD0EB6C82F2FA8.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockWidget.uasset'
+[2023.10.19-04.04.33:189][531]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 7.07 sec)
+[2023.10.19-04.04.33:198][531]AssetCheck: New page: Asset Save: RockWidget
+[2023.10.19-04.04.33:198][531]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/RockTest/RockWidget.RockWidget
+[2023.10.19-04.04.43:234][704]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2023.10.19-04.04.43:234][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.19-04.04.43:251][704]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2023.10.19-04.04.43:251][704]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.19-04.04.53:080][722]LogEditorTransaction: Undo Break Pin Link
+[2023.10.19-04.04.53:541][732]LogEditorTransaction: Undo Move Node
+[2023.10.19-04.05.09:106][418]LogEditorTransaction: Undo Move Node
+[2023.10.19-04.06.10:958][469]BlueprintLog: New page: Compile RockWidgetTestTemplate
+[2023.10.19-04.06.11:024][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.10.19-04.06.11:051][469]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-04.06.11:128][469]LogSavePackage: Moving output files for package: /Game/Widgets/RockTest/RockWidgetTestTemplate
+[2023.10.19-04.06.11:129][469]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockWidgetTestTemplate2C6AAFC44FBDDBF1C5010FB8C7889372.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockWidgetTestTemplate.uasset'
+[2023.10.19-04.06.11:135][469]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 7.15 sec)
+[2023.10.19-04.06.11:144][469]AssetCheck: New page: Asset Save: RockWidgetTestTemplate
+[2023.10.19-04.06.11:144][469]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/RockTest/RockWidgetTestTemplate.RockWidgetTestTemplate
+[2023.10.19-04.06.11:583][511]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-04.06.11:631][511]LogSavePackage: Moving output files for package: /Game/Widgets/RockTest/RockWidgetTestTemplate
+[2023.10.19-04.06.11:632][511]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockWidgetTestTemplate8B4FA00A4179F2D32A8A07B6B8A1E8EB.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockWidgetTestTemplate.uasset'
+[2023.10.19-04.06.11:639][511]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 7.21 sec)
+[2023.10.19-04.06.11:649][511]AssetCheck: New page: Asset Save: RockWidgetTestTemplate
+[2023.10.19-04.06.11:649][511]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/RockTest/RockWidgetTestTemplate.RockWidgetTestTemplate
+[2023.10.19-04.06.21:602][651]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.19-04.06.27:358][291]LogSlate: Window 'Color Picker' being destroyed
+[2023.10.19-04.06.29:006][482]BlueprintLog: New page: Compile RockWidgetTestTemplate
+[2023.10.19-04.06.29:067][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.10.19-04.06.29:099][482]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-04.06.29:178][482]LogSavePackage: Moving output files for package: /Game/Widgets/RockTest/RockWidgetTestTemplate
+[2023.10.19-04.06.29:179][482]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockWidgetTestTemplateB94D9FE04A219506A79B42B4C6F9F73E.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockWidgetTestTemplate.uasset'
+[2023.10.19-04.06.29:184][482]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 7.29 sec)
+[2023.10.19-04.06.29:194][482]AssetCheck: New page: Asset Save: RockWidgetTestTemplate
+[2023.10.19-04.06.29:194][482]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/RockTest/RockWidgetTestTemplate.RockWidgetTestTemplate
+[2023.10.19-04.06.29:652][527]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-04.06.29:714][527]LogSavePackage: Moving output files for package: /Game/Widgets/RockTest/RockWidgetTestTemplate
+[2023.10.19-04.06.29:715][527]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockWidgetTestTemplate307026AF47346A539E2A40A0A592CCE7.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockWidgetTestTemplate.uasset'
+[2023.10.19-04.06.29:720][527]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 7.36 sec)
+[2023.10.19-04.06.29:729][527]AssetCheck: New page: Asset Save: RockWidgetTestTemplate
+[2023.10.19-04.06.29:729][527]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/RockTest/RockWidgetTestTemplate.RockWidgetTestTemplate
+[2023.10.19-04.07.51:109][534]BlueprintLog: New page: Compile RockWidgetTestTemplate
+[2023.10.19-04.07.51:168][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.10.19-04.07.51:187][534]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-04.07.51:252][534]LogSavePackage: Moving output files for package: /Game/Widgets/RockTest/RockWidgetTestTemplate
+[2023.10.19-04.07.51:252][534]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockWidgetTestTemplate27BFC8524454780F68AC7EA6C7AB9DA0.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockWidgetTestTemplate.uasset'
+[2023.10.19-04.07.51:258][534]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 7.43 sec)
+[2023.10.19-04.07.51:267][534]AssetCheck: New page: Asset Save: RockWidgetTestTemplate
+[2023.10.19-04.07.51:267][534]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/RockTest/RockWidgetTestTemplate.RockWidgetTestTemplate
+[2023.10.19-04.07.51:579][563]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-04.07.51:631][563]LogSavePackage: Moving output files for package: /Game/Widgets/RockTest/RockWidgetTestTemplate
+[2023.10.19-04.07.51:632][563]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockWidgetTestTemplate9D5327F6467725C6672B77BCB2FCFE72.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockWidgetTestTemplate.uasset'
+[2023.10.19-04.07.51:638][563]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 7.49 sec)
+[2023.10.19-04.07.51:646][563]AssetCheck: New page: Asset Save: RockWidgetTestTemplate
+[2023.10.19-04.07.51:646][563]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/RockTest/RockWidgetTestTemplate.RockWidgetTestTemplate
+[2023.10.19-04.08.13:483][ 92]BlueprintLog: New page: Compile RockWidgetTestTemplate
+[2023.10.19-04.08.13:540][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.10.19-04.08.13:566][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-04.08.13:641][ 92]LogSavePackage: Moving output files for package: /Game/Widgets/RockTest/RockWidgetTestTemplate
+[2023.10.19-04.08.13:642][ 92]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockWidgetTestTemplate381FCD184DB07F785712A9AEE3FA15BA.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockWidgetTestTemplate.uasset'
+[2023.10.19-04.08.13:650][ 92]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 7.57 sec)
+[2023.10.19-04.08.13:659][ 92]AssetCheck: New page: Asset Save: RockWidgetTestTemplate
+[2023.10.19-04.08.13:659][ 92]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/RockTest/RockWidgetTestTemplate.RockWidgetTestTemplate
+[2023.10.19-04.08.14:059][128]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-04.08.14:127][128]LogSavePackage: Moving output files for package: /Game/Widgets/RockTest/RockWidgetTestTemplate
+[2023.10.19-04.08.14:128][128]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockWidgetTestTemplate370227FC428F80D7EF8DDF96474A53F3.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockWidgetTestTemplate.uasset'
+[2023.10.19-04.08.14:134][128]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 7.65 sec)
+[2023.10.19-04.08.14:144][128]AssetCheck: New page: Asset Save: RockWidgetTestTemplate
+[2023.10.19-04.08.14:144][128]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/RockTest/RockWidgetTestTemplate.RockWidgetTestTemplate
+[2023.10.19-04.08.26:827][548]BlueprintLog: New page: Compile RockWidgetTestTemplate
+[2023.10.19-04.08.26:887][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.10.19-04.08.26:909][548]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-04.08.26:977][548]LogSavePackage: Moving output files for package: /Game/Widgets/RockTest/RockWidgetTestTemplate
+[2023.10.19-04.08.26:988][548]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockWidgetTestTemplate7900780A42AF47B957B1908FB7325DB5.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockWidgetTestTemplate.uasset'
+[2023.10.19-04.08.26:994][548]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 7.73 sec)
+[2023.10.19-04.08.27:001][548]AssetCheck: New page: Asset Save: RockWidgetTestTemplate
+[2023.10.19-04.08.27:002][548]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/RockTest/RockWidgetTestTemplate.RockWidgetTestTemplate
+[2023.10.19-04.08.27:500][598]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-04.08.27:572][598]LogSavePackage: Moving output files for package: /Game/Widgets/RockTest/RockWidgetTestTemplate
+[2023.10.19-04.08.27:573][598]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockWidgetTestTemplateFAC2269D4570FA6E37B530B545F5A32C.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockWidgetTestTemplate.uasset'
+[2023.10.19-04.08.27:579][598]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 7.81 sec)
+[2023.10.19-04.08.27:588][598]AssetCheck: New page: Asset Save: RockWidgetTestTemplate
+[2023.10.19-04.08.27:588][598]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/RockTest/RockWidgetTestTemplate.RockWidgetTestTemplate
+[2023.10.19-04.08.50:824][ 72]BlueprintLog: New page: Compile RockWidgetTestTemplate
+[2023.10.19-04.08.50:888][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.10.19-04.08.50:913][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-04.08.50:964][ 72]LogSavePackage: Moving output files for package: /Game/Widgets/RockTest/RockWidgetTestTemplate
+[2023.10.19-04.08.50:965][ 72]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockWidgetTestTemplateC319036649A3500ED49E5390ACC9A999.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockWidgetTestTemplate.uasset'
+[2023.10.19-04.08.50:971][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 7.87 sec)
+[2023.10.19-04.08.50:981][ 72]AssetCheck: New page: Asset Save: RockWidgetTestTemplate
+[2023.10.19-04.08.50:981][ 72]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/RockTest/RockWidgetTestTemplate.RockWidgetTestTemplate
+[2023.10.19-04.08.51:797][151]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-04.08.51:868][151]LogSavePackage: Moving output files for package: /Game/Widgets/RockTest/RockWidgetTestTemplate
+[2023.10.19-04.08.51:869][151]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockWidgetTestTemplate08E99E8B48BDA35A792703B96A89CBCB.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockWidgetTestTemplate.uasset'
+[2023.10.19-04.08.51:875][151]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 7.95 sec)
+[2023.10.19-04.08.51:884][151]AssetCheck: New page: Asset Save: RockWidgetTestTemplate
+[2023.10.19-04.08.51:884][151]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/RockTest/RockWidgetTestTemplate.RockWidgetTestTemplate
+[2023.10.19-04.09.12:339][565]BlueprintLog: New page: Compile RockWidgetTestTemplate
+[2023.10.19-04.09.12:397][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.10.19-04.09.12:412][565]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-04.09.12:474][565]LogSavePackage: Moving output files for package: /Game/Widgets/RockTest/RockWidgetTestTemplate
+[2023.10.19-04.09.12:475][565]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockWidgetTestTemplate0543449941DDD4FFCD2A07B35B61AA51.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockWidgetTestTemplate.uasset'
+[2023.10.19-04.09.12:482][565]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 8.02 sec)
+[2023.10.19-04.09.12:492][565]AssetCheck: New page: Asset Save: RockWidgetTestTemplate
+[2023.10.19-04.09.12:492][565]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/RockTest/RockWidgetTestTemplate.RockWidgetTestTemplate
+[2023.10.19-04.09.16:409][997]BlueprintLog: New page: Compile RockWidgetTestTemplate
+[2023.10.19-04.09.16:467][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.10.19-04.09.59:899][991]BlueprintLog: New page: Compile RockTestTemplate
+[2023.10.19-04.09.59:961][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.10.19-04.09.59:978][991]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-04.10.00:020][991]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/RockTest/RockTestTemplate" FILE="C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockTestTemplate.uasset" SILENT=true
+[2023.10.19-04.10.00:028][991]LogSavePackage: Moving output files for package: /Game/Widgets/RockTest/RockTestTemplate
+[2023.10.19-04.10.00:029][991]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockTestTemplate6DFC995D4C24ACE67711F6ADD3A3B214.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockTestTemplate.uasset'
+[2023.10.19-04.10.00:036][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 8.08 sec)
+[2023.10.19-04.10.00:047][991]AssetCheck: New page: Asset Save: RockTestTemplate
+[2023.10.19-04.10.00:047][991]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/RockTest/RockTestTemplate.RockTestTemplate
+[2023.10.19-04.10.00:494][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-04.10.00:537][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/RockTest/RockTestTemplate" FILE="C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockTestTemplate.uasset" SILENT=true
+[2023.10.19-04.10.00:545][ 32]LogSavePackage: Moving output files for package: /Game/Widgets/RockTest/RockTestTemplate
+[2023.10.19-04.10.00:546][ 32]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockTestTemplateB60D88554BA33B1FE9F52A9933A515A1.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockTestTemplate.uasset'
+[2023.10.19-04.10.00:551][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 8.13 sec)
+[2023.10.19-04.10.00:559][ 32]AssetCheck: New page: Asset Save: RockTestTemplate
+[2023.10.19-04.10.00:559][ 32]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/RockTest/RockTestTemplate.RockTestTemplate
+[2023.10.19-04.10.03:114][333]BlueprintLog: New page: Compile RockTestTemplate
+[2023.10.19-04.10.03:176][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.10.19-04.10.03:190][333]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-04.10.03:220][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/RockTest/RockTestTemplate" FILE="C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockTestTemplate.uasset" SILENT=true
+[2023.10.19-04.10.03:228][333]LogSavePackage: Moving output files for package: /Game/Widgets/RockTest/RockTestTemplate
+[2023.10.19-04.10.03:229][333]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockTestTemplate09E8ECC84023ED965F198EA752D42473.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockTestTemplate.uasset'
+[2023.10.19-04.10.03:236][333]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 8.18 sec)
+[2023.10.19-04.10.03:244][333]AssetCheck: New page: Asset Save: RockTestTemplate
+[2023.10.19-04.10.03:244][333]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/RockTest/RockTestTemplate.RockTestTemplate
+[2023.10.19-04.10.03:599][369]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-04.10.03:646][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/RockTest/RockTestTemplate" FILE="C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockTestTemplate.uasset" SILENT=true
+[2023.10.19-04.10.03:654][369]LogSavePackage: Moving output files for package: /Game/Widgets/RockTest/RockTestTemplate
+[2023.10.19-04.10.03:654][369]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockTestTemplate4C8208AE4527E2317802ECA34BEBB130.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockTestTemplate.uasset'
+[2023.10.19-04.10.03:660][369]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 8.24 sec)
+[2023.10.19-04.10.03:668][369]AssetCheck: New page: Asset Save: RockTestTemplate
+[2023.10.19-04.10.03:668][369]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/RockTest/RockTestTemplate.RockTestTemplate
+[2023.10.19-04.10.24:542][115]BlueprintLog: New page: Compile RockTestTemplate
+[2023.10.19-04.10.24:603][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.10.19-04.10.24:616][115]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-04.10.24:665][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/RockTest/RockTestTemplate" FILE="C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockTestTemplate.uasset" SILENT=true
+[2023.10.19-04.10.24:673][115]LogSavePackage: Moving output files for package: /Game/Widgets/RockTest/RockTestTemplate
+[2023.10.19-04.10.24:673][115]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockTestTemplateB09EBAD94FF1BF6AC39F43A5A71E827E.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockTestTemplate.uasset'
+[2023.10.19-04.10.24:680][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 8.30 sec)
+[2023.10.19-04.10.24:687][115]AssetCheck: New page: Asset Save: RockTestTemplate
+[2023.10.19-04.10.24:687][115]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/RockTest/RockTestTemplate.RockTestTemplate
+[2023.10.19-04.10.29:263][651]LogSlate: Window 'RockTestTemplate' being destroyed
+[2023.10.19-04.10.29:268][651]LogSlate: Window 'RockTestTemplate' being destroyed
+[2023.10.19-04.10.29:279][651]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2023.10.19-04.10.29:279][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.19-04.10.29:294][651]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2023.10.19-04.10.29:294][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.19-04.10.29:338][651]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2023.10.19-04.10.29:338][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.19-04.10.29:351][651]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2023.10.19-04.10.29:351][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.19-04.10.34:196][225]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-04.10.34:236][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainMenuLevel" FILE="C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Levels/MainMenuLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.19-04.10.34:257][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.10.19-04.10.34:280][225]LogSavePackage: Moving output files for package: /Game/Levels/MainMenuLevel
+[2023.10.19-04.10.34:281][225]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/MainMenuLevel623C1E3E4EAF8C190F76BF947A1864F9.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Levels/MainMenuLevel.umap'
+[2023.10.19-04.10.34:292][225]LogFileHelpers: Saving map 'MainMenuLevel' took 0.057
+[2023.10.19-04.10.34:297][225]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 8.40 sec)
+[2023.10.19-04.10.34:305][225]AssetCheck: New page: Asset Save: MainMenuLevel
+[2023.10.19-04.10.34:305][225]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/MainMenuLevel.MainMenuLevel
+[2023.10.19-04.10.40:910][ 12]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/Journal/JournalWidgetV2.JournalWidgetV2
+[2023.10.19-04.10.40:910][ 12]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-04.10.40:910][ 12]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.19-04.10.40:917][ 12]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.19-04.10.40:917][ 12]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.19-04.10.50:827][884]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.19-04.10.50:868][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/Journal/JournalWidgetV2" FILE="C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/Journal/JournalWidgetV2.uasset" SILENT=true
+[2023.10.19-04.10.50:916][884]LogSavePackage: Moving output files for package: /Game/Widgets/Journal/JournalWidgetV2
+[2023.10.19-04.10.50:916][884]LogSavePackage: Moving 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/JournalWidgetV2D5F8DCB2495C442AF45FBF9DD98D5A91.tmp' to 'C:/Users/macap/Downloads/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/Journal/JournalWidgetV2.uasset'
+[2023.10.19-04.10.50:922][884]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 8.50 sec)
+[2023.10.19-04.10.50:931][884]AssetCheck: New page: Asset Save: JournalWidgetV2
+[2023.10.19-04.10.50:931][884]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/Journal/JournalWidgetV2.JournalWidgetV2
+[2023.10.19-04.10.51:763][942]LogSlate: Window 'JournalWidgetV2' being destroyed
+[2023.10.19-04.10.51:767][942]LogSlate: Window 'JournalWidgetV2' being destroyed
+[2023.10.19-04.10.51:775][942]LogWorld: UWorld::CleanupWorld for World_99, bSessionEnded=true, bCleanupResources=true
+[2023.10.19-04.10.51:775][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.19-04.10.51:790][942]LogWorld: UWorld::CleanupWorld for World_98, bSessionEnded=true, bCleanupResources=true
+[2023.10.19-04.10.51:790][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
