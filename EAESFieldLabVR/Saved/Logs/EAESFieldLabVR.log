@@ -5851,3 +5851,999 @@ Make sure 'VRPawn_C' has been compiled for  Get As VRPawn
 [2023.10.20-18.51.13:200][680]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
 [2023.10.20-18.51.13:202][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
 [2023.10.20-18.51.13:274][681]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2023.10.20-18.52.14:173][227]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.10.20-18.52.14:188][227]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.20-18.52.14:188][227]PIE: New page: PIE session: MainMenuLevel (Oct. 20, 2023, 4:52:14 a.m.)
+[2023.10.20-18.52.14:188][227]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.10.20-18.52.14:190][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002261s)
+[2023.10.20-18.52.14:190][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenuLevel.MainMenuLevel to /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel (0.002332s)
+[2023.10.20-18.52.14:190][227]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.20-18.52.14:190][227]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.20-18.52.14:191][227]LogAIModule: Creating AISystem for world MainMenuLevel
+[2023.10.20-18.52.14:191][227]LogPlayLevel: PIE: World Init took: (0.000718s)
+[2023.10.20-18.52.14:217][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.10.20-18.52.14:218][227]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.10.20-18.52.14:218][227]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.20-18.52.14:218][227]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.20-18.52.14:218][227]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.20-18.52.14:218][227]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.20-18.52.14:218][227]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.20-18.52.14:218][227]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.20-18.52.14:218][227]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.20-18.52.14:218][227]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.20-18.52.14:219][227]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.10.20-18.52.14:219][227]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.10.20-18.52.14:219][227]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.20-18.52.14:221][227]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.20-18.52.14:233][227]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2023.10.20-18.52.14:233][227]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.20-18.52.14:233][227]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.20-18.52.14:233][227]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.20-18.52.14:234][227]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.10.20-18.52.14:234][227]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.10.20-18.52.14:236][227]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.10.20-18.52.14:236][227]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.10.20-18.52.14:236][227]LogInit: FAudioDevice initialized with ID 16.
+[2023.10.20-18.52.14:236][227]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainMenuLevel'.
+[2023.10.20-18.52.14:236][227]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2023.10.20-18.52.14:262][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.20-18.52.14:459][227]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.20-18.52.14:460][227]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenuLevel.MainMenuLevel up for play (max tick rate 0) at 2023.10.20-11.52.14
+[2023.10.20-18.52.14:460][227]LogWorld: Bringing up level for play took: 0.000518
+[2023.10.20-18.52.14:463][227]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2023.10.20-18.52.14:466][227]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.20-18.52.14:469][227]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.20-18.52.14:472][227]vr.PixelDensity = "1"
+[2023.10.20-18.52.14:485][227]PIE: Server logged in
+[2023.10.20-18.52.14:489][227]PIE: Play in editor total start time 0.302 seconds.
+[2023.10.20-18.52.14:492][227]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.14:496][227]LogViewport: Scene viewport resized to 3648x1840, mode Windowed.
+[2023.10.20-18.52.14:501][227]LogHMD: Warning: Requesting 10 bit swapchain, but not supported: fall back to 8bpc
+[2023.10.20-18.52.14:515][227]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.10.20-18.52.20:492][ 15]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:492][ 15]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:492][ 15]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:505][ 16]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:505][ 16]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:505][ 16]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:519][ 17]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:519][ 17]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:519][ 17]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:534][ 18]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:534][ 18]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:534][ 18]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:547][ 19]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:548][ 19]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:548][ 19]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:561][ 20]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:561][ 20]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:561][ 20]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:575][ 21]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:575][ 21]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:575][ 21]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:589][ 22]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:589][ 22]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:589][ 22]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:603][ 23]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:603][ 23]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:603][ 23]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:617][ 24]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:617][ 24]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:617][ 24]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:631][ 25]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:631][ 25]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:631][ 25]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:644][ 26]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:644][ 26]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:644][ 26]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:659][ 27]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:659][ 27]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:659][ 27]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:672][ 28]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:672][ 28]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:672][ 28]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:686][ 29]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:686][ 29]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:686][ 29]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:700][ 30]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:700][ 30]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:700][ 30]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:714][ 31]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:714][ 31]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:714][ 31]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:728][ 32]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:728][ 32]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:728][ 32]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:743][ 33]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:743][ 33]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:743][ 33]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:756][ 34]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:756][ 34]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:756][ 34]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:770][ 35]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:770][ 35]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:770][ 35]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:784][ 36]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:784][ 36]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:784][ 36]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:798][ 37]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:798][ 37]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:798][ 37]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:812][ 38]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:812][ 38]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:812][ 38]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:826][ 39]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:826][ 39]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:826][ 39]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:840][ 40]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:840][ 40]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:840][ 40]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:854][ 41]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:854][ 41]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:854][ 41]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:867][ 42]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:868][ 42]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:868][ 42]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:882][ 43]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:882][ 43]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:882][ 43]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:895][ 44]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:895][ 44]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:896][ 44]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:910][ 45]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:910][ 45]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:910][ 45]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:924][ 46]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:924][ 46]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:924][ 46]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:938][ 47]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:938][ 47]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:938][ 47]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:952][ 48]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:952][ 48]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:952][ 48]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:965][ 49]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Player Data 1.sav' error.
+[2023.10.20-18.52.20:966][ 49]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.20:966][ 49]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 2.sav' error.
+[2023.10.20-18.52.20:966][ 49]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 3.sav' error.
+[2023.10.20-18.52.20:971][ 50]LogNet: Browse: /Game/Levels/MainLevel
+[2023.10.20-18.52.20:971][ 50]LogLoad: LoadMap: /Game/Levels/MainLevel
+[2023.10.20-18.52.20:971][ 50]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainMenuLevel
+[2023.10.20-18.52.20:972][ 50]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.20-18.52.20:972][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.20-18.52.21:030][ 50]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.20-18.52.21:031][ 50]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.20-18.52.21:031][ 50]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.20-18.52.21:034][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.10.20-18.52.21:147][ 50]LogAudio: Display: Audio Device (ID: 16) registered with world 'MainLevel'.
+[2023.10.20-18.52.21:147][ 50]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.20-18.52.21:147][ 50]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.20-18.52.21:147][ 50]LogAIModule: Creating AISystem for world MainLevel
+[2023.10.20-18.52.21:148][ 50]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2023.10.20-18.52.21:148][ 50]LogLoad: Game class is 'VRGameMode_C'
+[2023.10.20-18.52.21:185][ 50]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.10.20-11.52.21
+[2023.10.20-18.52.21:186][ 50]LogWorld: Bringing up level for play took: 0.036198
+[2023.10.20-18.52.21:189][ 50]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2023.10.20-18.52.21:191][ 50]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.10.20-18.52.21:199][ 50]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/User Settings.sav' error.
+[2023.10.20-18.52.21:199][ 50]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array RockTestList [2/1]!
+[2023.10.20-18.52.21:199][ 50]LogScript: Warning: Script Msg called by: MainLevel_C /Game/Levels/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.MainLevel_C_0
+[2023.10.20-18.52.21:199][ 50]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array RockTestList [2/1]!
+[2023.10.20-18.52.21:199][ 50]LogScript: Warning: Script Msg called by: MainLevel_C /Game/Levels/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.MainLevel_C_0
+[2023.10.20-18.52.21:199][ 50]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array RockTestList [2/1]!
+[2023.10.20-18.52.21:199][ 50]LogScript: Warning: Script Msg called by: MainLevel_C /Game/Levels/UEDPIE_0_MainLevel.MainLevel:PersistentLevel.MainLevel_C_0
+[2023.10.20-18.52.21:203][ 50]vr.PixelDensity = "1"
+[2023.10.20-18.52.21:211][ 50]LogLoad: Took 0.240142 seconds to LoadMap(/Game/Levels/MainLevel)
+[2023.10.20-18.52.21:220][ 50]LogStreaming: Warning: Failed to read file '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveGames/Map Data 1.sav' error.
+[2023.10.20-18.52.21:223][ 50]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'ambient'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.20-18.52.21:285][ 52]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2023.10.20-18.52.28:512][260]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.20-18.52.29:025][275]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.20-18.52.29:350][285]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.20-18.52.29:612][293]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.20-18.52.29:866][301]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.20-18.52.30:068][307]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.20-18.52.30:299][314]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.20-18.52.30:552][321]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.20-18.52.30:774][328]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.20-18.52.31:036][336]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.20-18.52.31:740][358]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.20-18.52.32:004][366]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.20-18.52.32:265][374]LogHMD: Warning: GetPlayAreaBounds xrGetReferenceSpaceBoundsRect with reference space XR_REFERENCE_SPACE_TYPE_STAGE failed with result XR_SPACE_BOUNDS_UNAVAILABLE. Returning zero vector.
+[2023.10.20-18.52.44:750][762]LogHttp: Warning: 0000069ADA0EF500: request failed, libcurl error: 37 (Couldn't read a file:// file)
+[2023.10.20-18.52.44:751][762]LogHttp: Warning: 0000069ADA0EF500: libcurl info message cache 0 (Couldn't open file C:/Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/ThinSection/Rock4.png)
+[2023.10.20-18.52.44:751][762]LogHttp: Warning: 0000069ADA0EF500: libcurl info message cache 1 (Closing connection -1)
+[2023.10.20-18.53.04:412][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.20-18.53.04:412][388]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.10.20-18.53.04:451][388]LogSlate: Window 'EAESFieldLabVR Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6) OpenXR Oculus (1.89.0)' being destroyed
+[2023.10.20-18.53.04:454][388]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.20-18.53.04:455][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.20-18.53.04:461][388]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.20-18.53.04:469][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.20-18.53.04:507][388]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2023.10.20-18.53.04:507][388]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.10.20-18.53.04:507][388]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.10.20-18.53.04:509][388]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.10.20-18.53.04:522][388]LogSlate: Slate User Unregistered.  User Index 8
+[2023.10.20-18.53.04:522][388]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.10.20-18.53.04:525][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.10.20-18.53.04:566][389]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2023.10.20-18.53.16:651][576]LogViewport: Scene viewport resized to 1014x360, mode Windowed.
+[2023.10.20-18.53.17:188][576]LogViewport: Scene viewport resized to 753x557, mode Windowed.
+[2023.10.20-18.53.23:063][818]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.10.20-18.53.23:063][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.20-18.53.27:358][897]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.10.20-18.53.27:358][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.20-18.53.27:372][897]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.10.20-18.53.27:372][897]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.20-18.53.28:665][952]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.10.20-18.53.28:665][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.20-18.53.28:679][952]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.10.20-18.53.28:679][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.20-18.56.11:286][248]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Misc/CustomRockStruct.CustomRockStruct
+[2023.10.20-19.02.01:779][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.10.20-19.02.01:783][940]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainMenuLevel' took 0.036
+[2023.10.20-19.02.01:784][940]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/PresetRocks/Preset_Rock_Parent] ([2] browsable assets)...
+[2023.10.20-19.02.01:824][940]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/PresetRocks/Preset_Rock_Parent.Preset_Rock_Parent]
+[2023.10.20-19.02.01:824][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PresetRocks/Preset_Rock_Parent]
+[2023.10.20-19.02.01:851][940]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/PresetRocks/Preset_Rock_Parent_Auto4
+[2023.10.20-19.02.01:851][940]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Preset_Rock_Parent_Auto4BAD86C914B8603FF6D7D4291187903BF.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Autosaves/Game/Blueprints/PresetRocks/Preset_Rock_Parent_Auto4.uasset'
+[2023.10.20-19.02.01:853][940]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Misc/RockStruct] ([1] browsable assets)...
+[2023.10.20-19.02.01:853][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/Misc/RockStruct]
+[2023.10.20-19.02.01:856][940]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Misc/RockStruct_Auto4
+[2023.10.20-19.02.01:856][940]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockStruct_Auto4B0726DF74AF8F9CDA7BE2A967BFCE1DF.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Autosaves/Game/Misc/RockStruct_Auto4.uasset'
+[2023.10.20-19.02.01:858][940]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/RockTest/RockWidgetTestTemplate] ([2] browsable assets)...
+[2023.10.20-19.02.01:862][940]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/RockTest/RockWidgetTestTemplate.RockWidgetTestTemplate]
+[2023.10.20-19.02.01:862][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/RockTest/RockWidgetTestTemplate]
+[2023.10.20-19.02.01:890][940]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/RockTest/RockWidgetTestTemplate_Auto4
+[2023.10.20-19.02.01:890][940]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockWidgetTestTemplate_Auto4151AEA8F4D2067A470B93DA633A4BDF4.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Autosaves/Game/Widgets/RockTest/RockWidgetTestTemplate_Auto4.uasset'
+[2023.10.20-19.02.01:891][940]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Misc/SaveMapData] ([2] browsable assets)...
+[2023.10.20-19.02.01:891][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/Misc/SaveMapData]
+[2023.10.20-19.02.01:893][940]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Misc/SaveMapData_Auto4
+[2023.10.20-19.02.01:893][940]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveMapData_Auto4C44B34414F0CEF9C0F7094AE9A5C0ECD.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Autosaves/Game/Misc/SaveMapData_Auto4.uasset'
+[2023.10.20-19.02.01:895][940]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/ActorSpawner/RockInventoryWidget] ([2] browsable assets)...
+[2023.10.20-19.02.01:898][940]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/ActorSpawner/RockInventoryWidget.RockInventoryWidget]
+[2023.10.20-19.02.01:898][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/ActorSpawner/RockInventoryWidget]
+[2023.10.20-19.02.01:933][940]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/ActorSpawner/RockInventoryWidget_Auto4
+[2023.10.20-19.02.01:933][940]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockInventoryWidget_Auto4CC02F51B4F1B62FFACD87B94712F39CF.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Autosaves/Game/Widgets/ActorSpawner/RockInventoryWidget_Auto4.uasset'
+[2023.10.20-19.02.01:934][940]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/CustomizeRock/CustomizeRockTestTemplate] ([2] browsable assets)...
+[2023.10.20-19.02.01:938][940]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/CustomizeRock/CustomizeRockTestTemplate.CustomizeRockTestTemplate]
+[2023.10.20-19.02.01:938][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/CustomizeRock/CustomizeRockTestTemplate]
+[2023.10.20-19.02.01:958][940]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/CustomizeRock/CustomizeRockTestTemplate_Auto4
+[2023.10.20-19.02.01:958][940]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockTestTemplate_Auto4CA8D5523493C3EB49D4558A343935D31.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Autosaves/Game/Widgets/CustomizeRock/CustomizeRockTestTemplate_Auto4.uasset'
+[2023.10.20-19.02.01:959][940]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/PauseMenu/PauseMenuWidget] ([2] browsable assets)...
+[2023.10.20-19.02.01:964][940]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/PauseMenu/PauseMenuWidget.PauseMenuWidget]
+[2023.10.20-19.02.01:964][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/PauseMenu/PauseMenuWidget]
+[2023.10.20-19.02.02:113][940]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/PauseMenu/PauseMenuWidget_Auto4
+[2023.10.20-19.02.02:114][940]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/PauseMenuWidget_Auto49A5C86E941A7A171C3A87FA8CA3016B1.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Autosaves/Game/Widgets/PauseMenu/PauseMenuWidget_Auto4.uasset'
+[2023.10.20-19.02.02:115][940]LogFileHelpers: Auto-saving content packages took 0.331
+[2023.10.20-19.04.08:952][328]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.20-19.04.09:006][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Misc/RockStruct" FILE="../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Misc/RockStruct.uasset" SILENT=true
+[2023.10.20-19.04.09:009][328]LogSavePackage: Moving output files for package: /Game/Misc/RockStruct
+[2023.10.20-19.04.09:010][328]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockStruct15F40F8C4012E1EFF79D7493C0E9BA98.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Misc/RockStruct.uasset'
+[2023.10.20-19.04.09:015][328]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 9.20 sec)
+[2023.10.20-19.04.09:028][328]AssetCheck: New page: Asset Save: RockStruct
+[2023.10.20-19.04.09:028][328]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Misc/RockStruct.RockStruct
+[2023.10.20-19.04.11:648][484]LogSlate: Window 'CustomRockStruct' being destroyed
+[2023.10.20-19.04.11:654][484]LogSlate: Window 'CustomRockStruct' being destroyed
+[2023.10.20-19.04.14:702][665]LogViewport: Scene viewport resized to 753x551, mode Windowed.
+[2023.10.20-19.04.14:720][666]LogViewport: Scene viewport resized to 753x544, mode Windowed.
+[2023.10.20-19.04.14:736][667]LogViewport: Scene viewport resized to 753x530, mode Windowed.
+[2023.10.20-19.04.14:753][668]LogViewport: Scene viewport resized to 753x490, mode Windowed.
+[2023.10.20-19.04.14:770][669]LogViewport: Scene viewport resized to 753x433, mode Windowed.
+[2023.10.20-19.04.14:791][670]LogViewport: Scene viewport resized to 753x402, mode Windowed.
+[2023.10.20-19.04.14:809][671]LogViewport: Scene viewport resized to 753x379, mode Windowed.
+[2023.10.20-19.04.14:825][672]LogViewport: Scene viewport resized to 753x359, mode Windowed.
+[2023.10.20-19.04.14:841][673]LogViewport: Scene viewport resized to 753x345, mode Windowed.
+[2023.10.20-19.04.14:859][674]LogViewport: Scene viewport resized to 753x337, mode Windowed.
+[2023.10.20-19.04.14:875][675]LogViewport: Scene viewport resized to 753x333, mode Windowed.
+[2023.10.20-19.04.14:892][676]LogViewport: Scene viewport resized to 753x330, mode Windowed.
+[2023.10.20-19.04.14:908][677]LogViewport: Scene viewport resized to 753x328, mode Windowed.
+[2023.10.20-19.04.14:925][678]LogViewport: Scene viewport resized to 753x327, mode Windowed.
+[2023.10.20-19.04.14:957][680]LogViewport: Scene viewport resized to 753x325, mode Windowed.
+[2023.10.20-19.04.14:974][681]LogViewport: Scene viewport resized to 753x323, mode Windowed.
+[2023.10.20-19.04.15:040][685]LogViewport: Scene viewport resized to 753x322, mode Windowed.
+[2023.10.20-19.04.15:058][686]LogViewport: Scene viewport resized to 753x317, mode Windowed.
+[2023.10.20-19.04.15:075][687]LogViewport: Scene viewport resized to 753x315, mode Windowed.
+[2023.10.20-19.04.15:092][688]LogViewport: Scene viewport resized to 753x313, mode Windowed.
+[2023.10.20-19.04.15:108][689]LogViewport: Scene viewport resized to 753x307, mode Windowed.
+[2023.10.20-19.04.15:124][690]LogViewport: Scene viewport resized to 753x300, mode Windowed.
+[2023.10.20-19.04.15:140][691]LogViewport: Scene viewport resized to 753x292, mode Windowed.
+[2023.10.20-19.04.15:158][692]LogViewport: Scene viewport resized to 753x282, mode Windowed.
+[2023.10.20-19.04.15:174][693]LogViewport: Scene viewport resized to 753x269, mode Windowed.
+[2023.10.20-19.04.15:191][694]LogViewport: Scene viewport resized to 753x260, mode Windowed.
+[2023.10.20-19.04.15:207][695]LogViewport: Scene viewport resized to 753x250, mode Windowed.
+[2023.10.20-19.04.15:225][696]LogViewport: Scene viewport resized to 753x244, mode Windowed.
+[2023.10.20-19.04.15:242][697]LogViewport: Scene viewport resized to 753x243, mode Windowed.
+[2023.10.20-19.04.15:274][699]LogViewport: Scene viewport resized to 753x240, mode Windowed.
+[2023.10.20-19.04.15:323][702]LogViewport: Scene viewport resized to 753x239, mode Windowed.
+[2023.10.20-19.04.15:357][704]LogViewport: Scene viewport resized to 753x240, mode Windowed.
+[2023.10.20-19.04.25:736][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.10.20-19.04.26:950][321]LogSlate: Window 'Save Content' being destroyed
+[2023.10.20-19.04.26:957][321]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.20-19.04.27:031][321]LogSavePackage: Moving output files for package: /Game/Widgets/CustomizeRock/CustomizeRockTestTemplate
+[2023.10.20-19.04.27:031][321]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/CustomizeRockTestTemplateE5D4FBAF4E8CA2A25FB20FBF9CEDFC34.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/CustomizeRock/CustomizeRockTestTemplate.uasset'
+[2023.10.20-19.04.27:176][321]LogSavePackage: Moving output files for package: /Game/Widgets/PauseMenu/PauseMenuWidget
+[2023.10.20-19.04.27:177][321]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/PauseMenuWidget5651372743FD494D9F07169A4F32D585.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/PauseMenu/PauseMenuWidget.uasset'
+[2023.10.20-19.04.27:204][321]LogSavePackage: Moving output files for package: /Game/Blueprints/PresetRocks/Preset_Rock_Parent
+[2023.10.20-19.04.27:205][321]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/Preset_Rock_Parent937B532A4DF08945C1161FA17C93CB24.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Blueprints/PresetRocks/Preset_Rock_Parent.uasset'
+[2023.10.20-19.04.27:246][321]LogSavePackage: Moving output files for package: /Game/Widgets/ActorSpawner/RockInventoryWidget
+[2023.10.20-19.04.27:247][321]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockInventoryWidget6DAC71E84B19F77C3F194A8BAF639225.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/ActorSpawner/RockInventoryWidget.uasset'
+[2023.10.20-19.04.27:275][321]LogSavePackage: Moving output files for package: /Game/Widgets/RockTest/RockWidgetTestTemplate
+[2023.10.20-19.04.27:275][321]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/RockWidgetTestTemplate3DCE341F43C9161396E52F8F5594B999.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/RockTest/RockWidgetTestTemplate.uasset'
+[2023.10.20-19.04.27:277][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Misc/SaveMapData" FILE="../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Misc/SaveMapData.uasset" SILENT=true
+[2023.10.20-19.04.27:280][321]LogSavePackage: Moving output files for package: /Game/Misc/SaveMapData
+[2023.10.20-19.04.27:280][321]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/SaveMapData640852A740E1EEBDA515EBAC70B8320A.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Misc/SaveMapData.uasset'
+[2023.10.20-19.04.27:289][321]LogFileHelpers: InternalPromptForCheckoutAndSave took 330 ms (total: 9.53 sec)
+[2023.10.20-19.04.27:298][321]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.20-19.04.27:298][321]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PresetRocks/Preset_Rock_Parent.Preset_Rock_Parent
+[2023.10.20-19.04.27:298][321]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/RockTest/RockWidgetTestTemplate.RockWidgetTestTemplate
+[2023.10.20-19.04.27:299][321]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Misc/SaveMapData.SaveMapData
+[2023.10.20-19.04.27:299][321]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/ActorSpawner/RockInventoryWidget.RockInventoryWidget
+[2023.10.20-19.04.27:300][321]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/CustomizeRock/CustomizeRockTestTemplate.CustomizeRockTestTemplate
+[2023.10.20-19.04.27:300][321]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/PauseMenu/PauseMenuWidget.PauseMenuWidget
+[2023.10.20-19.04.55:157][985]LogViewport: Scene viewport resized to 1526x242, mode Windowed.
+[2023.10.20-19.05.01:266][347]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/VirtualKeyboard/KeyTemplate.KeyTemplate
+[2023.10.20-19.05.01:266][347]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.20-19.05.01:266][347]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.20-19.05.01:272][347]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.20-19.05.01:272][347]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.20-19.05.02:523][410]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/VirtualKeyboard/VirtualKeyboard.VirtualKeyboard
+[2023.10.20-19.05.02:524][410]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.20-19.05.02:524][410]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.20-19.05.02:530][410]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.20-19.05.02:530][410]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.20-19.05.25:690][757]BlueprintLog: New page: Compile KeyTemplate
+[2023.10.20-19.05.25:844][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.10.20-19.05.25:924][757]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.20-19.05.26:017][757]LogSavePackage: Moving output files for package: /Game/Widgets/VirtualKeyboard/KeyTemplate
+[2023.10.20-19.05.26:018][757]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/KeyTemplateA22C36AD4DD87E3F483A5B94C7C98CF6.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/VirtualKeyboard/KeyTemplate.uasset'
+[2023.10.20-19.05.26:025][757]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 9.63 sec)
+[2023.10.20-19.05.26:033][757]AssetCheck: New page: Asset Save: KeyTemplate
+[2023.10.20-19.05.26:033][757]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/VirtualKeyboard/KeyTemplate.KeyTemplate
+[2023.10.20-19.05.26:412][771]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.20-19.05.26:499][771]LogSavePackage: Moving output files for package: /Game/Widgets/VirtualKeyboard/KeyTemplate
+[2023.10.20-19.05.26:500][771]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/KeyTemplate5E533F8C40DD49F223C391999B1F647C.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/VirtualKeyboard/KeyTemplate.uasset'
+[2023.10.20-19.05.26:508][771]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 9.73 sec)
+[2023.10.20-19.05.26:515][771]AssetCheck: New page: Asset Save: KeyTemplate
+[2023.10.20-19.05.26:515][771]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/VirtualKeyboard/KeyTemplate.KeyTemplate
+[2023.10.20-19.05.51:444][140]LogViewport: Scene viewport resized to 1014x155, mode Windowed.
+[2023.10.20-19.05.52:157][140]LogViewport: Scene viewport resized to 753x240, mode Windowed.
+[2023.10.20-19.05.56:047][370]LogSlate: Window 'VirtualKeyboard' being destroyed
+[2023.10.20-19.05.56:051][370]LogSlate: Window 'VirtualKeyboard' being destroyed
+[2023.10.20-19.05.56:061][370]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2023.10.20-19.05.56:061][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.20-19.05.56:076][370]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2023.10.20-19.05.56:076][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.20-19.05.56:152][370]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2023.10.20-19.05.56:152][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.20-19.05.56:166][370]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2023.10.20-19.05.56:166][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.20-19.06.00:286][614]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/MainMenu/MainMenuWidget.MainMenuWidget
+[2023.10.20-19.06.00:286][614]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.20-19.06.00:286][614]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.20-19.06.00:291][614]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.20-19.06.00:291][614]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.20-19.12.08:621][735]BlueprintLog: New page: Compile MainMenuWidget
+[2023.10.20-19.12.08:726][735]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.10.20-19.13.44:096][697]BlueprintLog: New page: Compile MainMenuWidget
+[2023.10.20-19.13.44:198][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.10.20-19.13.44:902][734]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.20-19.13.45:040][734]LogSavePackage: Moving output files for package: /Game/Widgets/MainMenu/MainMenuWidget
+[2023.10.20-19.13.45:041][734]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/MainMenuWidget3FA40C8E4099FE883C292FBF63325D47.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/MainMenu/MainMenuWidget.uasset'
+[2023.10.20-19.13.45:048][734]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 9.87 sec)
+[2023.10.20-19.13.45:060][734]AssetCheck: New page: Asset Save: MainMenuWidget
+[2023.10.20-19.13.45:060][734]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/MainMenu/MainMenuWidget.MainMenuWidget
+[2023.10.20-19.17.31:164][906]LogEditorTransaction: Undo Remove Graph
+[2023.10.20-19.17.34:622][ 73]LogEditorTransaction: Undo Remove Graph
+[2023.10.20-19.18.14:294][406]BlueprintLog: New page: Compile MainMenuWidget
+[2023.10.20-19.18.14:399][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.10.20-19.18.14:500][406]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.20-19.18.14:632][406]LogSavePackage: Moving output files for package: /Game/Widgets/MainMenu/MainMenuWidget
+[2023.10.20-19.18.14:633][406]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/MainMenuWidget294CD3674A83C7D0DC0C57A2C162DC7D.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/MainMenu/MainMenuWidget.uasset'
+[2023.10.20-19.18.14:643][406]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 10.0 sec)
+[2023.10.20-19.18.14:668][406]AssetCheck: New page: Asset Save: MainMenuWidget
+[2023.10.20-19.18.14:668][406]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/MainMenu/MainMenuWidget.MainMenuWidget
+[2023.10.20-19.19.15:109][797]BlueprintLog: New page: Compile MainMenuWidget
+[2023.10.20-19.19.15:209][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.10.20-19.19.16:175][845]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.20-19.19.16:303][845]LogSavePackage: Moving output files for package: /Game/Widgets/MainMenu/MainMenuWidget
+[2023.10.20-19.19.16:304][845]LogSavePackage: Moving '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/MainMenuWidget5871DB6B482330412D79FC8F9EBB77D7.tmp' to '../../../../../../Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Content/Widgets/MainMenu/MainMenuWidget.uasset'
+[2023.10.20-19.19.16:310][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 10.1 sec)
+[2023.10.20-19.19.16:321][845]AssetCheck: New page: Asset Save: MainMenuWidget
+[2023.10.20-19.19.16:321][845]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/MainMenu/MainMenuWidget.MainMenuWidget
+[2023.10.20-19.19.19:440][ 30]LogSlate: Window 'MainMenuWidget' being destroyed
+[2023.10.20-19.19.19:445][ 30]LogSlate: Window 'MainMenuWidget' being destroyed
+[2023.10.20-19.19.19:457][ 30]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2023.10.20-19.19.19:457][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.20-19.19.19:473][ 30]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2023.10.20-19.19.19:473][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.20-19.19.40:162][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.10.20-19.19.40:171][242]LogStall: Shutdown...
+[2023.10.20-19.19.40:174][242]LogStall: Shutdown complete.
+[2023.10.20-19.19.40:234][242]LogSlate: Window 'EAESFieldLabVR - Unreal Editor' being destroyed
+[2023.10.20-19.19.40:312][243]Cmd: QUIT_EDITOR
+[2023.10.20-19.19.40:312][243]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.10.20-19.19.40:315][243]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.10.20-19.19.40:315][243]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.10.20-19.19.40:315][243]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.10.20-19.19.40:315][243]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.10.20-19.19.40:315][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.20-19.19.40:316][243]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.10.20-19.19.41:211][243]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.10.20-19.19.41:211][243]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.10.20-19.19.41:211][243]LogAudio: Display: Audio Device unregistered from world 'MainMenuLevel'.
+[2023.10.20-19.19.41:211][243]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2023.10.20-19.19.41:211][243]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.10.20-19.19.41:211][243]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.10.20-19.19.41:212][243]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.10.20-19.19.41:219][243]LogAudio: Display: Audio Device Manager Shutdown
+[2023.10.20-19.19.41:220][243]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2023.10.20-19.19.41:226][243]LogExit: Preparing to exit.
+[2023.10.20-19.19.41:261][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.10.20-19.19.41:273][243]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.20-19.19.41:273][243]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.20-19.19.41:273][243]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.20-19.19.41:273][243]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.20-19.19.41:273][243]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.20-19.19.41:273][243]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.20-19.19.41:273][243]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.20-19.19.41:273][243]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.20-19.19.41:273][243]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.20-19.19.41:273][243]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.20-19.19.41:273][243]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.20-19.19.41:273][243]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.20-19.19.41:273][243]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.20-19.19.41:273][243]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.20-19.19.41:273][243]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.20-19.19.41:273][243]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.20-19.19.41:273][243]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.20-19.19.41:273][243]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.20-19.19.41:273][243]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.10.20-19.19.42:613][243]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.10.20-19.19.42:616][243]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.10.20-19.19.42:619][243]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.10.20-19.19.42:621][243]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.10.20-19.19.42:624][243]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.10.20-19.19.42:628][243]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.10.20-19.19.42:631][243]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.10.20-19.19.42:633][243]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.10.20-19.19.42:702][243]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.10.20-19.19.42:713][243]LogExit: Editor shut down
+[2023.10.20-19.19.42:715][243]LogExit: Transaction tracking system shut down
+[2023.10.20-19.19.42:917][243]LogExit: Object subsystem successfully closed.
+[2023.10.20-19.19.42:929][243]LogShaderCompilers: Display: ================================================
+[2023.10.20-19.19.42:929][243]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.20-19.19.42:929][243]LogShaderCompilers: Display: Total job queries 963, among them cache hits 828 (85.98%)
+[2023.10.20-19.19.42:929][243]LogShaderCompilers: Display: Tracking 135 distinct input hashes that result in 102 distinct outputs (75.56%)
+[2023.10.20-19.19.42:929][243]LogShaderCompilers: Display: RAM used: 4.30 MiB of 1.60 GiB budget. Usage: 0.26%
+[2023.10.20-19.19.42:929][243]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.20-19.19.42:929][243]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.20-19.19.42:929][243]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.10.20-19.19.42:929][243]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.20-19.19.42:929][243]LogShaderCompilers: Display: ================================================
+[2023.10.20-19.19.42:937][243]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.10.20-19.19.42:959][243]LogVirtualization: UE::Virtualization was shutdown
+[2023.10.20-19.19.43:003][243]LogModuleManager: Shutting down and abandoning module SequencerWidgets (1031)
+[2023.10.20-19.19.43:003][243]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1029)
+[2023.10.20-19.19.43:003][243]LogModuleManager: Shutting down and abandoning module Voice (1027)
+[2023.10.20-19.19.43:003][243]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1025)
+[2023.10.20-19.19.43:003][243]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (1023)
+[2023.10.20-19.19.43:003][243]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1021)
+[2023.10.20-19.19.43:003][243]LogModuleManager: Shutting down and abandoning module SceneOutliner (1019)
+[2023.10.20-19.19.43:003][243]LogModuleManager: Shutting down and abandoning module AddContentDialog (1017)
+[2023.10.20-19.19.43:003][243]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1016)
+[2023.10.20-19.19.43:003][243]LogModuleManager: Shutting down and abandoning module StatusBar (1013)
+[2023.10.20-19.19.43:003][243]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1011)
+[2023.10.20-19.19.43:003][243]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1009)
+[2023.10.20-19.19.43:003][243]LogModuleManager: Shutting down and abandoning module StatsViewer (1007)
+[2023.10.20-19.19.43:003][243]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1005)
+[2023.10.20-19.19.43:003][243]LogModuleManager: Shutting down and abandoning module AutomationWorker (1003)
+[2023.10.20-19.19.43:003][243]LogModuleManager: Shutting down and abandoning module OculusMR (1001)
+[2023.10.20-19.19.43:003][243]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (999)
+[2023.10.20-19.19.43:003][243]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (997)
+[2023.10.20-19.19.43:003][243]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (995)
+[2023.10.20-19.19.43:003][243]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (993)
+[2023.10.20-19.19.43:003][243]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (991)
+[2023.10.20-19.19.43:003][243]LogModuleManager: Shutting down and abandoning module WebMMedia (989)
+[2023.10.20-19.19.43:003][243]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (987)
+[2023.10.20-19.19.43:003][243]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (985)
+[2023.10.20-19.19.43:003][243]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (983)
+[2023.10.20-19.19.43:003][243]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (981)
+[2023.10.20-19.19.43:003][243]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (979)
+[2023.10.20-19.19.43:004][243]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (977)
+[2023.10.20-19.19.43:004][243]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (975)
+[2023.10.20-19.19.43:004][243]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (973)
+[2023.10.20-19.19.43:004][243]LogModuleManager: Shutting down and abandoning module IKRigEditor (971)
+[2023.10.20-19.19.43:004][243]LogModuleManager: Shutting down and abandoning module ControlRigEditor (969)
+[2023.10.20-19.19.43:004][243]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (967)
+[2023.10.20-19.19.43:004][243]LogModuleManager: Shutting down and abandoning module PlanarCut (965)
+[2023.10.20-19.19.43:004][243]LogModuleManager: Shutting down and abandoning module FractureEngine (963)
+[2023.10.20-19.19.43:004][243]LogModuleManager: Shutting down and abandoning module CharacterAI (961)
+[2023.10.20-19.19.43:004][243]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (959)
+[2023.10.20-19.19.43:004][243]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (957)
+[2023.10.20-19.19.43:004][243]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (955)
+[2023.10.20-19.19.43:004][243]LogModuleManager: Shutting down and abandoning module WaveTableEditor (953)
+[2023.10.20-19.19.43:004][243]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (951)
+[2023.10.20-19.19.43:004][243]LogModuleManager: Shutting down and abandoning module OpenXRInput (949)
+[2023.10.20-19.19.43:004][243]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.10.20-19.19.43:004][243]LogModuleManager: Shutting down and abandoning module GooglePADEditor (947)
+[2023.10.20-19.19.43:004][243]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (945)
+[2023.10.20-19.19.43:004][243]LogModuleManager: Shutting down and abandoning module SequenceRecorder (944)
+[2023.10.20-19.19.43:004][243]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (941)
+[2023.10.20-19.19.43:004][243]LogModuleManager: Shutting down and abandoning module TextureAlignMode (939)
+[2023.10.20-19.19.43:004][243]LogModuleManager: Shutting down and abandoning module BspMode (937)
+[2023.10.20-19.19.43:004][243]LogModuleManager: Shutting down and abandoning module GeometryMode (935)
+[2023.10.20-19.19.43:004][243]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (933)
+[2023.10.20-19.19.43:004][243]LogModuleManager: Shutting down and abandoning module SmartSnapping (931)
+[2023.10.20-19.19.43:004][243]LogModuleManager: Shutting down and abandoning module SessionServices (929)
+[2023.10.20-19.19.43:005][243]LogModuleManager: Shutting down and abandoning module MeshPaint (927)
+[2023.10.20-19.19.43:005][243]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (925)
+[2023.10.20-19.19.43:005][243]LogModuleManager: Shutting down and abandoning module PlacementMode (924)
+[2023.10.20-19.19.43:005][243]LogModuleManager: Shutting down and abandoning module FoliageEdit (921)
+[2023.10.20-19.19.43:005][243]LogModuleManager: Shutting down and abandoning module LandscapeEditor (919)
+[2023.10.20-19.19.43:005][243]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (917)
+[2023.10.20-19.19.43:005][243]LogModuleManager: Shutting down and abandoning module ActorPickerMode (915)
+[2023.10.20-19.19.43:005][243]LogModuleManager: Shutting down and abandoning module ViewportSnapping (913)
+[2023.10.20-19.19.43:005][243]LogModuleManager: Shutting down and abandoning module ViewportInteraction (911)
+[2023.10.20-19.19.43:005][243]LogModuleManager: Shutting down and abandoning module ClothPainter (909)
+[2023.10.20-19.19.43:005][243]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (908)
+[2023.10.20-19.19.43:005][243]LogModuleManager: Shutting down and abandoning module LogVisualizer (905)
+[2023.10.20-19.19.43:005][243]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (903)
+[2023.10.20-19.19.43:005][243]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (901)
+[2023.10.20-19.19.43:005][243]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (900)
+[2023.10.20-19.19.43:005][243]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (898)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (895)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (893)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (891)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (889)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (887)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (885)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module AnimationSettings (883)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (881)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module CSVtoSVG (879)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (877)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module EditorConfig (875)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module EditorFramework (873)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (871)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module TraceInsights (869)
+[2023.10.20-19.19.43:552][243]MemoryProfiler: Shutdown
+[2023.10.20-19.19.43:552][243]NetworkingProfiler: Shutdown
+[2023.10.20-19.19.43:552][243]LoadingProfiler: Shutdown
+[2023.10.20-19.19.43:552][243]TimingProfiler: Shutdown
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module TraceServices (868)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module TraceAnalysis (867)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (863)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (862)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module InputBindingEditor (859)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module MergeActors (857)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (855)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module LocalizationService (854)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module HardwareTargeting (851)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (849)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module UndoHistory (847)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module XmlParser (845)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module Blutility (843)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (841)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (840)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (837)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (836)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module SettingsEditor (833)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module ProjectLauncher (831)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module SessionFrontend (829)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module ProfilerClient (827)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module DeviceManager (825)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module AutomationController (823)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module AutomationWindow (821)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module Layers (819)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (817)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module DetailCustomizations (815)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module PackagesDialog (813)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (811)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module Persona (809)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (808)
+[2023.10.20-19.19.43:552][243]LogModuleManager: Shutting down and abandoning module Kismet (805)
+[2023.10.20-19.19.43:561][243]LogModuleManager: Shutting down and abandoning module KismetWidgets (804)
+[2023.10.20-19.19.43:561][243]LogModuleManager: Shutting down and abandoning module GraphEditor (801)
+[2023.10.20-19.19.43:561][243]LogModuleManager: Shutting down and abandoning module StructViewer (799)
+[2023.10.20-19.19.43:561][243]LogModuleManager: Shutting down and abandoning module ClassViewer (797)
+[2023.10.20-19.19.43:561][243]LogModuleManager: Shutting down and abandoning module NaniteTools (795)
+[2023.10.20-19.19.43:561][243]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (793)
+[2023.10.20-19.19.43:562][243]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (791)
+[2023.10.20-19.19.43:562][243]LogModuleManager: Shutting down and abandoning module SourceControlWindows (789)
+[2023.10.20-19.19.43:562][243]LogModuleManager: Shutting down and abandoning module OutputLog (787)
+[2023.10.20-19.19.43:563][243]LogModuleManager: Shutting down and abandoning module Documentation (785)
+[2023.10.20-19.19.43:563][243]LogModuleManager: Shutting down and abandoning module LiveCoding (783)
+[2023.10.20-19.19.43:577][243]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (781)
+[2023.10.20-19.19.43:577][243]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (779)
+[2023.10.20-19.19.43:577][243]LogModuleManager: Shutting down and abandoning module MovieScene (777)
+[2023.10.20-19.19.43:577][243]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (775)
+[2023.10.20-19.19.43:577][243]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (773)
+[2023.10.20-19.19.43:577][243]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (771)
+[2023.10.20-19.19.43:577][243]LogModuleManager: Shutting down and abandoning module AudioMixer (770)
+[2023.10.20-19.19.43:577][243]LogModuleManager: Shutting down and abandoning module AudioMixerCore (769)
+[2023.10.20-19.19.43:577][243]LogModuleManager: Shutting down and abandoning module LauncherPlatform (765)
+[2023.10.20-19.19.43:577][243]LogModuleManager: Shutting down and abandoning module AnalyticsET (763)
+[2023.10.20-19.19.43:577][243]LogModuleManager: Shutting down and abandoning module PortalServices (761)
+[2023.10.20-19.19.43:577][243]LogModuleManager: Shutting down and abandoning module PortalRpc (759)
+[2023.10.20-19.19.43:577][243]LogModuleManager: Shutting down and abandoning module MessagingRpc (757)
+[2023.10.20-19.19.43:577][243]LogModuleManager: Shutting down and abandoning module AIModule (755)
+[2023.10.20-19.19.43:577][243]LogModuleManager: Shutting down and abandoning module GameplayDebugger (754)
+[2023.10.20-19.19.43:577][243]LogModuleManager: Shutting down and abandoning module AITestSuite (752)
+[2023.10.20-19.19.43:577][243]LogModuleManager: Shutting down and abandoning module NavigationSystem (750)
+[2023.10.20-19.19.43:577][243]LogModuleManager: Shutting down and abandoning module DataLayerEditor (747)
+[2023.10.20-19.19.43:577][243]LogModuleManager: Shutting down and abandoning module EditorWidgets (746)
+[2023.10.20-19.19.43:577][243]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (743)
+[2023.10.20-19.19.43:577][243]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (741)
+[2023.10.20-19.19.43:577][243]LogModuleManager: Shutting down and abandoning module TypedElementFramework (739)
+[2023.10.20-19.19.43:577][243]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (737)
+[2023.10.20-19.19.43:577][243]LogModuleManager: Shutting down and abandoning module ProfilerService (735)
+[2023.10.20-19.19.43:824][243]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (733)
+[2023.10.20-19.19.43:824][243]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (731)
+[2023.10.20-19.19.43:824][243]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (729)
+[2023.10.20-19.19.43:824][243]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (727)
+[2023.10.20-19.19.43:824][243]LogModuleManager: Shutting down and abandoning module TakesCore (725)
+[2023.10.20-19.19.43:824][243]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (723)
+[2023.10.20-19.19.43:824][243]LogModuleManager: Shutting down and abandoning module MegascansPlugin (721)
+[2023.10.20-19.19.43:824][243]LogModuleManager: Shutting down and abandoning module Bridge (719)
+[2023.10.20-19.19.43:824][243]LogModuleManager: Shutting down and abandoning module RuntimeMeshLoader (717)
+[2023.10.20-19.19.43:824][243]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (715)
+[2023.10.20-19.19.43:824][243]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (713)
+[2023.10.20-19.19.43:824][243]LogModuleManager: Shutting down and abandoning module CollectionManager (712)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (709)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module OculusEditor (707)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module OculusInput (705)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module LightMixer (703)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (701)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (699)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module MediaPlate (697)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module MediaCompositing (695)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module ImgMedia (693)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module TakeSequencer (691)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module TakeMovieScene (689)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (687)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (685)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (683)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module InterchangePipelines (681)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module InterchangeExport (679)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module InterchangeMessages (677)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module InterchangeImport (675)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (673)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module InterchangeNodes (671)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (669)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (667)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (665)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module InterchangeEditor (663)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module ControlRigSpline (661)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (659)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (657)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module VariantManager (655)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (654)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (651)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (649)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module UVEditorTools (647)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module UVEditor (645)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module PresetAsset (643)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (641)
+[2023.10.20-19.19.43:825][243]LogOpenImageDenoise: OIDN shutting down
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (639)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (637)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (635)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (633)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (631)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (629)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (628)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (626)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (623)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module DataflowNodes (621)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (619)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module DataflowEditor (617)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (615)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (613)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module ChaosNiagara (611)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module FractureEditor (609)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (607)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (605)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module AutomationUtils (603)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module BackChannel (601)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (599)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module InterchangeTests (597)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (595)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module TemplateSequence (593)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (591)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module SequencerScripting (589)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module AlembicImporter (587)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module AlembicLibrary (586)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (583)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module SynthesisEditor (581)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module ResonanceAudio (579)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (577)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module OpenXREditor (575)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (573)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (571)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module InputDebugging (569)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (567)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module ModelingOperators (565)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (563)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module ModelingComponents (561)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module GeometryFramework (560)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (557)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module MeshModelingTools (555)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module GooglePAD (553)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module DynamicMesh (551)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (549)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (547)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module GeometryCache (545)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (543)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (541)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (539)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module AudioCapture (537)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (536)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module AssetTags (533)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (531)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (529)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module AppleImageUtils (527)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module AndroidPermission (525)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (523)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (521)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (519)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (517)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module PluginBrowser (515)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (513)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (511)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (509)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module GLTFImporter (507)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module GLTFCore (505)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module EditorDebugTools (503)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (501)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module CurveEditorTools (499)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (497)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module CryptoKeys (495)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module ChangelistReview (493)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (491)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (489)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (487)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module Paper2DEditor (485)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (481)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module UObjectPlugin (479)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (477)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (475)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (473)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module PluginUtils (471)
+[2023.10.20-19.19.43:825][243]LogModuleManager: Shutting down and abandoning module DumpGPUServices (469)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (467)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module GitSourceControl (465)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (463)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (461)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module TraceUtilities (459)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (457)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (455)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module InputEditor (453)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module BlueprintGraph (452)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module EAESFieldLabVR (449)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (447)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (445)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module IKRig (443)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (441)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module ControlRig (439)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module Constraints (438)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module AnimationData (435)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module GameplayCameras (433)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (431)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module PBIK (429)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module FullBodyIK (427)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (425)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module TakeRecorder (424)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module ChaosCaching (421)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module LevelSequence (420)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (417)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module Niagara (415)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module NiagaraEditor (414)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module NiagaraCore (411)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module ActorSequence (409)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (407)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module Synthesis (405)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module SoundFields (403)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module SignificanceManager (401)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (399)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (397)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module MetasoundEditor (395)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module AudioWidgets (394)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (393)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (389)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module MetasoundEngine (387)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module WaveTable (386)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (384)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (381)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (379)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (377)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (375)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (373)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (371)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module CableComponent (369)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (367)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (366)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (363)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module SignalProcessing (362)
+[2023.10.20-19.19.43:826][243]LogModuleManager: Shutting down and abandoning module UdpMessaging (359)
+[2023.10.20-19.19.43:927][243]LogModuleManager: Shutting down and abandoning module TcpMessaging (357)
+[2023.10.20-19.19.44:028][243]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (355)
+[2023.10.20-19.19.44:028][243]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (353)
+[2023.10.20-19.19.44:028][243]LogModuleManager: Shutting down and abandoning module FacialAnimation (351)
+[2023.10.20-19.19.44:028][243]LogModuleManager: Shutting down and abandoning module DataValidation (349)
+[2023.10.20-19.19.44:028][243]LogModuleManager: Shutting down and abandoning module Paper2D (347)
+[2023.10.20-19.19.44:028][243]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (345)
+[2023.10.20-19.19.44:028][243]LogModuleManager: Shutting down and abandoning module LevelEditor (344)
+[2023.10.20-19.19.44:036][243]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (343)
+[2023.10.20-19.19.44:036][243]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (341)
+[2023.10.20-19.19.44:036][243]LogModuleManager: Shutting down and abandoning module MainFrame (339)
+[2023.10.20-19.19.44:036][243]LogModuleManager: Shutting down and abandoning module HotReload (338)
+[2023.10.20-19.19.44:037][243]LogModuleManager: Shutting down and abandoning module ContentBrowser (334)
+[2023.10.20-19.19.44:037][243]LogModuleManager: Shutting down and abandoning module ToolMenus (333)
+[2023.10.20-19.19.44:037][243]LogModuleManager: Shutting down and abandoning module ContentBrowserData (331)
+[2023.10.20-19.19.44:037][243]LogModuleManager: Shutting down and abandoning module TreeMap (328)
+[2023.10.20-19.19.44:037][243]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (325)
+[2023.10.20-19.19.44:037][243]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (323)
+[2023.10.20-19.19.44:037][243]LogModuleManager: Shutting down and abandoning module AnimationSharing (321)
+[2023.10.20-19.19.44:037][243]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (319)
+[2023.10.20-19.19.44:037][243]LogModuleManager: Shutting down and abandoning module EnhancedInput (317)
+[2023.10.20-19.19.44:037][243]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (315)
+[2023.10.20-19.19.44:038][243]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (313)
+[2023.10.20-19.19.44:038][243]LogModuleManager: Shutting down and abandoning module AndroidFileServer (311)
+[2023.10.20-19.19.44:038][243]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (309)
+[2023.10.20-19.19.44:038][243]LogModuleManager: Shutting down and abandoning module PacketHandler (307)
+[2023.10.20-19.19.44:038][243]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (305)
+[2023.10.20-19.19.44:038][243]LogModuleManager: Shutting down and abandoning module AnimGraph (303)
+[2023.10.20-19.19.44:038][243]LogModuleManager: Shutting down and abandoning module TimeManagement (301)
+[2023.10.20-19.19.44:038][243]LogModuleManager: Shutting down and abandoning module AnimationDataController (299)
+[2023.10.20-19.19.44:038][243]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (297)
+[2023.10.20-19.19.44:038][243]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (295)
+[2023.10.20-19.19.44:038][243]LogModuleManager: Shutting down and abandoning module MediaAssets (293)
+[2023.10.20-19.19.44:038][243]LogModuleManager: Shutting down and abandoning module Overlay (291)
+[2023.10.20-19.19.44:039][243]LogModuleManager: Shutting down and abandoning module OverlayEditor (290)
+[2023.10.20-19.19.44:039][243]LogModuleManager: Shutting down and abandoning module VREditor (287)
+[2023.10.20-19.19.44:039][243]LogModuleManager: Shutting down and abandoning module StringTableEditor (285)
+[2023.10.20-19.19.44:039][243]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (283)
+[2023.10.20-19.19.44:039][243]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (281)
+[2023.10.20-19.19.44:039][243]LogModuleManager: Shutting down and abandoning module FunctionalTesting (279)
+[2023.10.20-19.19.44:039][243]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (277)
+[2023.10.20-19.19.44:039][243]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (276)
+[2023.10.20-19.19.44:039][243]LogModuleManager: Shutting down and abandoning module UMG (273)
+[2023.10.20-19.19.44:039][243]LogModuleManager: Shutting down and abandoning module UMGEditor (272)
+[2023.10.20-19.19.44:039][243]LogModuleManager: Shutting down and abandoning module EditorStyle (267)
+[2023.10.20-19.19.44:039][243]LogModuleManager: Shutting down and abandoning module SlateReflector (265)
+[2023.10.20-19.19.44:039][243]LogModuleManager: Shutting down and abandoning module Slate (263)
+[2023.10.20-19.19.44:039][243]LogModuleManager: Shutting down and abandoning module SlateCore (261)
+[2023.10.20-19.19.44:040][243]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (259)
+[2023.10.20-19.19.44:040][243]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (257)
+[2023.10.20-19.19.44:040][243]LogModuleManager: Shutting down and abandoning module UnrealEd (255)
+[2023.10.20-19.19.44:040][243]LogModuleManager: Shutting down and abandoning module MRMesh (253)
+[2023.10.20-19.19.44:040][243]LogModuleManager: Shutting down and abandoning module Messaging (251)
+[2023.10.20-19.19.44:040][243]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (249)
+[2023.10.20-19.19.44:040][243]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (247)
+[2023.10.20-19.19.44:040][243]LogModuleManager: Shutting down and abandoning module Networking (245)
+[2023.10.20-19.19.44:040][243]LogModuleManager: Shutting down and abandoning module Core (243)
+[2023.10.20-19.19.44:040][243]LogModuleManager: Shutting down and abandoning module AssetDefinition (241)
+[2023.10.20-19.19.44:040][243]LogModuleManager: Shutting down and abandoning module MovieSceneTools (239)
+[2023.10.20-19.19.44:040][243]LogModuleManager: Shutting down and abandoning module CurveEditor (238)
+[2023.10.20-19.19.44:040][243]LogModuleManager: Shutting down and abandoning module Sequencer (236)
+[2023.10.20-19.19.44:040][243]LogModuleManager: Shutting down and abandoning module KismetCompiler (233)
+[2023.10.20-19.19.44:040][243]LogModuleManager: Shutting down and abandoning module MeshBuilder (231)
+[2023.10.20-19.19.44:040][243]LogModuleManager: Shutting down and abandoning module NaniteBuilder (229)
+[2023.10.20-19.19.44:040][243]LogModuleManager: Shutting down and abandoning module MeshUtilities (227)
+[2023.10.20-19.19.44:040][243]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (226)
+[2023.10.20-19.19.44:040][243]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (225)
+[2023.10.20-19.19.44:040][243]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (224)
+[2023.10.20-19.19.44:040][243]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (222)
+[2023.10.20-19.19.44:040][243]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (220)
+[2023.10.20-19.19.44:040][243]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (218)
+[2023.10.20-19.19.44:040][243]LogModuleManager: Shutting down and abandoning module MaterialBaking (214)
+[2023.10.20-19.19.44:040][243]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (211)
+[2023.10.20-19.19.44:062][243]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (207)
+[2023.10.20-19.19.44:062][243]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (205)
+[2023.10.20-19.19.44:062][243]LogModuleManager: Shutting down and abandoning module DerivedDataCache (203)
+[2023.10.20-19.19.44:064][243]LogModuleManager: Shutting down and abandoning module TargetPlatform (201)
+[2023.10.20-19.19.44:064][243]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (200)
+[2023.10.20-19.19.44:064][243]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (198)
+[2023.10.20-19.19.44:064][243]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (196)
+[2023.10.20-19.19.44:064][243]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (194)
+[2023.10.20-19.19.44:064][243]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (192)
+[2023.10.20-19.19.44:064][243]LogModuleManager: Shutting down and abandoning module AudioFormatBink (190)
+[2023.10.20-19.19.44:064][243]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (187)
+[2023.10.20-19.19.44:064][243]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (185)
+[2023.10.20-19.19.44:064][243]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (183)
+[2023.10.20-19.19.44:064][243]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (181)
+[2023.10.20-19.19.44:064][243]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (179)
+[2023.10.20-19.19.44:064][243]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (177)
+[2023.10.20-19.19.44:064][243]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (175)
+[2023.10.20-19.19.44:064][243]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (173)
+[2023.10.20-19.19.44:064][243]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (171)
+[2023.10.20-19.19.44:064][243]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (169)
+[2023.10.20-19.19.44:064][243]LogModuleManager: Shutting down and abandoning module TextureFormat (167)
+[2023.10.20-19.19.44:064][243]LogModuleManager: Shutting down and abandoning module ImageWrapper (166)
+[2023.10.20-19.19.44:064][243]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (164)
+[2023.10.20-19.19.44:064][243]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (162)
+[2023.10.20-19.19.44:064][243]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (160)
+[2023.10.20-19.19.44:064][243]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (158)
+[2023.10.20-19.19.44:064][243]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (156)
+[2023.10.20-19.19.44:064][243]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (154)
+[2023.10.20-19.19.44:064][243]LogModuleManager: Shutting down and abandoning module TurnkeySupport (151)
+[2023.10.20-19.19.44:064][243]LogModuleManager: Shutting down and abandoning module InputCore (148)
+[2023.10.20-19.19.44:064][243]LogModuleManager: Shutting down and abandoning module Settings (146)
+[2023.10.20-19.19.44:064][243]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (144)
+[2023.10.20-19.19.44:065][243]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (142)
+[2023.10.20-19.19.44:065][243]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (141)
+[2023.10.20-19.19.44:065][243]LogModuleManager: Shutting down and abandoning module Chaos (138)
+[2023.10.20-19.19.44:065][243]LogModuleManager: Shutting down and abandoning module GeometryCore (137)
+[2023.10.20-19.19.44:065][243]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (134)
+[2023.10.20-19.19.44:065][243]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (133)
+[2023.10.20-19.19.44:065][243]LogModuleManager: Shutting down and abandoning module AVEncoder (132)
+[2023.10.20-19.19.44:065][243]LogModuleManager: Shutting down and abandoning module D3D12RHI (128)
+[2023.10.20-19.19.44:065][243]LogModuleManager: Shutting down and abandoning module OculusOpenXRHMD (126)
+[2023.10.20-19.19.44:065][243]LogModuleManager: Shutting down and abandoning module OculusHMD (124)
+[2023.10.20-19.19.44:065][243]LogModuleManager: Shutting down and abandoning module WmfMedia (122)
+[2023.10.20-19.19.44:066][243]LogModuleManager: Shutting down and abandoning module Media (121)
+[2023.10.20-19.19.44:067][243]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (118)
+[2023.10.20-19.19.44:067][243]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (116)
+[2023.10.20-19.19.44:067][243]LogModuleManager: Shutting down and abandoning module VariantManagerContent (114)
+[2023.10.20-19.19.44:067][243]LogModuleManager: Shutting down and abandoning module GLTFExporter (112)
+[2023.10.20-19.19.44:067][243]LogModuleManager: Shutting down and abandoning module DatasmithContent (110)
+[2023.10.20-19.19.44:068][243]LogModuleManager: Shutting down and abandoning module ChaosCloth (108)
+[2023.10.20-19.19.44:068][243]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (106)
+[2023.10.20-19.19.44:068][243]LogModuleManager: Shutting down and abandoning module NiagaraShader (104)
+[2023.10.20-19.19.44:068][243]LogModuleManager: Shutting down and abandoning module AISupportModule (102)
+[2023.10.20-19.19.44:068][243]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (100)
+[2023.10.20-19.19.44:068][243]LogModuleManager: Shutting down and abandoning module OpenXRAR (98)
+[2023.10.20-19.19.44:068][243]LogModuleManager: Shutting down and abandoning module AugmentedReality (97)
+[2023.10.20-19.19.44:068][243]LogModuleManager: Shutting down and abandoning module OpenXRHMD (94)
+[2023.10.20-19.19.44:073][243]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (92)
+[2023.10.20-19.19.44:073][243]LogModuleManager: Shutting down and abandoning module ChunkDownloader (90)
+[2023.10.20-19.19.44:073][243]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (88)
+[2023.10.20-19.19.44:073][243]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (86)
+[2023.10.20-19.19.44:073][243]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (84)
+[2023.10.20-19.19.44:074][243]LogModuleManager: Shutting down and abandoning module XMPP (79)
+[2023.10.20-19.19.44:075][243]LogModuleManager: Shutting down and abandoning module WebSockets (78)
+[2023.10.20-19.19.44:098][243]LogModuleManager: Shutting down and abandoning module HTTP (75)
+[2023.10.20-19.19.44:098][243]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2023.10.20-19.19.44:098][243]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1163747E-4601-FEA8-7E97-1D98705155A1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=c3ea49c449ae3ab0719fc1901d161583%7C5c98e0d3e2d44c3297c9bb070c6c104b%7Cb4985e58-1b04-4c17-bad1-e20394639c3b&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.10.20-19.19.44:133][243]LogModuleManager: Shutting down and abandoning module SSL (74)
+[2023.10.20-19.19.44:133][243]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (70)
+[2023.10.20-19.19.44:133][243]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (68)
+[2023.10.20-19.19.44:133][243]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (66)
+[2023.10.20-19.19.44:133][243]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (64)
+[2023.10.20-19.19.44:133][243]RenderDocPlugin: plugin has been unloaded.
+[2023.10.20-19.19.44:133][243]LogModuleManager: Shutting down and abandoning module PixWinPlugin (62)
+[2023.10.20-19.19.44:133][243]LogModuleManager: Shutting down and abandoning module DesktopPlatform (60)
+[2023.10.20-19.19.44:133][243]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (58)
+[2023.10.20-19.19.44:133][243]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (56)
+[2023.10.20-19.19.44:133][243]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (54)
+[2023.10.20-19.19.44:133][243]LogModuleManager: Shutting down and abandoning module PlatformCrypto (52)
+[2023.10.20-19.19.44:133][243]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (50)
+[2023.10.20-19.19.44:133][243]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (48)
+[2023.10.20-19.19.44:133][243]LogModuleManager: Shutting down and abandoning module SourceControl (47)
+[2023.10.20-19.19.44:133][243]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2023.10.20-19.19.44:133][243]LogXGEController: Cleaning working directory: C:/Users/300339869/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.10.20-19.19.44:134][243]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2023.10.20-19.19.44:134][243]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2023.10.20-19.19.44:134][243]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2023.10.20-19.19.44:134][243]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2023.10.20-19.19.44:134][243]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2023.10.20-19.19.44:134][243]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2023.10.20-19.19.44:134][243]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2023.10.20-19.19.44:134][243]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2023.10.20-19.19.44:134][243]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2023.10.20-19.19.44:134][243]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.10.20-19.19.44:135][243]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2023.10.20-19.19.44:135][243]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2023.10.20-19.19.44:136][243]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2023.10.20-19.19.44:136][243]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2023.10.20-19.19.44:136][243]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2023.10.20-19.19.44:136][243]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2023.10.20-19.19.44:136][243]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2023.10.20-19.19.44:136][243]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2023.10.20-19.19.44:136][243]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.10.20-19.19.44:136][243]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2023.10.20-19.19.44:136][243]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.10.20-19.19.44:506][243]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.10.20-19.19.44:538][243]LogExit: Exiting.
+[2023.10.20-19.19.44:580][243]Log file closed, 10/20/23 12:19:44
