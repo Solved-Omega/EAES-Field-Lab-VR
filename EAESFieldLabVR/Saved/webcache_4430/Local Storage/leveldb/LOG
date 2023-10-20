@@ -1,2 +1,3 @@
-2023/10/20-09:57:15.680 202c Creating DB C:/Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2023/10/20-09:57:15.703 202c Reusing MANIFEST C:/Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/10/20-10:24:42.010 2600 Reusing MANIFEST C:/Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/10/20-10:24:42.011 2600 Recovering log #3
+2023/10/20-10:24:42.011 2600 Reusing old log C:/Users/300339869/Documents/GitHub/EAES-Field-Lab-VR/EAESFieldLabVR/Saved/webcache_4430\Local Storage\leveldb/000003.log 
